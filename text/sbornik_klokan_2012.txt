@@ -1,0 +1,5996 @@
+Univerzita Palackého v Olomouci
+JČMF pobočka Olomouc
+
+Olomouc 2012
+
+Sborník sestavili:
+J. Molnár, Přírodovědecká fakulta UP v Olomouci
+B. Novák, Pedagogická fakulta UP v Olomouci
+E. Bártková, Pedagogická fakulta UP v Olomouci
+P. Calábek, Přírodovědecká fakulta UP v Olomouci
+D. Nocar, Pedagogická fakulta UP v Olomouci
+J. Hátle, Přírodovědecká fakulta UP v Olomouci
+
+Za jazykovou správnost jednotlivých kapitol odpovídají autoři.
+
+1. vydání
+Ed. © Jiří Hátle, 2012
+ISBN 978-80-244-3231-1
+
+OBSAH
+Úvodní slovo ……………………………………………………………………………….
+
+4
+
+Vývoj Matematického klokana
+Rok 2012 po kategoriích
+
+5
+6
+
+…………………………………………………………..
+…………………………………………………………..
+
+Cvrček
+Zadání soutěžních úloh ……………………………………………………………………. 7
+Správná řešení ……………………………………………………………………………. 10
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 11
+Graf ……………………………………………………………………………………… 12
+Nejlepší řešitelé ………………………………………………………………………….. 13
+Klokánek
+Zadání soutěžních úloh ……………………………………………………………………. 18
+Správná řešení …………………………………………………………………………….. 22
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 23
+Graf ……………………………………………………………………………………… 24
+Nejlepší řešitelé …………………………………………………………………………... 25
+Benjamín
+Zadání soutěžních úloh ………………………………………………………………….. 27
+Správná řešení …………………………………………………………………………….. 31
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 32
+Graf ……………………………………………………………………………………… 33
+Nejlepší řešitelé …………………………………………………………………………... 34
+Kadet
+Zadání soutěžních úloh …………………………………………………………………... 35
+Správná řešení …………………………………………………………………………….. 39
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 40
+Graf ……………………………………………………………………………………… 41
+Nejlepší řešitelé …………………………………………………………………………... 42
+Junior
+Zadání soutěžních úloh ……………………………………………………………………. 43
+Správná řešení …………………………………………………………………………….. 47
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 48
+Graf ……………………………………………………………………………………… 49
+Nejlepší řešitelé …………………………………………………………………………... 50
+Student
+Zadání soutěžních úloh ……………………………………………………………………. 51
+Správná řešení …………………………………………………………………………….. 55
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 56
+Graf ……………………………………………………………………………………… 57
+Nejlepší řešitelé …………………………………………………………………………... 58
+Garanti kategorií ………………………………………………………………………….. 59
+Kontakty ………………………………………………………………………………….. 60
+
+Úvodní slovo
+
+Vážení a milí přátelé Matematického klokana,
+v roce 2012 proběhl (proskákal?  ) náš milý Klokan 16. března, tentokrát už
+poosmnácté. Výsledky naleznete jako každoročně na http://matematickyklokan.net nebo
+pochopitelně v tomto sborníku. Připomeňme si, že pořadatelem je Jednota českých
+matematiků a fyziků, konkrétně její olomoucká pobočka. Na zajišťování obsahu a organizace
+se dále podílejí zejména Katedra algebry a geometrie Přírodovědecké fakulty a Katedra
+matematiky Pedagogické fakulty Univerzity Palackého v Olomouci. Soutěž je financována
+Ministerstvem školství a mládeže jako soutěž typu A (dle věstníku MŠMT ČR).
+V této souvislosti stojí za zmínku, že JČMF je společnost sdružující matematiky,
+fyziky, učitele a studenty matematiky a fyziky, další zájemce o tyto disciplíny a jejich přátele,
+která v tomto kalendářním roce oslavila 150 let svého trvání. Hlavní část oslav proběhla 28.
+3. v důstojném prostředí Karolina a Betlémské kaple v Praze, ale další akce na počest tohoto
+výročí se konaly pod patronací jednotlivých krajských poboček. Bližší informace nejen o
+těchto akcích, ale o všech aktivitách Jednoty naleznete na http://www.jcmf.cz/.
+Další kulatiny, které připadají na letošní kalendářní rok, slaví podzimní škola péče o
+talenty s mezinárodní účastí MAKOS, v jejímž rámci se mimo jiné konají též setkání
+krajských důvěrníků Přírodovědného i Matematického klokana.
+S plánovanými aktivitami, které pořádá Přírodovědecká fakulta UP a na které jste
+srdečně zváni, se můžete seznámit na www.prf. upol.cz.
+Pořadatelé
+PS: Podobné úvodní slovo naleznete též ve sborníku Přírodovědný klokan 2011/2012.
+
+4
+
+Vývoj Matematického klokana
+
+CVRČEK
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+
+11 076*
+46 832
+60 744
+70 942
+70 084
+78 291
+79 758
+84 221
+
+KLOKÁNEK
+6 205
+18 522
+61 161
+62 963
+87 885
+95 426
+93 434
+99 204
+83 584
+78 275
+70 886
+66 799
+70 705
+74 668
+75 624
+81 737
+84 031
+87 324
+
+BENJAMÍN
+7 834
+30 819
+59 314
+67 417
+79 717
+87 304
+86 458
+86 785
+74 112
+75 609
+72 090
+69 739
+66 840
+64 995
+64 258
+66 731
+65 461
+67 750
+
+KADET
+7 280
+27 262
+51 769
+57 653
+73 578
+81 893
+78 408
+81 440
+65 839
+68 324
+69 425
+69 104
+71 491
+69 734
+65 694
+63 412
+60 404
+61 010
+
+JUNIOR
+2 195
+6 148
+8 631
+11 580
+16 847
+20 384
+20 173
+20 479
+19 615
+17 345
+18 333
+18 003
+17 804
+19 101
+18 711
+18 711
+16 326
+15 021
+
+STUDENT
+1 297
+3 938
+7 349
+8 484
+6 606
+10 319
+11 228
+10 428
+9 879
+9 729
+10 690
+9 947
+10 274
+10 191
+10 599
+9 646
+8 721
+8 987
+
+* pouze experimentální ročník, výsledek nebyl zahrnut do celostátního sumáře
+
+350 000
+300 000
+250 000
+200 000
+150 000
+100 000
+50 000
+0
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+5
+
+CELKEM
+24 811
+86 689
+188 224
+208 097
+264 633
+295 326
+289 701
+298 336
+253 029
+249 282
+252 500
+280 424
+297 858
+309 631
+304 970
+318 528
+314 701
+324 313
+
+Rok 2012 po kategoriích
+
+90 000
+
+84 221
+
+87 324
+
+80 000
+70 000
+
+67 750
+
+61 010
+
+60 000
+50 000
+40 000
+30 000
+20 000
+
+15 021
+
+10 000
+
+8 987
+
+0
+Cvrček
+
+Klokánek
+
+Benjamín
+
+Kadet
+
+Junior
+
+Student
+
+Počty řešitelů, kteří získali plný počet bodů:
+Cvrček
+
+60 b
+
+získalo
+
+938 žáků
+
+Klokánek
+
+120 b
+
+získalo
+
+60 žáků
+
+Benjamín
+
+120 b
+
+získalo
+
+2 žáci
+
+Kadet
+
+120 b
+
+získalo
+
+4 žáci
+
+Junior
+
+120 b
+
+získali
+
+3 žáci
+
+Student
+
+120 b
+
+získali
+
+0 žáků
+
+6
+
+Matematický KLOKAN 2012
+www.matematickyklokan.net
+
+kategorie Cvrček
+
+Úlohy za 3 body
+
+1. Kolik nohou mají všechna zvířátka dohromady?
+
+(A) 5
+
+(B) 10
+
+(C) 12
+
+(D) 14
+
+(E) 20
+
+(C)
+
+(D)
+
+(E)
+
+C
+
+D
+
+E
+
+(C)
+
+(D)
+
+(E)
+
+2. Který tvar patří na prázdné místo?
+
+(A)
+
+(B)
+
+3. Která čára je nejdelší?
+A
+
+(A)
+
+B
+
+(B)
+
+7
+
+4. V pátek začne Dan tesat slovo CVRČEK. Každý den vytvoří jedno
+písmeno. Který den vytesá poslední písmeno?
+(A) v pondělí
+(D) ve čtvrtek
+
+(B) v úterý
+(E) v pátek
+
+(C) ve středu
+
+Úlohy za 4 body
+
+5. Na obrázku se Michal v lod’ce dívá ke břehu.
+Který odraz vidí na hladině?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+6. Eliška nasbírala 12 hříbků, Alice nasbírala 9 hříbků a Irena nenašla
+žádný. Děvčata dala všechny hříbky dohromady a rovným dílem si je
+mezi sebou rozdělila. Kolik hříbků dostala Irena?
+(A) 3
+
+(B) 7
+
+(C) 8
+
+(D) 9
+
+(E) 12
+
+7. Tatínek věší prádlo na šňůru. Na tři kapesníky
+použije 4 kolíčky. Kolik kolíčků potřebuje na
+pověšení 9 kapesníků?
+(A) 9
+
+(B) 10
+
+(C) 12
+
+(D) 16
+
+(E) 18
+
+8. Drak měl 3 hlavy. Pokaždé, když mu statečný rytíř jednu hlavu usekl,
+narostly drakovi tři hlavy nové. Rytíř již usekl drakovi dvě hlavy. Kolik
+hlav má drak nyní?
+(A) 4
+
+(B) 5
+
+(C) 6
+
+(D) 7
+
+8
+
+(E) 8
+
+Úlohy za 5 bodů
+9. Vrabčák Jack skáče z jedné tyčky na druhou. Každý skok mu trvá
+1 sekundu. Udělá vždy 4 skoky dopředu a 1 skok zpátky a zase 4 skoky
+dopředu a 1 skok zpátky atd. Za kolik sekund doskáče od startu do
+cíle?
+
+S
+T
+A
+R
+T
+(A) 10
+
+C
+Í
+L
+(B) 11
+
+(C) 12
+
+(D) 13
+
+(E) 14
+
+10. Babička upekla 11 koláčků. Každý ozdobila rozinkami nebo oříšky. Do
+5 koláčků dala rozinky, do 7 koláčků dala oříšky. Do kolika koláčků
+dala rozinky i oříšky?
+(A) 1
+
+(B) 2
+
+(C) 5
+
+(D) 7
+
+11. Doplň číslo na místo květiny.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+12. Na desce leží mince (podívej se na obrázek). Jana
+má odebrat několik mincí tak, aby v každém řádku
+a každém sloupci 2 mince zbyly. Kolik mincí Jana
+odebere?
+(A) 0
+
+(B) 1
+
+(C) 2
+
+(D) 3
+
+9
+
+(E) 4
+
+(E) 12
+
+1 + 2 = 3
+2 + 2 = 4
+2 + 3 = 5
+1 + 2 = 4
+
+Matematický KLOKAN 2012
+správná řešení soutěžních úloh
+
+Cvrček
+1 D, 2 B, 3 E, 4 C, 5 C, 6 B, 7 B, 8 D, 9 E, 10 A, 11 D, 12 C.
+
+10
+
+Výsledky soutěže
+CVRČEK 2012
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+938
+X
+X
+85
+432
+1324
+819
+131
+218
+898
+1531
+1733
+508
+487
+1248
+2067
+2115
+1240
+824
+1502
+
+2813
+2492
+1888
+1242
+1873
+2826
+3065
+2041
+1736
+1969
+2856
+3277
+2474
+1846
+2016
+2758
+2937
+2624
+1790
+1772
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+2269
+2671
+2044
+1455
+1302
+1646
+1974
+1309
+919
+592
+879
+794
+793
+166
+184
+214
+429
+38
+33
+61
+54
+
+celkový počet řešitelů: 84 221
+
+průměrný bodový zisk: 30,53
+
+11
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+Graf znázorňuje výsledky v kategorii Cvrček z tabulky „Výsledky soutěže“
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60
+
+Cvrček 2012
+
+Nejlepší řešitelé
+
+CVRČEK 2012
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+Vzhledem k velkému počtu úspěšných řešitelů nejsou uvedeny školy s adresou, kompletní
+údaje zájemci najdou na www.matematickyklokan.net.
+1. místo: 60 b
+Jihomoravský kraj
+Adéla Rohrerová
+Petra Fibingrová
+Ondřej Burian
+Monika Chrástková
+Anna Drobiličová
+Filip Grunský
+Adam Krška
+Monika Haiserová
+Jan Poláček
+Vera Chauvin
+Eliška Kmetová
+Mikuláš Svoboda
+Eva Sečkařová
+Adéla Hájková
+Anna Herzánová
+Lukáš Dobiáš
+Tamara Kalinová
+Anežka Babáková
+Vendula Komárková
+Evelína Staníková
+Dorian Viktora
+Adam Kozubek
+Petr Bílek
+
+Klára Jelenová
+Adam Petřivalský
+Jakub Pospíšil
+Veronika Skálová
+Julie Vyhnalíková
+Anna Veselá
+Eliška Párová
+Šárka Škondrová
+David Suchánek
+Lukáš Chromý
+Hana Blažková
+Markéta Nečasová
+Eliška Jordánková
+Daniel Burkart
+Jaromír Harásek
+Michael Svoboda
+Jan Nevěděl
+Ina Boháčková
+Barbora Daňková
+Julie Mlčáková
+David Franěk
+Jan Úkropec
+Patrik Košťál
+Vojtěch Holan
+
+Simona Täuberová
+Barbora Janošková
+Šárka Mrkosová
+David Gábel
+Lucie Kordulová
+Radek Bělík
+David Lorenc
+Filip Borúfka
+Terezie Bílá
+Tereza Ištoková
+Tereza Planetová
+Martin Kröner
+Žaneta Formánková
+Ondřej Chromý
+Julie Kašpárková
+Daniel Kománek
+Andrej Bružeňák
+Vojtěch Šimeček
+Kristýna Kosová
+Evžen Polenka
+Lucie Ruchortová
+Petra Kopecká
+Tomáš Houzar
+David Petečuk
+
+Robert Kudlička
+Patrik Lažek
+Tomáš Polák
+Simona Postránecká
+Renata Prášilíková
+Simona Skirková
+Klára Štěpánková
+Dominik Vespalec
+Gabriela Novotná
+Emma Bednaříková
+Hana Reiterová
+Anna Brodecká
+Daniel Svoboda
+Alena Chvátilová
+Marian Molnar
+Jan Stejskal
+Zuzana Faldynová
+Marek Mach
+Alžběta Velenová
+Samuel Hrazdira
+Veronika Roubalová
+Bedřich Horný
+Asia Cimmino
+Lukáš Rýznar
+
+Olomoucký kraj
+Lukáš Dvořák
+Radek Tichý
+Adéla Kaiserová
+Eliška Nowaková
+Adéla Schönweitzová
+František Světnický
+Monika Blinková
+Michaela Rotreklová
+Tomáš Solovský
+Michael Boxan
+Karolína Formánková
+Jan Lakomý
+Patrik Maleček
+
+Tereza Siková
+Adéla Jermářová
+Karolína Doleželová
+Pavel Pejř
+Michal Vojtěchovský
+Adéla Matiášová
+Julie Petříková
+Daniel Vykoupil
+Rostislav Nantl
+David Janíček
+Vojta Vyskočil
+Michal Krátký
+Filip Prokop
+Anna Langerová
+
+David Kryl
+Ondřej Kejval
+Martin Studnička
+Natalie Prokopová
+Tomáš Studnička
+David Atanasov
+Jakub Mikeš
+Lucie Haitlová
+David Klumpar
+Anna Krautwurstová
+Monika Tihelková
+Tereza Prudilová
+Klára Polednová
+Jakub Vágner
+
+Alexandra Jánová
+Prokop Ohlídal
+Jan Tabery
+Adam Doubrava
+Klára Edlerová
+Michal Mnich
+Petra Ambrožová
+Pavel Chmelář
+Kateřina Surmová
+Michal Urbánek
+Ondřej Spurný
+Lada Sedláčková
+David Papoušek
+Tomáš Hájek
+
+13
+
+Středočeský kraj
+Jakub Pelc
+Filip Nejezchleba
+Kristýna Holubová
+Andrej Hudák
+Václav Vaniš
+Tomáš Lapáček
+Lenka Provazníková
+Veronika Prokešová
+Daniela Janurová
+Nele Hálková
+Adéla Podnecká
+Lenka Neubergová
+Eliška Márová
+Jonáš Fischer
+Marcela Kašparová
+Emma Kodyšová
+Jiří Bohuslav
+Vojtěch Chytrý
+Vikrotie Suchá
+Patrik Jareš
+David Kosík
+Ondřej Číž
+Kateřina Capková
+Alžběta Kozlová
+Vít Skalický
+Daniel Fürst
+Dominika Vojtová
+Dominika Šrámková
+Michal Kahánek
+Tereza Hanzalová
+Michal Forejt
+Petr Pavlín
+Estella Yvonne
+Marlowe
+Jonáš Jelínek
+
+Dušan Vlasák
+Jonáš Jelínek
+Adam Kárník
+Andrea Špinková
+David Šprincl
+Vladimír Dolanský
+Daniela Volfová
+Anna Martínková
+Jan Karásek
+Adam Jelínek
+Tom Sebastian Riley
+Sára Kvízová
+Sabina Tomoriová
+Veronika Matějková
+Jakub Pulec
+Nikola Spěšný
+Melissa Valentová
+Daniel Michal
+Jakub Vrtiška
+Vojtěch Koželuha
+Filip Sequens
+Jiří Vrabec
+Matouš Kubín
+Jan Válek
+Tomáš Stehlík
+Ondřej Stehlík
+Alice Svrčková
+Filip Kropáček
+Marek Zatloukal
+Barbora Pokorná
+Marcela Kašparová
+Jan Hošek
+Kateřina Černá
+Adéla Hušková +
+Patrik Cinert
+
+Antonín Krejča
+Jan Šnaiberk
+Filip Krehza
+Lucie Nováková
+Kateřina Bartoňová
+Barbora Hrušková
+Anežka Hradcová
+Jaroslava Pažoutová
+Tereza Vrbová
+Karolína Knoblochová
+Ester Vandasová
+Jakub Vejtruba
+Petr Vondráček
+Ondřej Grundfest
+Adéla Benešová
+Veronika Malá
+Julie Skřivánková
+Kateřina Končická
+Viktorie Hanková
+Jan Votruba
+Vilém Rožek
+Ondřej Dubecký
+Marek Pulda
+Jakub Kopecký
+Kryštof Vilt
+Páris Papadopoulos
+Karolína Severová
+Dominik Váňa
+Emma Kodyšová
+Viktorie Suchá
+Vojtěch Chytrý
+Jiří Bohuslav
+Eliška Márová
+Marie Roubíková +
+Markéta Hončíková
+
+Kristýna Filipová
+Marek Pavlas
+Jan Hacken
+Jan Vrána
+Alžběta Měkotová
+Anna Táborská
+Matěj Nejedlý
+Anna Badalíková
+Tomáš Feigl
+Eliška Pinkasová
+Denisa Poláková
+Jennifer Řízková
+Anna Kubálková
+Adam Kavalier
+Vojtěch Holzman
+Marek Jirků
+Viktor Hýsek
+Josef Vávra
+Klaudie Kalašová
+Petr Eliáš
+Tereza Dolejšová
+Vladimír Jäger
+David Dvořák
+Vojta Novák
+Zuzana Volková
+Monika Tichá
+Matouš Banasinský
+František Konyvka
+Adéla Universalová
+Alžběta Kratochvílová
+Jonáš Fischer
+Eliška Míková
+Karolína Cimburková
+Marie Šmejkalová +
+Sára Trávníčková
+
+Kraj Vysočina
+Simona Šikulová
+Anežka Zobačová
+Martin Svoboda
+Nikola Bloudková
+Kristýna Slabá
+Jan Kučera
+Martina Adamcová
+Adam Hamrle
+Jakub Hunal
+Kateřina Šimečková
+Anna Bičíková
+Helena Malá
+Soňa Nekovářová
+Kristýna Šourková
+
+Ota Brzák
+Lenka Čechová
+Natálie Cejnková
+Matěj Venhoda
+Denisa Vítková
+Jakub Staněk
+Vít Brabenec
+Nikola Kročilová
+Matěj Mihulka
+Eilen Niederlfová
+Štěpán Stanislav Sukup
+Sabina Filová
+Natálie Smažilová
+Michaela Stará
+Natálie Palečková
+
+Veronika Švandová
+Aneta Stránská
+Zuzana Černá
+Klára Kubíčková
+Lucie Niklová
+Anna Slaninová
+Barbora Střípková
+Lucie Slatinská
+Lenka Mrázková
+Pavlína Chvátalová
+Lenka Pavlíčková
+Radka Hlouchová
+Sandra Čadová
+Alžběta Škodová
+Jan Kouřil
+
+Tomáš Gothard
+Adéla Chloupková
+Anna Kafková
+Bronislav Maštera
+Zdislava Podlešáková
+Lukáš Smejkal
+Eliška Svobodová
+Ondřej Baloun
+Martin Nováček
+Kateřina Nováčková
+Julie Šišlerová
+Mariana Špalíčková
+Jakub Kabelka
+Martin Štola
+Tomáš Čapoun
+
+14
+
+Moravskoslezský kraj
+Anna Freithová
+Miroslav Galusek
+Bára Škulířová
+Ondřej Tomala
+Denis Foldyn
+Aneta Bartoňová
+Robert Hlad
+Bára Sušková
+Daniel Kondělka
+Kim Kandráč
+Adéla Bitzánková
+Daniel Bělák
+Vojtěch Kostial
+Gabriel Szturc
+Veronika Sosnová
+Patrik Zielina
+Markéta Baleková
+Vendula
+Weissmannová
+
+Karolína Zemanová
+Jan Petkov
+Karolína Polochová
+Tereza Vlčková
+Jan Jureček
+Anežka Lyková
+Klára Kalužová
+Andreas Tsameti
+Valentýna Nováková
+Šimon Makovický
+František Urbiš
+Daniel Moravec
+Alžběta Kavanová
+Eliška Slípková
+Jan Tengler
+František Gurecký
+Martin Radek
+Radek Paršo
+
+Ondřej Marosz
+Marek Bialožyt
+Štěpánka Byrtusová
+Jan Roszka
+Anežka Bečáková
+Jan Dzuba
+Erik Bystroň
+Jakub Kotajny
+Jaroslava Pavelková
+Marek Maslowski
+Samuel Swienczyk
+Michael Hanus
+Karolína Bačová
+Marie Míčková
+Luděk Kubíček
+Tomáš Volný
+Robin Foldyna
+Zuzana Partiaková
+
+Jana Černá
+Tomáš Doleží
+Julie Smolková
+Tereza Pavinská
+Ondřej Kopia
+Eva Krzikallová
+Martin Fof
+Anna Stejskalová
+Tomáš Bažo
+Marta Čermáková
+Helena Dostálová
+Anežka Kopřivová
+Radim Babinec
+Jana Fárková
+Gerd Schmidt
+Anna Potschová
+Kristýna Košťálová
+Ondřej Trinkewitz
+
+Matyáš Heimerle
+
+Anna Kokořová
+
+Petr Poledna
+
+Plzeňský kraj
+Nátálie Schulzová
+Lucie Mužíková
+Jana Kučerová
+Veronika Šandarová
+Petr Smutný
+Pavel Choc
+Tomáš Kmoníček
+Václav Jonáš
+Tomáš Beran
+Vilém Hauer
+Jana Warthová
+Tereza Chudáčková
+Kateřina Jůzková
+Anna Sterlyová
+Karolína Havlánová
+Linda Lukešová
+Adam Mayer
+Vít Zábranský
+Zuzana
+Steinbrückerová
+
+Jakub Nový
+Michaela Míčková
+Jan Rejthar
+Vojtěch Sedláček
+Veronika Tvrdá
+Alžběta Koderová
+Ondřej Kops
+Jan Klíma
+Jindřich Blažek
+Matěj Urbanec
+Barbora Hanzlíčková
+Kristýna Kohoutová
+Michaela Bartičková
+Jakub Vokoun
+Nikola Pláničková
+Adéla Černá
+Sabina Moulisová
+Adéla Švehlová
+Marian Toth
+
+Jaroslav Brožík
+Julie Kocová
+Lukáš Pokorný
+Šárka Špilarová
+Tereza Kocurová
+Tomáš Marek
+Viktor Faiman
+Václav Kouřil
+Marek Malecha
+Erik Mládek
+Hana Pěchoučková
+Jan Kotschy
+Helena Pospíšilová
+Pavel Bošek
+Natálie Burešová
+Tereza Frančíková
+Tereza Karlovská
+Tereza Němcová
+Jana Zábrodská
+
+Filip Bláha
+Václav Tříska
+Lucie Bayerová
+Lukáš France
+Vojtěch Bořík
+Natálie Jandová
+Lukáš Mužík
+Jakub Pešek
+Tereza Svobodová
+Jiří Pivoňka
+Karel Babka
+Veronika Šlajsová
+Eva Trejbalová
+Pavel Kozler
+Kateřina Pancerová
+Karolína Loosová
+Veronika Janů
+Adriana Krákorová
+Eliška Zemanová
+
+Žaneta Veselá
+
+Matouš Brejcha
+
+Petra Hlavsová
+
+Královehradecký kraj
+Vojtěch Hovorka
+Michaela Fojtlová
+Marek Švegerka
+Filip Sefert
+Tereza Vašatová
+Adéla Šafrová
+Alan Šimek
+Ladislav Mezei
+
+Lucie Mottlová
+Jáchym Zamouřil
+Monika Ronešová
+Elena Balvínová
+Anna Klimentová
+Jan Kubec
+Nikola Lencová
+Václav Spudil
+Kristýna Mikysková
+
+Ondřej Svoboda
+Adéla Čechová
+Karolína Vokatá
+Dominik Rufer
+Ondřej Pitřinec
+Radek Turek
+Matyáš Machek
+Jáchym Hanuš
+Tomáš Sladký
+
+Gabriela Skaláková
+Veronika Novotná
+Vojtěch Palasman
+Veronika Kápičková
+Jakub Nesnídal
+Daniel Rejzek
+Pavla Sýkorová
+Jiří Netík
+
+15
+
+Praha
+Štěpán Brožek
+Aneta Trnková
+Vojtěch Tvrdík
+Martin Vrba
+Vincent Jung
+Kateřina Matějovcová
+Veronika Přibylová
+Matyáš Boháček
+Aleš Opl
+Šimon Sedlák
+Marek Trunečka
+Julie Kristová
+Elisabeth Kopfová
+Sára Čermáková
+Adéla Kulhavá
+Michal Hájek
+Filip Melka
+Anna Dvořáková
+Štěpánka Hammerová
+Jan Jedlička
+Matěj Pinkas
+Lucie Simonidesová
+Martin Slovák
+Kryštof Syrovátko
+Vojtěch Siegler
+Petr Křístek
+Milan Lulák
+Ondřej Loukotka
+Kryštof Latka
+Marika Jedličková
+Julius Tomsa
+Michaela Kratochvílová
+
+Dominik Fábera
+Tommy Chu
+Adam Babec
+Nikol Chaloupková
+Martin Koucký
+Ema Zeithammerová
+Rostyslav Kucherenko
+Kateřina Matějková
+Denisa Rozrložníková
+Adam Svěcený
+Jiří Zelenka
+Matěj Vondráček
+Adéla Archalousová
+Martin Šimša
+Jakub Hladík
+Martin Tartanov
+Kateřina Keprtová
+Tereza Kotová
+Jan Vaněček
+Tereza Dostalíková
+Anežka Hrdličková
+Mariane Gajdošová
+Zuzana Mervartová
+Beatricie Moulisová
+Lucie Pospíšilová
+Anna Dostálová
+Kristina Reblová
+Annna Jeníčková
+Daniel Kurka
+Tomáš Soukal
+Tereza Tomanová
+Max Vontroba
+
+Sebastian Valenta
+Lucie Brousková
+Adriana Fricová
+Monika Fricová
+Viktor Vojan
+Tadeáš Kříž
+Adam Kafka
+David Trneček
+Štěpánka Kolářová
+Lucie Zemanová
+Adam Šulc
+Jakub Mišner
+Markéta Ondřejová
+Sebastian A. Fišer
+Matěj Novák
+Katka Zapletalová
+Michal Menšík
+Adam Schmidtmayer
+Adam Zámečník
+Franta Kuchař
+Jakub Nápravník
+Ondřej Janeček
+Jana Bardonová
+Markéta Bardonová
+Adam Zahradník
+Šárka Špačková
+Barbora Fejfarová
+Jakub Jirsák
+Jan Ještický
+Jiří Tomášek
+Anna Hrubá
+Matouš Brodský
+
+Jakub John
+Vojtěch Zadražil
+Matyáš Kříha
+Sára Švábová
+Lukáš Valenta
+Tereza Marianová
+Filip Houdek
+Michael Höfner
+Ondřej Dobryj
+Karel Michel
+Karolína Šedová
+Stela Vinařová
+Kateřina Vilímová
+Lea Bořutová
+Matěj Bušek
+Jan Drmela
+Kateřina Štětinová
+Marie Marková
+Jakub Matoušek
+Robert Jaworski
+Tereza Vlčková
+Adéla Bradáčová
+Lucie Černá
+Tereza Rohlíková
+Tomáš Varga
+Kamila Zimová
+Michal Bednář
+Ariana Bedoya
+Jakub Kohout
+Marie Mlejnecká
+Ondřej Novák
+Karolína Zachová
+
+Zlínský kraj
+Antonie Beníčková
+Johana Branná
+Michaela Častulíková
+Valerián Daniel
+Jan Jindřich Dolanský
+Anna Dušková
+Adéla Filipová
+Dominika Filipová
+Patricie Frgalová
+David Fryšták
+Marie Galářová
+Nikol Gul'ová
+
+Jakub Novotný
+Tereza Orságová ml.
+Kryštof Pleva
+Lenka Popelková
+Robert Ptáček
+Václav Radoch
+Adam Řihák
+Michal Slavov
+Petr Slovák
+Veronika Straková
+Daniel Šácha
+Lucie Škrabanová
+David Šnajdr
+
+Eliška Chudárková
+Lenka Janíková
+Jana Magdalena Jara
+Alžběta Kocmanová
+Natálie Konečná
+Marek Kozlovský
+Eliška Křeménková
+Veronika Kubišová
+Barbora Lapinová
+Magdalena Laštovková
+Antonín Mandík
+Jakub Menšík
+Josef Měrka
+
+Prokop Tomšíček
+Alžběta Urbancová
+Vojtěch Valoušek
+Veronika Všetulová
+Ted Zahradil
+Magdaléna Omelková
+Natálie Chovancová
+Marie Holubářová
+Natálie Horenská
+Alexandra Šustková
+Jakub Tománek
+Alice Mikesková
+
+Karlovarský kraj
+Anna Rychlíková
+Adéla Kubincová
+Leon Ludvig
+Veronika Šindelářová
+
+Jakub Černý
+Jiří Hanke
+Andrea Herrgottová
+Josef Vosáhlo
+Dominik Černý
+
+Natalie Pušová
+Barbora Michalcová
+Jan Holubovský
+Jakub Orvoš
+
+Matyáš Bajgar
+Kryštof Mašek
+Jakub Nekvinda
+Michal Nguyen
+
+16
+
+Liberecký kraj
+Oldřich Hladík
+Kateřina Kolčová
+Jiřina Kroulová
+Anastázia Kobzareva
+Markéta Hošmánková
+Tomáš Osoba
+Tomáš Kudrnáč
+Jakub Vaníček
+
+Ondřej Lesák
+Lukáš Cafourek
+Ondřej Koucký
+Marie Malinovská
+Michal Kocour
+Veronika Danilová
+Kateřina Brožková
+Václav Břicháč
+Tereza Macháčková
+
+Eliška Halamová
+Jan Konrád
+Klára Kuříková
+Kristýna Stodolová
+Vít Štefan
+Pavlína Beranová
+Kateřina Novotná
+Leontýna Hartigová
+Petr Tužil
+Nicola Nayperková
+Jakub Jakubec
+Marek Baumann
+Anna Ficbauerová
+Jan Polák
+Martin Vrba
+Patrik Laner
+Amálie Pavlína Jindrová
+
+Ústecký kraj
+Matěj Mička
+Nikola Kusebauchová
+Anežka Jůzová
+Adéla Šťastná
+Lucie Teplanová
+Ondřej Svoboda
+Barbora Marcinová
+Natálie Kalašová
+Krupka Pavel
+Tereza Pechová
+
+Barbora Mihová
+Martin Kadlec
+Jan Prášek
+Filip Řáha
+Eliška Pavlíková
+Libor Sýkora
+Pavel Novák
+Zuzana Kodešová
+Aleš Stanislav
+Jakub Ryšánek
+Ilja Kurta
+
+Michal Kozák
+Karolína Černá
+Patrik Toifl
+Vojtěch Kysilka
+David Hoang
+Aleš Fiala
+Lubomír Hujer
+Linda Mayerová
+Pavel Slánský
+Jan Nedvěd
+
+Barbara Holincová
+Vítek Drapák
+David Kosek
+Veronika Steklá
+Filip Kondr
+Kocajová
+Marie Kostinová
+Jakub Kraus
+Jan Ostapowycz
+Tereza Vachtlová
+
+Jihočeský kraj
+Klára Pešlová
+Hana Havellová
+Jakub Rolínek
+Kristýna Janů
+Tomáš Alexa
+Klára Čížková
+Nikola Mrázová
+Marek Doležal
+Diana Kišová
+Veronika Kozáková
+
+Ladislav Nagy
+Dana Procházková
+Filip Novák
+Lucie Tlachačová
+Veronika Šímová
+Vít Horčička
+Rozálie Nováková
+Vavřinec Sláma
+Vojtěch Pobuda
+František Slavíček
+Jana Prokšteflová
+
+Adam Bednář
+Thuy Link Vu
+Jan Kolář
+Natálie Ošmerová
+Vojtěch Tesař
+Jakub Hrdlička
+Tereza Molzerová
+Olga Nová
+Kryštof Blažek
+Jaroslav Prokštefl
+Eliška Anna Kubíčková
+
+Filip Novák
+Petr Šíma
+Linda Kliková
+Marek Matoušek
+Linda Šedová
+Jakub Hembera
+Renata Charvátová
+Eliška Kunkalová
+Monika Šíslová
+Jana Dubová
+
+Pardubický kraj
+Petr Antoš
+Marek Buchtel
+Jakub Krupka
+Natálka Lupoměská
+Ondřej Novotný
+Michal Smetana
+Vojtěch Valenta
+Svatopluk Vaňous
+Filip Zavoral
+Adam Langr
+Adéla Bártová
+
+Martin Jílek
+Lucie Kolaříková
+Kamila Kučerová
+Lucie Motlová
+Michal Mrkos
+Eliška Peňázová
+Kateřina Sedláčková
+Jiřina Šimonová
+Matěj Till
+Eliška Troboková
+Eliška Kubešová
+
+Adéla Bajerová
+Daniel Mezera
+Nela Horáková
+Jan Livora
+Jindřich Pilař
+Kamil Kudrna
+Tomáš Kučera
+Lucie Volejníková
+Matěj Nádeník
+Matěj Sádovský
+Stanislav Kozák
+
+Jakub Šimek
+Ondřej Šimek
+Jan Kroutil
+Nikol Hofrichterová
+Ondřej Hylena
+Iva Čečotková
+Tomáš Netolický
+Martin Šimek
+Tomáš Pustějovský
+Vít Tintěra
+Romain Ronceray
+
+17
+
+Matematický KLOKAN 2012
+www.matematickyklokan.net
+
+kategorie Klokánek
+
+Úlohy za 3 body
+
+1. Bedřich píše slovo MATEMATIKA na list papíru. Různá písmena píše různými
+barvami, stejná písmena stejnou barvou. Kolik různých barev bude potřebovat?
+(A) 6
+
+(B) 7
+
+(C) 8
+
+(D) 10
+
+(E) 13
+
+2. Tatínek věší prádlo na šňůru. Na tři kapesníky použije 4 kolíčky. Kolik kolíčků potřebuje na pověšení
+9 kapesníků?
+(A) 9
+
+(B) 10
+
+(C) 12
+
+(D) 16
+
+(E) 18
+
+3. Na schovávanou si hraje 13 dětí. Jedno z nich hledá. Nalezeno už bylo 9 dětí. Kolik
+dětí je ještě schovaných?
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 9
+
+(E) 22
+
+4. Na čtyřech obrázcích je plocha bílé části čtverce stejně velká jako plocha šedé části.
+Na kterém obrázku má bílá část jinou velikost než šedá?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+A B C D
+
+5. Ilona vybarvila políčka A2, B1, B2, B3, B4, C3, D3 a D4. Který
+z vybarvených obrázků je její?
+A B C D
+
+(A)
+
+1
+2
+3
+4
+
+A B C D
+
+(B)
+
+1
+2
+3
+4
+
+A B C D
+
+(C)
+
+1
+2
+3
+4
+
+A B C D
+
+(D)
+
+18
+
+1
+2
+3
+4
+
+1
+2
+3
+4
+A B C D
+
+(E)
+
+1
+2
+3
+4
+
+6. Ivan a Jiří hrají šipky. Každý
+hodil 3 šipky (podívej se na
+obrázek). Kdo vyhrál a o kolik
+bodů více získal?
+
+1
+
+1
+
+2
+
+20
+
+(A) Ivan, získal o 3 body více.
+(B) Jiří, získal o 4 body více.
+(C) Ivan, získal o 2 body více.
+(D) Jiří, získal o 2 body více.
+(E) Ivan, získal o 4 body více.
+
+2
+
+20
+
+3
+60 75
+25
+70
+4
+15
+30
+65
+100
+60
+35
+10
+5
+55
+40
+45 50
+9
+6
+8
+7
+
+3
+60 75
+25
+70
+4
+15
+30
+65
+100
+60
+35
+10
+5
+55
+40
+45 50
+9
+6
+8
+7
+
+Ivan
+Mike
+
+Jiří
+Jake
+
+7. Rok 2012 je přestupný, to znamená, že únor má 29 dní. Dnes, 15. března, je
+dědečkovo kuřátko staré 20 dní. Kdy se vyklubalo z vajíčka?
+(A) 19. února
+
+(B) 21. února
+
+(C) 23. února
+
+(D) 24. února
+
+(E) 26. února
+
+8. Pepa vytvořil na stěně pravidelný vzor ze dvou
+druhů dlaždic: šedých a pruhovaných. Několik
+dlaždic ze zdi upadlo (podívej se na obrázek).
+Kolik šedých dlaždic chybí?
+(A) 9
+
+(B) 8
+
+(C) 7
+
+(D) 6
+
+(E) 5
+
+Úlohy za 4 body
+9. Jeden dílek stavebnice ve tvaru písmene L je vytvořen ze čtyř čtverečků
+(podívej se vpravo). Kolik z následujících tvarů může být sestaveno ze
+dvou takových dílků stavebnice?
+
+(A) 0
+
+(B) 1
+
+(C) 2
+
+(D) 3
+
+(E) 4
+
+10. Tři stejné balónky stojí o 12 korun více než jeden balónek. Kolik stojí jeden
+balónek?
+(A) 4
+
+(B) 6
+
+(C) 8
+
+(D) 10
+
+(E) 12
+
+11. Babička upekla pro svá vnoučata 20 perníčků. Každý ozdobila rozinkami nebo
+oříšky. Rozinkami ozdobila 15 perníčků, oříšky 15 perníčků. Do kolika perníčků
+dala rozinky i oříšky?
+(A) 4
+
+(B) 5
+
+(C) 6
+
+(D) 8
+
+19
+
+(E) 10
+
+1×1
+12. Ve hře sudoku se čísla 1, 2, 3 a 4 mohou vyskytovat
+pouze jednou v každém řádku a v každém sloupci.
+V matematickém sudoku musí Patrik nejprve vypočítat
+výsledky a teprve potom může dořešit sudoku. Které
+číslo zapíše Patrik do šedého políčka?
+(A) 1
+(D) 4
+
+(B) 2
+(E) 1 nebo 2
+
+(C) 3
+
+1×3
+
+2×2 6−3
+
+6−5
+
+4−1 1+3 8−7
+9−7 2−1
+
+13. Na vánoční besídce stálo celkem 15 svícnů. Pětiramenných bylo 6 svícnů, zbývající
+svícny byly trojramenné. Kolik svíček na slavnosti svítilo, když byly všechny
+rozsvícené a na každém rameni byla právě jedna svíčka?
+(A) 45
+
+(B) 50
+
+(C) 57
+
+(D) 60
+
+(E) 75
+
+14. Do zvířecí školy chodí 3 kot’ata, 4 káčátka, 2 housata a několik oveček. Jejich
+učitelka sova zjistila, že dohromady mají 44 nohou. Kolik je ve škole oveček?
+(A) 6
+
+(B) 5
+
+(C) 4
+
+(D) 3
+
+(E) 2
+
+15. Kvádr je sestaven ze čtyř dílů (podívej se na obrázek). Každý díl
+je tvořen ze 4 krychlí stejné barvy. Určete tvar bílé části.
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+16. Mezi Soninými spolužáky je dvakrát více děvčat než chlapců. Které z následujících
+čísel může udávat počet všech žáků v této třídě?
+(A) 30
+
+(B) 20
+
+(C) 24
+
+(D) 25
+
+(E) 29
+
+Úlohy za 5 bodů
+
+17. Kobylka skáče po schodišti. Umí jen dva
+druhy skoků: 3 schody nahoru nebo 4
+schody dolů. Začíná skákat z přízemí.
+Nejméně kolik skoků musí udělat, aby si
+odpočinula na 22. schodě?
+(A) 7
+
+(B) 9
+
+rd
+step
+3. 3schod
+nd
+step
+2. 2schod
+st
+step
+1. 1schod
+
+ground
+přízemí
+
+(C) 10 (D) 12 (E) 15
+
+20
+
+18. Franta sestavil „hada“ ze sedmi dílků domina. Přiložil vedle sebe vždy dílky se
+stejným počtem teček. Na všech dílcích hada bylo celkem 33 teček. Jeho bratr
+Jirka odstranil dva dílky (podívej se na obrázek). Kolik teček bylo původně na
+místě označeném otazníkem?
+?
+
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+19. Jirka zapsal dvě čísla pomocí číslic 1, 2, 3, 4, 5 a 6. Obě zapsaná čísla jsou
+trojciferná a každou z číslic použil právě jednou. Nakonec obě čísla sečetl. Urči
+největší možný součet.
+(A) 975
+
+(B) 999
+
+(C) 1083
+
+(D) 1173
+
+(E) 1221
+
+20. Lenka, Iva, Věra a Katka se chtěly spolu vyfotografovat. Katka a Lenka jsou
+nejlepší kamarádky, proto chtěly stát vedle sebe. Iva chtěla stát vedle Lenky,
+protože ji má ráda. Kolika způsoby se mohly postavit?
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+(E) 7
+11
+
+21. Na zvláštních hodinách jsou tři ručičky, které ukazují hodiny, minuty
+a sekundy. Nevíme, která ručička co ukazuje, ale víme, že hodiny jdou
+správně. Ve 12.55:30 byly ručičky na hodinách tak, jak je vidíš na
+obrázku vpravo. Které hodiny ukazovaly správný čas v 8.10:00 večer?
+11
+
+12
+
+1
+
+11
+2
+
+10
+
+(A) 9
+
+12
+
+1
+
+11
+2
+
+10
+
+(B) 9
+3
+
+8
+
+4
+7
+
+5
+
+1
+
+11
+2
+
+10
+
+(C) 9
+3
+
+8
+
+4
+7
+
+6
+
+12
+
+5
+
+4
+7
+
+5
+
+3
+
+9
+8
+
+4
+7
+
+5
+6
+12
+
+1
+2
+
+10
+
+(E) 9
+3
+
+8
+
+4
+7
+
+6
+
+2
+
+11
+2
+
+1
+
+10
+
+1
+
+10
+
+(D) 9
+3
+
+8
+
+6
+
+12
+
+12
+
+3
+
+8
+
+5
+
+4
+7
+
+6
+
+5
+6
+
+22. Michal si myslel číslo. Vynásobil ho sebou samým a přičetl 1. Výsledek vynásobil
+číslem 10, přičetl 3 a vynásobil čtyřmi. Dostal tak číslo 2012. Vyber číslo, na které
+Michal myslel?
+(A) 11
+
+(B) 9
+
+(C) 8
+
+(D) 7
+
+(E) 5
+
+23. Ve fotbalových zápasech získává vítězný tým 3 body a poražený 0 bodů. Pokud
+skončí zápas nerozhodně, oba týmy získají 1 bod. Tým, který odehrál 38 zápasů,
+získal 80 bodů. Najdi největší možný počet zápasů, které mohl prohrát.
+(A) 12
+
+(B) 11
+
+(C) 10
+
+(D) 9
+
+(E) 8
+
+24. Obdélníkový list papíru má šířku 192 mm a délku 84 mm. Odděl z něj jednou
+rovnou čarou čtverec. Ze zbylé části papíru opět odděl jednou rovnou čarou čtverec
+atd. Urči délku strany nejmenšího čtverce, který můžeš tímto postupem získat.
+(A) 1 mm
+
+(B) 4 mm
+
+(C) 6 mm
+
+21
+
+(D) 10 mm
+
+(E) 12 mm
+
+Matematický KLOKAN 2012
+správná řešení soutěžních úloh
+
+Klokánek
+1 A, 2 B, 3 A, 4 D, 5 C, 6 E, 7 D, 8 C, 9 E, 10 B, 11 E, 12 C, 13 C, 14 B, 15 D, 16 D,
+17 D, 18 C, 19 D, 20 B, 21 E, 22 D, 23 C, 24 E.
+
+22
+
+Výsledky soutěže
+KLOKÁNEK 2012
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+60
+X
+X
+4
+19
+73
+76
+12
+15
+33
+93
+116
+57
+22
+65
+143
+185
+137
+49
+92
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+176
+223
+221
+179
+158
+279
+329
+319
+273
+303
+312
+425
+461
+412
+481
+444
+517
+583
+616
+623
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+578
+654
+803
+827
+814
+832
+833
+956
+981
+1112
+1069
+1071
+1171
+1146
+1401
+1333
+1346
+1318
+1386
+1525
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+1548
+1514
+1551
+1627
+1655
+1668
+1693
+1603
+1735
+1837
+1812
+1688
+1734
+1685
+1727
+1799
+1646
+1633
+1566
+1648
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 87 324
+
+průměrný bodový zisk: 53,37
+
+23
+
+1574
+1484
+1521
+1390
+1485
+1321
+1238
+1216
+1194
+1172
+1044
+970
+972
+898
+792
+763
+756
+571
+604
+483
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+433
+387
+343
+294
+228
+184
+200
+151
+101
+83
+83
+70
+53
+32
+23
+27
+18
+8
+14
+5
+29
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+2000
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Klokánek z tabulky „Výsledky soutěže“
+
+30
+
+Klokánek 2012
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+KLOKÁNEK 2012
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Bald Gaston
+Bartoňová Klára
+Brada Jan
+Čech Lubor
+Čechová Andrea
+Děcký Martin
+Filip Dominik
+Flajsarová Alice
+Flek Adam
+Fof Martin
+Frýbortová Jiřina
+Gardoň Vít
+Háčka Jakub
+Hanzlová Denisa
+Hartman Štěpán
+Horn Tomáš
+Chwistek Karel
+Janoušková
+Magdalena
+Jeřábek Michal
+Kačenka Jan
+Kaifer Jan
+Klimešová Karolína
+Knobloch Vít
+Kohoutová Kateřina
+Kozák Jakub
+Krafková Kateřina
+Krátký Daniel
+Krejčová Kateřina
+Krejsa Richard
+Krpálek Ondřej
+Krtouš Michal
+Kučera Ondřej
+Kunická Michaela
+
+5.
+5. A
+4.B
+IV.A
+V
+5.C
+5. A
+5.A
+5.A
+
+Lacinová Barbora
+Mach Jan
+Mašková Ivana
+Mazáč Pavel
+
+5.B
+5.
+5. B
+5.
+
+5. B
+5.a
+5. B
+5.B
+5.B
+5.A
+4. tř.
+5.B
+5. A
+5.
+5.A
+5. B
+5. B
+5.B
+V.D
+5. B
+5.B
+5
+5.A
+5.
+5.
+5.A
+4.B
+
+ZŠ Brno, Řehořova 3, Brno 618 00
+ZŠ 8. května 63, Šumperk 787 01
+14. ZŠ, Zábělská 25, 312 00 Plzeň
+ZŠ, Valtická 3, Mikulov 692 01
+ZŠ a MŠ Brno, Staňkova 14, Brno 602 00
+Hálkova 4, Olomouc 779 00
+CMC ZŠ Lerchova 65, Brno 602 00
+ZŠ Dr. Horáka 24, Prostějov 796 01
+ZŠ; Školní 255; Loděnice
+Třemešná 341, 793 82 Třemešná
+ZŠ E. Valenty 52, Prostějov 79603
+ZŠ Březnice, Rožmitálská 419, Březnice
+ZŠ Žďár nad Sázavou, Švermova 4
+ZŠ Karlovy Vary, Poštovní 360 01 Karlovy Vary
+ZŠ Zlín, Kvítková, Kvítková 4338 Zlín 760 01
+ZŠ a MŠ, Kubatova 1, 370 04 České Budějovice
+ZŠ Opava, Otická 18, 746 01 Opava
+Základní škola a Mateřská škola Tupolevova, Dobratická 525,
+Praha 9 - Letňany, 199 04
+ZŠ a MŠ Brno, Blažkova 9, Brno 638 00
+ZŠ Tuchlovice, Školní 277, 273 02
+Žitomířská 885, Český Brod 28201
+ZŠ Žďár nad Sázavou, Švermova 4
+ZŠ, MOST, Rozmarýnová 1692, MOST, 434 01
+ZŠ a MŠ U Santošky 1, Praha 5-Smíchov, 15000
+Sirotkova 36, Brno 616 00
+ZŠ Třešť
+Základní škola, Trutnov, R. Frimla 816, 541 01
+ZŠ Univerzum, Českolipská 373, 190 00 Praha 9
+ZŠ J. A. Komenského, Náměstí Republiky 10, Brno 614 00
+ZŠ Sídliště 375, 250 67 Klecany
+ZŠ Zdiby
+ZŠ a MŠ J. Železného, Sídl. svobody 24/79, Prostějov 796 01
+Masarykova ZŠ a MŠ Velká Bystřice, 8. května 67, Velká
+Bystřice 783 53
+ZŠ Generála Janouška 1006, Praha 9
+ZŠ a MŠ; Osek 200; Komárov
+ZŠ Žďár nad Sázavou, Švermova 4
+ZŠ Vyškov, Na Vyhlídce 12, 682 01 Vyškov
+
+25
+
+5. A
+Med Ondřej
+Mišinová Magdalena 4.A
+5.C
+Moravec Matouš
+
+Náhlovský Dominik
+Obrovská Anna
+Pavlíková Markéta
+Pazourová Viktorie
+Pivnička Martin
+Procházka Martin
+Rössler Martin
+Siegl Jan
+Skalský Alexandr
+Sláma Ondřej
+Stoček Jakub
+Tichá Michaela
+Vaněk Jakub
+Vávra David
+Veselý Lukáš
+Vlček Filip
+Vomelová Lucie
+Wagner Filip
+Zamazal Kryštof
+Žak Vojtěch
+
+V.A
+5.
+5B
+5. B
+5.A
+4.C
+5. A
+4. A
+III.A
+5.
+V.B
+5B
+5B
+5.A
+5. A
+5.B
+5. B
+5.C
+5. C
+5.B
+
+ZŠ Jihlava, Havlíčkova
+ZŠ Dolákova 1/555,Praha 8,181 00
+Základní škola, Fakultní škola Pedagogické fakulty UK, Praha
+2, Slovenská 27, 120 00
+Základní škola Kutná Hora, Kremnická 98
+SMZŠ Rozmarýnová 3, Brno 637 00
+ZŠ Ještědská, Ještědská 354/88, 460 08 Liberec 8
+ZŠ Žďár nad Sázavou, Švermova 4
+ZŠ Hudcova 35, Brno 621 00
+ZŠ Komenského nám. 91,293 01 Mladá Boleslav
+Základní škola, Hornická 1325, 347 01 Tachov
+NOVÝ PORG, Pod Krčským lesem 1300/25, Praha 4, 142 05
+ZŠ Josefa Bublíka, Bánov 507, 687 54
+ZŠ, Hlavní 82, Dolní Dunajovice 691 85
+Hloubětínská 700, 198 00 Praha 9
+ZŠ Mozartova 24, 466 04 Jablonec nad Nisou
+ZŠ a MŠ Kladno, Ukrajinská 2447, Kladno
+ZŠ Ke Kateřinkám1400, 149 00 Praha 4
+ZŠ Jihlava, Otokara Březiny
+ZŠ Komenského I, Havlíčkovo nábř. 3114, 760 01 Zlín
+ZŠ Žernosecká, Žernosecká 1597, Praha 8 182 00
+ZŠ, nám. 28. října 1708, Tišnov 666 01
+CMC ZŠ Lerchova 65, Brno 602 00
+Litvínovská 500, Praha 9 - Prosek, 190 00
+
+26
+
+Matematický KLOKAN 2012
+www.matematickyklokan.net
+
+kategorie Benjamín
+Úlohy za 3 body
+1. Petr psal na list papíru slova KLOKAN BENJAMÍN. Různá písmena psal různými
+pastelkami, stejná písmena stejnou pastelkou. Kolik různých pastelek potřeboval?
+(A) 7
+
+(B) 8
+
+(C) 9
+
+(D) 10
+
+(E) 13
+
+2. Šárka vložila do čtverce vytvořeného ze čtyř zápalek 4 mince
+(podívej se na obrázek). Urči nejmenší možný počet zápalek,
+které bude potřebovat k vytvoření čtverce, do kterého by se
+vešlo 16 mincí. Mince se nesmí překrývat.
+(C) 12
+
+(D) 15
+
+o
+
+(B) 10
+
+ro
+
+(A) 8
+
+kan
+ga
+
+(E) 16
+
+3. V letadle jsou řady sedadel označeny čísly od 1 do 25, řada číslo 13 v něm však
+není. Patnáctá řada má pouze 4 sedadla pro cestující, všechny ostatní řady mají
+sedadel 6. Kolik míst pro cestující je v letadle?
+(A) 120
+
+(B) 138
+
+(C) 142
+
+(D) 144
+
+(E) 150
+
+4. K číslu 6 přičti číslo 3, výsledek vynásob 2 a ještě přičti 1. Konečný výsledek bude
+stejný jako hodnota výrazu:
+(A) (6 + 3 · 2) + 1
+(D) (6 + 3) · 2 + 1
+
+(B) 6 + 3 · 2 + 1
+(E) 6 + 3 · (2 + 1)
+
+(C) (6 + 3) · (2 + 1)
+
+5. Když je v Londýně 16 hodin, je v Madridu 17 hodin a v San Francisku 8 hodin téhož
+dne. María volala v pátek v 21 hodin ze San Franciska své mamince do Madridu.
+Kolik hodin v té chvíli v Madridu bylo?
+(A) 6 hodin v pátek
+(C) 12 hodin v pátek
+(E) 6 hodin v sobotu
+
+(B) 18 hodin v pátek
+(D) půlnoc z pátku na sobotu
+
+6. Na obrázku vpravo vidíš obrazec složený z pravidelných šestiúhelníků. Pokud budeme kreslit nový obrazec tak, že navzájem spojíme
+všechny středy sousedících šestiúhelníků, který z obrazců (A)–(E)
+dostaneme?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+27
+
+(E)
+
+7. Horní mince se beze skluzu otáčí kolem upevněné dolní mince do
+polohy na obrázku vpravo. Jaká bude výsledná pozice klokanů na
+mincích?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E) závisí na rychlosti otáčení
+
+8. Lucka a Jirka dostali od své babičky jablka a hrušky. V košíku měli celkem 25
+kusů ovoce. Po cestě domů Lucka snědla jedno jablko a tři hrušky, Jirka snědl tři
+jablka a dvě hrušky. Doma zjistili, že přinesli stejný počet hrušek a jablek. Kolik
+hrušek dostali od své babičky?
+(A) 12
+
+(B) 13
+
+(C) 16
+
+(D) 20
+
+(E) 21
+
+Úlohy za 4 body
+
+9. Které tři z očíslovaných dílků puzzle musíš
+přiložit k obrázku vlevo, abychom obdrželi
+čtverec?
+(A) 1, 3, 4
+(D) 2, 3, 6
+
+(B) 1, 3, 6
+(E) 2, 5, 6
+
+(C) 2, 3, 5
+
+10. Lenka má 8 krychlí. Každá krychle má na všech svých stěnách
+jedno z písmen A, B, C a D. Lenka z nich postavila stavbu na
+obrázku. Dvě sousední krychle mají na stěnách vždy různá písmena. Jaké písmeno je na krychli, kterou na obrázku nevidíme?
+(A) A
+(D) D
+
+(B) B
+(E) nelze říci
+
+(C) C
+
+11. V Říši divů je 5 velkých měst. Každá dvě města jsou
+spojena jednou silnicí. Některé ze silnic jsou viditelné,
+jiné ne. Na mapě Říše divů je zakresleno jen sedm
+viditelných silnic (podívej se na obrázek). Alenka má
+magické brýle: při pohledu na mapu s nimi vidí pouze
+silnice, které jsou jinak neviditelné. Kolik neviditelných
+cest vidí?
+(A) 9
+
+(B) 8
+
+(C) 7
+
+(D) 3
+
+(E) 2
+
+28
+
+11
+
+22
+
+33
+
+44
+
+55
+
+66
+
+B DC A
+
+B D D A
+A B B D
+
+12. Přiřad’me přirozeným číslům barvy: červenou barvu číslům 1, 4, 7, . . ., modrou
+barvu číslům 2, 5, 8, . . . a zelenou barvu číslům 3, 6, 9, . . . Jakou barvu bude mít
+součet, sečteme-li červené číslo s modrým?
+(A) modrou nebo zelenou
+(C) pouze zelenou
+(E) pouze modrou
+
+(B) červenou nebo modrou
+(D) pouze červenou
+
+13. Obvod obrazce složeného ze shodných čtverců je roven 42 cm.
+Urči jeho obsah.
+(A) 128 cm2 (B) 72 cm2
+
+(C) 24 cm2
+
+(D) 9 cm2
+
+(E) 8 cm2
+
+14. Oba obrazce na obrázku jsou složeny z pěti stejných
+částí. Obdélník má rozměry 5×10 centimetrů a ostatní
+části jsou čtvrtinami dvou různých kruhů. Urči rozdíl
+mezi obvody obou obrazců.
+(A) 2,5 cm
+(D) 20 cm
+
+(B) 5 cm
+(E) 30 cm
+
+(C) 10 cm
+
+15. Klokani Hop a Hip hráli skákanou přes tři kameny. Podle pravidel hry museli
+kámen přeskočit vždy tak, aby ležel ve středu dráhy mezi odrazem a dopadem. Na
+levém obrázku je znázorněno, jak kameny přeskákal Hop. (Kameny jsou označeny
+čísly 1, 2 a 3). Klokan Hip skákal přes kameny ve stejném pořadí jako Hop, ale
+startoval z jiného místa, které je vyznačené na obrázku vpravo. Rozhodni, které
+z míst A, B, C, D, E bude místem Hipova posledního dopadu.
+2
+
+2
+
+3
+
+1
+
+1
+
+Cíl
+Hip
+Hop
+(A) A
+
+(B) B
+
+(C) C
+
+3
+
+A
+B
+
+C
+D
+
+E
+
+(D) D
+
+(E) E
+
+(D)
+
+(E)
+
+16. Papírový osmiúhelník jsme třikrát přeložili na poloviny, čímž jsme získali
+trojúhelník. Z něj jsme odstřihli jeden
+z vrcholů (viz obrázek). Jak bude papír
+po rozložení vypadat?
+
+(A)
+
+(B)
+
+(C)
+
+29
+
+Úlohy za 5 bodů
+17. Na oslavě narozenin bylo 12 dětí ve věku 6, 7, 8, 9 a 10 let. Čtyřem dětem bylo 6
+let, nejvíce dětí bylo osmiletých. Jaký byl průměrný věk dětí na oslavě?
+(A) 6
+
+(B) 6,5
+
+(C) 7
+
+(D) 7,5
+
+(E) 8
+
+18. Obdélník ABCD jsme rozřezali na 4 menší obdélníky tak, jak je
+to znázorněno na obrázku. Obvody tří z „nařezaných“ obdélníků D
+jsou 11 cm, 16 cm a 19 cm. Obvod čtvrtého obdélníku neznáme,
+ale víme, že nebude ani nejmenší, ani největší. Jaký je obvod
+obdélníku ABCD?
+A
+(A) 28 cm (B) 30 cm (C) 32 cm (D) 38 cm (E) 40 cm
+
+C
+
+B
+
+19. Do políček na kružnici jsou vepsána čísla od 1 do 12 tak, že rozdíl
+dvou sousedních čísel je 1 nebo 2. Která dvě čísla jsou vepsána
+v sousedních polích?
+(A) 8 a 10
+
+(B) 10 a 9
+
+(C) 6 a 7
+
+(D) 4 a 3
+
+(E) 5 a 6
+
+20. Pavel chtěl rozstříhat papír tvaru obdélníku se stranami 6 cm a 7 cm na menší
+čtverce tak, aby každá ze stran měla délku vyjádřenou celým číslem. Urči nejmenší
+počet čtverců, na který je možné obdélník rozstříhat.
+(A) 4
+
+(B) 5
+
+(C) 7
+
+(D) 9
+
+(E) 42
+
+21. Eva vybarvila některá políčka tabulky se čtyřmi řádky a čtyřmi sloupci. Potom
+ke každému řádku i sloupci připsala počet jejich obarvených políček a obarvená
+políčka smazala. Kterou z tabulek mohla vyplnit?
+4
+2
+1 (C)
+1
+
+1
+2
+1 (B)
+3
+
+(A)
+2 2 3 1
+
+0 3 3 2
+
+3
+3
+0 (E)
+0
+
+2
+1
+2 (D)
+2
+2 1 2 2
+
+1 3 1 1
+
+0
+3
+3
+1
+0 3 1 3
+
+22. Gumový míč padá ze střechy domu z výšky deseti metrů. Při každém dopadu na
+zem se odrazí zpět do 54 předchozí výšky. Kolikrát se míč objeví před oknem, jehož
+spodní okraj je ve výšce pěti metrů a horní okraj ve výšce šesti metrů?
+(A) 4
+
+(B) 5
+
+(C) 6
+
+(D) 7
+
+(E) 8
+
+(D) 14 cm2
+
+(E) 16 cm2
+
+23. Čtverec vystřižený z listu papíru byl dvakrát
+přeložen tak, jak je znázorněno na obrázku.
+Určete součet obsahů zvýrazněných obdélníků, jestliže obsah původního čtverce byl
+64 cm2 .
+(A) 8 cm2
+
+(B) 10 cm2
+
+(C) 12 cm2
+
+24. Součet trojciferného čísla ABC, dvojciferného čísla BC a jednociferného čísla C je
+912. Urči hodnotu číslice B.
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+30
+
+(E) 0
+
+Matematický KLOKAN 2012
+správná řešení soutěžních úloh
+
+Benjamín
+1 D, 2 A, 3 C, 4 D, 5 E, 6 C, 7 A, 8 B, 9 D, 10 B, 11 D, 12 C, 13 B, 14 D, 15 D, 16 C,
+17 D, 18 B, 19 A, 20 B, 21 C, 22 C, 23 E, 24 C.
+
+31
+
+Výsledky soutěže
+BENJAMÍN 2012
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+2
+0
+0
+0
+3
+4
+12
+1
+1
+0
+9
+18
+13
+2
+8
+28
+29
+27
+14
+14
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+33
+47
+38
+31
+34
+43
+67
+78
+60
+62
+76
+123
+104
+112
+120
+130
+168
+147
+154
+195
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+199
+216
+237
+300
+277
+305
+313
+351
+408
+431
+453
+482
+548
+500
+558
+639
+674
+678
+797
+739
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+798
+959
+1040
+1065
+1102
+1076
+1230
+1304
+1239
+1413
+1333
+1446
+1610
+1618
+1644
+1622
+1763
+1728
+1801
+1727
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 67 750
+
+průměrný bodový zisk: 44,79
+
+32
+
+1654
+1748
+1737
+1673
+1602
+1564
+1584
+1505
+1459
+1261
+1379
+1315
+1174
+1079
+999
+982
+935
+764
+642
+614
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+580
+525
+386
+342
+304
+298
+232
+167
+100
+113
+98
+68
+55
+12
+37
+49
+34
+2
+5
+5
+38
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+2000
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Benjamín z tabulky „Výsledky soutěže“
+
+30
+
+Benjamín 2012
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+BENJAMÍN 2012
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Ondřej Buček
+
+VII. C
+
+ZŠ a MŠ Brno, Křídlovická 30 b, 603 00
+
+Adéla Hanková
+
+Sk
+
+Gymnázium Lovosice
+
+34
+
+Matematický KLOKAN 2012
+www.matematickyklokan.net
+
+kategorie Kadet
+
+Úlohy za 3 body
+
+1. Čtyři tabulky čokolády stojí o 6 euro víc než jedna tabulka. Jaká je cena jedné
+tabulky čokolády?
+(A) 1 euro
+
+(B) 2 eura
+
+(C) 3 eura
+
+(D) 4 eura
+
+(E) 5 eur
+
+(B) 9,0909
+
+(C) 9,99
+
+(D) 9,999
+
+(E) 10
+
+2. 11,11 − 1,111 =
+(A) 9,009
+
+3. Na stole leží hodinky ciferníkem nahoru. Minutová ručička ukazuje na severovýchod. Kolik minut uplyne, než tato ručička bude poprvé ukazovat na severozápad?
+(A) 45
+
+(B) 40
+
+(C) 30
+
+(D) 20
+
+(E) 15
+
+4. Drak měl 5 hlav. Pokaždé, když mu rytíř ut’al jednu hlavu, narostlo drakovi
+5 nových. Rytíř mu postupně ut’al šest hlav. Kolik hlav má drak nyní?
+(A) 25
+
+(B) 28
+
+(C) 29
+
+(D) 30
+
+(E) 35
+B
+
+5. Každý z 9 chodníků v parku je dlouhý 100 m. Anežka chce
+jít z bodu A do B, aniž by prošla některý chodník víc než
+jednou. Kolik metrů měří nejdelší cesta, kterou se může
+vydat?
+(A) 900 m (B) 800 m (C) 700 m (D) 600 m (E) 400 m
+
+A
+
+6. Ve kterém z následujících výrazů lze nahradit číslo 8 jiným kladným číslem tak,
+že dostaneme stejný výsledek?
+(A) (8 + 8) : 8 + 8
+(D) (8 + 8 − 8) · 8
+
+(B) 8 · (8 + 8) : 8
+(E) (8 + 8 − 8) : 8
+
+(C) 8 + 8 − 8 + 8
+
+7. Vašek složí list papíru, jak je znázorněno na obrázku,
+a udělá nůžkami dva přímé střihy. Pak papír znovu rozloží. Který z následujících tvarů nemůže být výsledkem?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+35
+
+(E)
+
+8. Hranol na obrázku se skládá ze čtyř částí. Každá část je tvořena
+4 krychlemi stejné barvy. Určete tvar bílé části?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Úlohy za 4 body
+9. Z číslic 1, 2, 3, . . . , 8 utvoříme dvě čtyřciferná přirozená čísla tak, že každou z číslic
+použijeme právě jednou. Určete hodnotu nejmenšího možného součtu těchto dvou
+čísel.
+(A) 2468
+
+(B) 3333
+
+(C) 3825
+
+(D) 4734
+
+10. Paní Zahradníčková pěstuje na poli hrášek a jahody.
+V letošním roce změnila obdélníkový záhon hrachu na
+čtvercový prodloužením jedné jeho strany o 3 metry.
+Záhon s jahodami se tak zmenšil o 15 m2 . Určete původní
+obsah záhonu hrachu?
+(A) 5 m2
+
+(B) 9 m2
+
+(B) 60
+
+Letos
+
+Vloni
+Hrášek
+
+Hrášek
+Jahody
+Jahody
+
+(C) 10 m2 (D) 15 m2 (E) 18 m2
+
+11. Barbora do tří prázdných polí následující tabulky doplnila po jednom čísle následujícím způsobem: Součet prvních tří čísel byl 100, součet tří čísel prostředních byl 200
+a součet posledních tří čísel byl 300. Které číslo je uprostřed tabulky?
+(A) 50
+
+(E) 6912
+
+(C) 70
+
+(D) 75
+
+10
+
+130
+
+(E) 100
+
+12. Na obrázku je pěticípá hvězda. Určete velikost vyznačeného úhlu x.
+(A) 35◦
+(D) 65◦
+
+(B) 42◦
+(E) 109◦
+
+(C) 51◦
+
+93◦
+
+100◦
+58◦
+
+36
+
+x
+
+13. Z rovnostranného trojúhelníku o straně délky 6 cm oddělíme
+tři shodné malé rovnostranné trojúhelníky. Součet obvodů
+těchto tří trojúhelníků je stejný jako obvod vzniklého šestiúhelníku. Určete délku strany malého trojúhelníku.
+(A) 1 cm
+(D) 1,5 cm
+
+(B) 1,2 cm
+(E) 2 cm
+
+(C) 1,25 cm
+
+14. Na letišti je pohyblivý chodník o délce 500 metrů, který jede rychlostí 4 km/h. Alice
+a Bořek na něj vstoupili společně. Zatímco Alice jde po chodníku rychlostí 6 km/h,
+Bořek na něm stojí. Kolik metrů před Bořkem vystoupila Alice z chodníku?
+(A) 100 m
+
+(B) 160 m
+
+(C) 200 m
+
+(D) 250 m
+
+(E) 300 m
+
+15. Strana kouzelného mluvícího čtverce má délku 8 cm. Řekne-li mluvící čtverec
+pravdu, jeho strana se zkrátí o 2 cm. Pokud lže, jeho obvod se zdvojnásobí. Čtverec
+vysloví v nějakém pořadí dvě pravdivá a dvě nepravdivá tvrzení. Určete největší
+možný obvod čtverce po vyslovení těchto čtyř tvrzení.
+(A) 28 cm
+
+(B) 80 cm
+
+(C) 88 cm
+
+(D) 112 cm
+
+(E) 120 cm
+
+16. Kamil překlápí obarvenou krychli kolem jejích hran po bílém
+papíru. Krychle zanechá stopu znázorněnou na obrázku. Které
+dva čtverce jsou obtiskem téže stěny krychle?
+(A) 1 a 7
+
+(B) 1 a 6
+
+(C) 1 a 5
+
+(D) 2 a 7
+
+6 7
+4 5
+1 2 3
+
+(E) 2 a 6
+
+Úlohy za 5 bodů
+17. Radek má 5 krychlí. Jestliže je uspořádá vedle sebe od nejmenší po největší,
+bude rozdíl výšek dvou sousedních krychlí vždy 2 cm. Největší krychle má stejnou
+výšku jako věž postavená ze dvou nejmenších krychlí. Určete výšku věže, která je
+postavená ze všech pěti krychlí.
+(A) 6 cm
+
+(B) 14 cm
+
+(C) 22 cm
+
+(D) 44 cm
+
+(E) 50 cm
+C
+
+D
+
+b
+
+18. Určete poměr obsahu šedého obrazce (trojúhelníku MNC) k obsahu čtverce ABCD, jestliže bod M je středem strany AD
+M
+a úsečka MN je kolmá k úhlopříčce AC.
+(A) 1:6
+
+(B) 1:5
+
+(C) 7:36
+
+(D) 3:16
+
+N
+
+(E) 7:40
+A
+
+B
+
+19. Tango tančí v párech muž se ženou. Na tanečním večeru je přítomno méně než
+50 lidí. V jednu chvíli 34 mužů tančí se 45 žen. Kolik lidí v danou chvíli tančí?
+(A) 20
+
+(B) 24
+
+(C) 30
+
+(D) 32
+
+37
+
+(E) 46
+
+20. David chce uspořádat dvanáct čísel od 1 do 12 do kruhu tak, aby se všechna
+sousední čísla vždy lišila bud’ o 2 nebo o 3. Která z následujících čísel musí stát
+vedle sebe?
+(A) 5 a 8
+
+(B) 3 a 5
+
+(C) 7 a 9
+
+(D) 6 a 8
+
+(E) 4 a 6
+
+21. V knize bude 30 povídek, každá z nich má začínat na nové stránce. Povídky mají
+navzájem různou délku: 1, 2, 3, . . . , 30 stran. První příběh začne na straně 1. Jaký
+je největší počet povídek, které mohou začínat na liché stránce?
+(A) 15
+
+(B) 18
+
+(C) 20
+
+(D) 21
+
+(E) 23
+
+22. Provázek složíme napůl, pak znovu napůl a pak ještě jednou napůl. Nakonec
+složený provázek přestřihneme a dostaneme několik částí: dvě z těchto částí jsou
+dlouhé 9 cm a 4 cm. Která z následujících možností nemůže být délkou celého
+provázku?
+(A) 52 cm
+(D) 88 cm
+
+(B) 68 cm
+(C) 72 cm
+(E) všechny odpovědi jsou možné
+
+23. Velký trojúhelník je rozdělen třemi úsečkami na čtyři trojúhelníky a tři čtyřúhelníky (viz obrázek). Součet obvodů čtyřúhelníků je 25 cm a součet obvodů čtyř malých trojúhelníků
+je 20 cm. Obvod velkého trojúhelníku je 19 cm. Určete součet
+délek tří úseček.
+(A) 11 cm
+
+(B) 12 cm
+
+(C) 13 cm
+
+(D) 15 cm
+
+(E) 16 cm
+
+24. V každém poli tabulky 3×3 je umístěno kladné číslo. Přitom v každém
+řádku a v každém sloupci je součin všech tří čísel roven 1. Dále je
+v každém čtverci 2×2 součin všech čtyř čísel roven 2. Určete číslo
+v prostředním poli tabulky.
+(A) 16
+
+(B) 8
+
+(C) 4
+
+(D) 41
+
+38
+
+(E) 18
+
+Matematický KLOKAN 2012
+správná řešení soutěžních úloh
+
+Kadet
+1 B, 2 D, 3 A, 4 C, 5 C, 6 E, 7 D, 8 D, 9 C, 10 C, 11 B, 12 C, 13 D, 14 E, 15 D, 16 B,
+17 E, 18 D, 19 B, 20 D, 21 E, 22 C, 23 C, 24 A.
+
+39
+
+Výsledky soutěže
+
+KADET 2012
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+4
+0
+0
+0
+0
+4
+1
+0
+0
+2
+5
+2
+5
+6
+3
+4
+9
+5
+10
+12
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+16
+14
+18
+23
+24
+35
+26
+26
+36
+39
+60
+46
+53
+73
+77
+108
+82
+74
+108
+127
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+174
+166
+170
+237
+292
+256
+260
+277
+364
+362
+380
+377
+447
+500
+528
+516
+597
+621
+658
+663
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+724
+906
+819
+830
+889
+955
+999
+968
+1047
+1112
+1091
+1098
+1234
+1234
+1241
+1257
+1318
+1337
+1359
+1420
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 61 010
+
+průměrný bodový zisk: 42,42
+
+40
+
+1458
+1448
+1446
+1472
+1477
+1417
+1447
+1472
+1441
+1408
+1342
+1318
+1247
+1194
+1145
+1062
+1088
+956
+885
+697
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+673
+666
+580
+463
+399
+385
+369
+285
+170
+140
+165
+138
+95
+37
+51
+38
+66
+10
+6
+7
+27
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Kadet z tabulky „Výsledky soutěže“
+
+30
+
+Kadet 2012
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+KADET 2012
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Lukáš Klein
+
+9C
+
+ZŠ U Lesa, B.Němcové 539, 472 01 Nový Bor
+
+Miroslav Maťaš
+
+1.G
+
+Gymnázium Brno, Vídeňská 47, 639 00 Brno
+
+Matěj Mezera
+
+8. A
+
+ZŠ Havlíčkův Brod, Nuselská 3240
+
+Ester Sgallová
+
+4.M
+
+Gymnázium Christiana Dopplera, Zborovská 45,
+150 00 Praha 5
+
+42
+
+Matematický KLOKAN 2012
+www.matematickyklokan.net
+
+kategorie Junior
+Úlohy za 3 body
+
+1. Necht’ M a N jsou středy ramen rovnoramenného
+trojúhelníku (viz obrázek). Čísla vyjadřují obsahy
+jednotlivých trojúhelníků. Obsah plochy bílého
+čtyřúhelníku je:
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+M
+
+N
+3
+
+(E) 7
+
+3
+6
+
+2. Jestliže součet číslic sedmimístného čísla je 6, pak součin těchto číslic je:
+(A) 0
+(D) 1 · 2 · 3 · 4 · 5 · 6 · 7
+
+(B) 6
+(E) 5
+
+(C) 7
+
+3. Kvádr na obrázku je sestaven ze čtyři částí. Každá část se skládá
+ze 4 krychliček stejné barvy. Určete tvar bílé části.
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+4. Je dán pravoúhlý trojúhelník ABC s odvěsnami délek 6 cm a 8 cm. Necht’ body K,
+L, M jsou středy jeho stran. Kolik centimetrů měří obvod trojúhelníku KLM?
+(A) 6
+
+(B) 12
+
+(C) 15
+
+(D) 20
+
+5. Čtverec ABCE o straně délky 4 cm má stejný
+obsah jako trojúhelník ECD (viz obrázek). Určete
+vzdálenost bodu D a přímky g (v centimetrech).
+√
+(A) 8
+(B) 4 +√4 3
+(C) 12
+(D) 10 2
+(E) Záleží na poloze bodu D
+
+(E) 24
+gg
+
+D
+C
+
+E
+
+B
+
+A
+
+6. Délky dvou stran čtyřúhelníku jsou 1 a 4. Jedna z jeho úhlopříček délky 2 jej
+rozděluje na dva rovnoramenné trojúhelníky. Určete obvod čtyřúhelníku.
+(A) 8
+
+(B) 9
+
+(C) 10
+
+(D) 11
+
+43
+
+(E) 12
+
+7. Jestliže dělím čísla 144 a 220 přirozeným číslem x, dostanu zbytek 11. Číslo x je:
+(A) 7
+
+(B) 11
+
+(C) 15
+
+(D) 19
+
+(E) 38
+
+8. Když Adam stojí na stole a Petr na zemi, je Adam vyšší o 80 cm. Jestliže Petr stojí
+na stole a Adam na zemi, je Petr vyšší o 1 m. Jak vysoký je stůl?
+(A) 70 cm
+
+(B) 80 cm
+
+(C) 90 cm
+
+(D) 100 cm
+
+(E) 120 cm
+
+Úlohy za 4 body
+9. Horkými favority na vítězství v maratonu jsou tři běžci Kan, Ga a Roo. Lucka
+prohlásila: „Vyhraje Kan nebo Ga.“ Jarka řekla: „Jestliže bude Ga druhý, vyhraje
+Roo.“ Eva tvrdila: „Bude-li Ga třetí, Kan nevyhraje.“ Dita řekla: „Druhý bude bud’
+Ga nebo Roo.“ V jakém pořadí běžci doběhli, pokud víme, že všechny kamarádky
+měly pravdu?
+(A) Kan, Ga, Roo
+(D) Ga, Kan, Roo
+
+(B) Kan, Roo, Ga
+(E) Ga, Roo, Kan
+
+(C) Roo, Ga, Kan
+
+10. Sára a Veronika si házejí mincí. Když padne panna, vyhrává Sára a Veronika jí
+musí dát 2 bonbóny. Pokud padne orel, vítězkou je Veronika a Sára jí dá 3 bonbóny.
+Po třiceti hodech mají obě dívky stejný počet bonbónů jako měly původně. Kolikrát
+vyhrála Veronika?
+(A) 6krát
+
+(B) 12krát
+
+(C) 18krát
+
+(D) 24krát
+
+(E) 30krát
+6 cm
+
+11. Do obdélníku o délce jedné strany 6 cm jsou vepsány
+shodné kruhy jako na obrázku. Jaká je nejmenší vzdálenost mezi šedými kruhy?
+√
+√
+(A) 1 cm
+(B) 2 cm
+(C) 2 3 − 2 cm
+π
+(E) 2 cm
+(D) cm
+2
+
+12. Vašek má v pokoji čtvery hodiny, ovšem jdou špatně. Jedny ukazují nepřesně o 2
+minuty, druhé o 3 minuty, třetí o 4 minuty a čtvrté o 5 minut. V jednom okamžiku
+uviděl Vašek na svých hodinách časy: za 6 minut tři, za 3 minuty tři, 2 minuty po
+třetí a 3 minuty po třetí. Kolik bylo přesně hodin?
+(A) 2.57
+
+(B) 2.58
+
+(C) 2.59
+
+(D) 3.00
+
+(E) 3.01
+
+13. Kolik existuje čtyřmístných čísel, které mají na pozici stovek číslici 3 a součet
+zbývajících číslic je také tři?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+44
+
+(E) 6
+
+14. Do tabulky doplňte čísla tak, aby součet ve všech řádcích byl
+stejný a ve všech sloupcích také stejný. Urči číslo v šedém políčku
+tabulky?
+(A) 1
+
+(B) 4
+
+(C) 6
+
+(D) 8
+
+2 4
+2
+3 3
+6
+1
+
+(E) 9
+
+15. Poslední nenulová číslice čísla K = 259 · 34 · 553 je
+(A) 2
+
+(B) 4
+
+(C) 6
+
+(D) 8
+
+(E) 9
+
+16. Rovinný útvar na obrázku je složen ze dvou čtverců s délkami
+stran 4 cm a 5 cm, trojúhelníku o obsahu 8 cm2 a šedého rovnoběžníku. Určete obsah šedého rovnoběžníku.
+(A) 16 cm2 (B) 18 cm2 (C) 19 cm2 (D) 20 cm2 (E) 21 cm2
+
+Úlohy za 5 bodů
+17. Pro některá přirozená čísla m a k platí: 2012 = mm · (mk − k). Určete k.
+(A) 3
+
+(B) 5
+
+(C) 7
+
+(D) 9
+
+18. Na obrázku vidíte pravoúhlý trojúhelník s délkami stran 5, 12 a 13. Určete poloměr vepsané
+půlkružnice.
+(A)
+
+7
+3
+
+(B)
+
+10
+3
+
+(C)
+
+12
+3
+
+(D)
+
+13
+3
+
+(E)
+
+17
+3
+
+(E) 11
+
+13
+
+5
+
+12
+
+19. Zlatník má k dispozici 12 zlatých dvojoček, ze kterých chce udělat jeden delší
+uzavřený řetízek. Na obrázku vidíte počáteční a koncový stav jeho práce. Aby
+tak učinil, musí některá očka nejprve rozevřít a následně zavřít. Jaký je nejmenší
+počet oček, které musí rozevřít?
+
+(A) 8
+
+(B) 9
+
+(C) 10
+
+(D) 11
+
+(E) 12
+
+20. Je dáno šest různých přirozených čísel, z nichž největší označme n. Mezi nimi
+existuje pouze jeden pár takový, že menší číslo nedělí číslo větší. Nejmenší hodnota
+čísla n je:
+(A) 12
+
+(B) 16
+
+(C) 17
+
+(D) 24
+
+45
+
+(E) 32
+
+21. Obdélníkový proužek papíru ABCD o rozměrech 16 cm × 4 cm byl přeložen podél
+čáry MN tak, aby vrchol C splynul s vrcholem A (viz obrázek). Určete obsah
+pětiúhelníku ABMND′ .
+D′
+
+N
+
+A
+
+B
+
+(A) 27 cm2
+
+D
+
+C
+
+M
+
+(B) 37 cm2
+
+(C) 47 cm2
+
+(D) 57 cm2
+
+(E) 67 cm2
+
+22. Ve strašidelné vile visí ze stropu 5 žárovek. Každá z nich bud’ svítí, nebo je
+zhasnutá. Kdykoliv žárovku rozsvítíte nebo zhasnete, změníte její stav. Současně
+náhodně změní stav jiná žárovka. Na počátku jsou všechny žárovky zhasnuté. Co
+můžete prohlásit, pokud vy desetkrát změníte jejich stav?
+(A) Není možné, aby byly všechny žárovky zhasnuté.
+(B) Je jisté, že jsou všechny žárovky rozsvícené.
+(C) Není možné, aby byly všechny žárovky rozsvícené.
+(D) Je jisté, že jsou všechny žárovky zhasnuté.
+(E) Žádné předchozí tvrzení není pravdivé.
+23. Nikolas vypsal všechna trojmístná čísla a pro každé z nich spočítal součin jeho
+číslic. Všechny součiny pak sečetl. Jaké číslo mu vyšlo?
+(A) 452
+
+(C) 453
+
+(B) 4500
+
+(D) 245
+
+(E) 345
+
+24. Čísla od 1 do 120 jsou zapsána do 15 řad (viz obrázek). Ve kterém sloupci (počítáno
+zleva) je součet čísel největší?
+1
+
+(A) 4
+
+···
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+..
+.
+
+12
+..
+.
+
+13
+..
+.
+
+14
+..
+.
+
+15
+..
+.
+
+..
+.
+
+..
+.
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+(B) 5
+
+···
+···
+···
+
+(C) 6
+
+···
+..
+.
+···
+
+(D) 7
+
+46
+
+120
+
+(E) 10
+
+Matematický KLOKAN 2012
+správná řešení soutěžních úloh
+
+Junior
+1 D, 2 A, 3 A, 4 B, 5 C, 6 D, 7 D, 8 C, 9 E, 10 B, 11 C, 12 C, 13 E, 14 B, 15 B, 16 A,
+17 D, 18 B, 19 A, 20 D, 21 C, 22 C, 23 C, 24 B.
+
+47
+
+Výsledky soutěže
+
+JUNIOR 2012
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+1
+2
+3
+1
+5
+6
+4
+4
+4
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+2
+4
+3
+3
+5
+5
+3
+5
+6
+10
+9
+9
+14
+13
+13
+21
+27
+21
+30
+29
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+32
+23
+40
+48
+50
+49
+55
+67
+65
+97
+76
+102
+104
+138
+123
+136
+161
+172
+194
+209
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+223
+232
+261
+260
+270
+287
+271
+308
+383
+343
+363
+378
+369
+435
+405
+414
+417
+428
+398
+413
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 15 021
+
+průměrný bodový zisk: 45,12
+
+48
+
+417
+362
+402
+391
+383
+352
+325
+321
+309
+316
+281
+253
+221
+203
+182
+177
+147
+147
+110
+123
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+81
+68
+66
+54
+41
+42
+36
+24
+15
+12
+22
+10
+5
+2
+4
+6
+12
+9
+5
+2
+17
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Junior z tabulky „Výsledky soutěže“
+
+30
+
+Junior 2012
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+JUNIOR 2012
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Jiří Guth
+
+6. E
+
+Gymnázium, Jírovcova 8, 371 61 České Budějovice
+
+Tomáš Novotný
+
+VI A
+
+Gymnázium Česká Lípa, Žitavská 2969,
+470 01 Česká Lípa
+
+Anna Steinhauserová 2.
+
+Gymnázium, B. Němcové 213/V, 380 11 Dačice
+
+50
+
+Matematický KLOKAN 2012
+www.matematickyklokan.net
+
+kategorie Student
+Úlohy za 3 body
+q √
+3
+1. Čemu je rovno číslo 2 2?
+√
+(A) 1
+(B) 2
+
+(C)
+
+√6
+4
+
+(D)
+
+2. První zleva v řadě pěti čísel je 2, páté je číslo 12.
+Součin prvních tří čísel je 30, součin prostředních
+tří čísel je 90 a součin posledních tří čísel je 360.
+Které z následujících čísel stojí uprostřed řady?
+(A) 3
+
+(B) 4
+
+(C) 5
+
+√3
+4
+
+(E) 2
+
+2
+
+12
+
+(D) 6
+
+(E) 10
+
+3. Obdélníkový list papíru ABCD o rozměrech 4 cm × 16 cm byl přeložen podél úsečky
+MN tak, že vrchol C splynul s vrcholem A (jako na obrázku). Určete obsah
+čtyřúhelníku ANMD′ .
+D′
+
+M
+
+A
+
+B
+
+(A) 28 cm2
+
+(B) 30 cm2
+
+D
+
+C
+
+N
+
+(C) 32 cm2
+
+(D) 48 cm2
+
+(E) 56 cm2
+
+4. Součet číslic devítimístného čísla je 8. Kolik je součin všech jeho číslic?
+(A) 0
+
+(B) 1
+
+(C) 8
+
+(D) 9
+
+(E) 9!
+
+5. Najděte největší přirozené číslo n, pro něž platí n200 < 5300 .
+(A) 5
+
+(B) 6
+
+(C) 8
+
+(D) 11
+
+(E) 12
+
+6. Která z následujících funkcí vyhovuje rovnici
+!
+1
+1
+f
+=
+?
+x
+f (x)
+(A) f (x) = 2x
+
+1
+(B) f (x) = x+1
+
+(C) f (x) = 1 + 1x (D) f (x) = 1x
+
+51
+
+(E) f (x) = x + 1x
+
+7. Reálné číslo x vyhovuje nerovnostem x3 < 64 < x2 . Který z následujících výroků je
+pravdivý?
+(A) 0 < x < 64
+
+(B) −8 < x < 4 (C) x > 8
+
+(D) −4 < x < 8 (E) x < −8
+
+8. Určete velikost úhlu α (na obrázku vpravo) pravidelné
+pěticípé hvězdy.
+(A) 24◦
+
+(B) 30◦
+
+(C) 36◦
+
+(D) 40◦
+
+α
+
+(E) 45◦
+
+Úlohy za 4 body
+9. Cestovní kancelář organizuje čtyři fakultativní výlety na Sicílii pro turistický
+zájezd. Každý výlet si objednalo 80 % turistů. Najděte nejmenší možné procento
+turistů, kteří si objednali všechny výlety.
+(A) 80 %
+
+(B) 60 %
+
+(C) 40 %
+
+(D) 20 %
+
+(E) 16 %
+
+10. V škole se známkuje stupnicí od 1 do 5. Čtvrtletní písemka ve čtvrtém ročníku
+dopadla špatně. Průměrná známka byla 4. Průměrná známka chlapců byla 3,6,
+zatímco průměrná známka dívek byla 4,2. Které z následujících tvrzení o této třídě
+je pravdivé?
+(B) Chlapců je čtyřikrát více než dívek.
+(D) Dívek je čtyřikrát více než chlapců.
+
+(A) 114 m2
+(D) 160 m2
+
+(B) 130 m2
+(E) 186 m2
+
+b
+
+11. Na obrázku je plán záhonu růží. Bílé růže rostou ve
+dvou shodných čtvercích, červené růže ve zbývajícím
+čtverci. Žluté růže rostou v pravoúhlém trojúhelníku.
+Celková šířka i celková výška růžového záhonu je 16 m.
+Určete jeho obsah.
+
+16 m
+
+(A) Chlapců je dvakrát více než dívek.
+(C) Dívek je dvakrát více než chlapců.
+(E) Dívek je stejně jako chlapců.
+
+(C) 144 m2
+16 m
+
+12. Všechna sedadla očíslovaná vzestupně od 1 v první řadě kina byla vyprodána.
+Navíc byl omylem ještě prodán další lístek do první řady. Součet čísel všech
+prodaných sedadel do první řady byl 857. Které sedadlo bylo prodáno dvakrát?
+(A) 4
+
+(B) 16
+
+(C) 25
+
+(D) 37
+
+52
+
+(E) 42
+
+13. Je dán pravoúhlý trojúhelník se stranami délek
+a, b a c. Najděte poloměr jemu „vepsané polokruža
+nice“ na obrázku.
+(A)
+
+a(c−a)
+ab
+(B) a+b+c
+2b
+
+(C)
+
+ab
+b+c
+
+(D)
+
+2ab
+a+b+c
+
+(E)
+
+ab
+a+c
+
+c
+r
+r
+
+r
+b
+
+14. Čtverec ABCD má strany délky 2. Body E a F jsou po řadě středy stran AB a AD.
+Pro bod G úsečky CF platí 3|CG| = 2|GF|. Určete obsah trojúhelníku BEG.
+7
+(A) 10
+
+(B) 54
+
+(C) 58
+
+(D) 35
+
+15. Hodiny na obrázku mají tvar obdélníku, přitom každá z ručiček se pohybuje konstantní úhlovou rychlostí stejně jako u běžných hodin. Vzdálenost mezi
+čísly 8 a 10 na ciferníku je 12 cm. Najděte vzdálenost mezi čísly 1 a 2.
+√
+√
+√
+(A) 3 3√cm
+(B) 2 3 cm
+(C)
+4
+3 cm
+√
+(D) 2 + 3 cm
+(E) 12 − 3 3 cm
+
+(E) 65
+
+11 12 1
+
+10
+
+2
+x cm
+
+9
+
+12 cm
+
+8
+
+7
+
+3
+
+6
+
+5
+
+4
+
+16. Klokan staví hranol ze standardních hracích kostek (součet bodů na protilehlých
+stěnách je 7) stejně jako na obrázku. Přitom slepuje pouze stěny, na kterých je týž
+počet bodů. Cílem klokana je sestrojit takový hranol, aby součet všech bodů na jeho
+povrchu byl 2012. Kolik kostek může použít?
+
+(A) 70
+(D) 143
+
+(B) 71
+(C) 142
+(E) Kostky takto sestavit nelze.
+
+Úlohy za 5 bodů
+
+17. Najděte nejmenší možnou velikost vnitřního úhlu rovnoramenného trojúhelníku
+s těžnicí, která tento trojúhelník dělí na dva rovnoramenné trojúhelníky.
+(A) 15◦
+
+(B) 22,5◦
+
+(C) 30◦
+
+(D) 36◦
+
+(E) 45◦
+
+18. Se zlomky můžeme provádět následující dvě operace. Bud’ zvětšíme jeho čitatele
+o 8, nebo zvětšíme jeho jmenovatele o 7. Po n takových operacích (v nějakém
+pořadí) jsme ze zlomku 78 opět obdrželi zlomek se stejnou hodnotou. Najděte
+nejmenší možnou hodnotu přirozeného čísla n.
+(A) 56
+(D) 113
+
+(B) 81
+(C) 109
+(E) Není možné obdržet zlomek se stejnou hodnotou.
+
+53
+
+19. Rovnostranný trojúhelník se bez skluzu kotálí po čtverci se stranou délky 1. Určete
+délku křivky, po které se bude pohybovat vyznačený vrchol trojúhelníku, dokud se
+tento vrchol spolu s trojúhelníkem nedostanou opět do výchozí pozice.
+
+(A) 4π
+
+(B) 28
+3 π
+
+(D) 14
+3 π
+
+(C) 8π
+
+(E) 21
+2 π
+
+20. Kolik permutací (x1 , x2 , x3 , x4 ) čísel množiny {1, 2, 3, 4} má vlastnost, že součet
+x1 x2 + x2 x3 + x3 x4 + x4 x1 je dělitelný 3?
+(A) 8
+
+(B) 12
+
+(C) 14
+
+(D) 16
+
+(E) 24
+
+21. Po hodině algebry na tabuli zůstal graf funkce y = x2 a 2012 přímek rovnoběžných
+s přímkou y = x, každá z nich protínající parabolu ve dvou bodech. Najděte součet
+x-ových souřadnic průsečíků přímek a paraboly.
+(A) 0
+(D) 2012
+
+(B) 1
+(E) Není možné určit.
+
+(C) 1006
+
+22. Tři vrcholy krychle (neležící v jedné stěně) mají souřadnice P = (3, 4, 1), Q = (5, 2, 9)
+a R = (1, 6, 5). Který z následujících bodů je středem této krychle?
+(A) A = (4, 3, 5) (B) B = (2, 5, 3) (C) C = (3, 4, 7) (D) D = (3, 4, 5) (E) E = (2, 3, 5)
+23. Posloupnost 1, 1, 0, 1, −1, . . . splňuje následující podmínky: První dva členy a1 a a2
+jsou rovny 1. Třetí člen je rozdílem předcházejících dvou členů, tj. a3 = a1 − a2 .
+Čtvrtý člen je součtem přecházejících dvou členů, tj. a4 = a2 + a3 . Dále a5 = a3 − a4 ,
+a6 = a4 + a5 a tak dále. Najděte součet prvních 100 členů takovéto posloupnosti.
+(A) 0
+
+(B) 3
+
+(C) −21
+
+(D) 100
+
+(E) −1
+
+24. Každá kočka v Třeskoprskách je bud’ moudrá nebo šílená. Jestliže se moudrá kočka
+ocitne v místnosti se třemi šílenými kočkami, potom zešílí. Jestliže se šílená kočka
+ocitne v jedné místnosti se třemi moudrými, potom je jimi odhalena jako šílená. Tři
+kočky vešly do prázdné místnosti. Brzy poté co vešla čtvrtá kočka, první odešla.
+Po příchodu páté kočky odešla druhá a tak dále. Poté, co vešla 2012. kočka se
+poprvé stalo, že některá kočka byla odhalena jako šílená. Které z následujících
+koček mohly být obě šílené při vstupu do místnosti?
+(A) první a 2012.
+(D) čtvrtá a 2012.
+
+(B) druhá a 2010.
+(E) druhá a 2011.
+
+54
+
+(C) třetí a 2009.
+
+Matematický KLOKAN 2012
+správná řešení soutěžních úloh
+
+Student
+1 B, 2 C, 3 C, 4 A, 5 D, 6 D, 7 E, 8 C, 9 D, 10 C, 11 C, 12 D, 13 E, 14 B, 15 C, 16 E,
+17 E, 18 D, 19 B, 20 D, 21 D, 22 A, 23 B, 24 B.
+
+55
+
+Výsledky soutěže
+
+STUDENT 2012
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+0
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+1
+0
+0
+1
+0
+4
+5
+0
+0
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+1
+4
+3
+2
+1
+0
+1
+0
+4
+3
+3
+8
+3
+4
+4
+4
+6
+7
+8
+10
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+5
+3
+10
+10
+19
+18
+21
+11
+22
+19
+37
+30
+36
+42
+59
+52
+55
+77
+90
+86
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+91
+123
+109
+147
+138
+146
+178
+172
+179
+213
+204
+220
+224
+257
+246
+237
+271
+268
+266
+264
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 8 987
+
+průměrný bodový zisk: 42,29
+
+56
+
+275
+274
+273
+285
+264
+257
+237
+246
+224
+245
+197
+189
+171
+146
+118
+131
+103
+82
+75
+88
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+63
+49
+36
+33
+23
+30
+18
+20
+15
+6
+16
+4
+4
+9
+5
+4
+6
+6
+1
+2
+10
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Student z tabulky „Výsledky soutěže“
+
+30
+
+Student 2012
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+STUDENT 2012
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 116 b
+Jakub Mikeš
+
+3B
+
+VOŠ a SPŠE, Božetěchova 3, 779 00 Olomouc
+
+58
+
+Garanti kategorií
+Znění úloh podle evropské verze v jednotlivých kategoriích upravili:
+Cvrček
+
+Mgr. Eva Nováková, Ph.D.
+Evropská základní škola Brno, Čejkovická 10, 628 00 BRNO
+e-mail: ekubatova@email.cz
+
+Klokánek
+
+doc. PhDr. Bohumil Novák, CSc.
+Katedra matematiky PdF UP, Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: bohumil.novak@upol.cz
+tel.: 58 563 5713
+
+Benjamín
+
+Mgr. Eva Bártková, Ph.D.
+Katedra matematiky PdF UP, Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: eva.bartkova@upol.cz
+tel.: 58 563 5716
+
+Kadet
+
+Mgr. Jitka Hodaňová, Ph.D.
+Katedra matematiky PdF UP, Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: hodanova@pdfnw.upol.cz
+tel.: 58 563 5706
+
+Junior
+
+Mgr. Vladimír Vaněk, Ph.D.
+Katedra algebry a geometrie PřF UP, 17. listopadu 12, 771 46 OLOMOUC
+e-mail: vladimir.vanek@upol.cz
+tel.: 58 563 4645
+
+Student
+
+RNDr. Pavel Calábek, Ph.D.
+Katedra algebry a geometrie PřF UP, 17. listopadu 12, 771 46 OLOMOUC
+e-mail: pavel.calabek@upol.cz
+tel.: 58 563 4642
+
+59
+
+Kontaktní adresa:
+Mgr. Eva Bártková, Ph.D.
+Katedra matematiky PdF UP, Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: eva.bartkova@upol.cz
+tel.: 58 563 5716
+prof. RNDr. Josef Molnár, CSc.
+Katedra algebry a geometrie PřF UP, 17. listopadu 12, 771 46 OLOMOUC
+e-mail: josef.molnar@upol.cz
+tel.: 58 563 4641
+doc. PhDr. Bohumil Novák, CSc.
+Katedra matematiky PdF UP, Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: bohumil.novak@upol.cz
+tel.: 58 563 5713
+
+http://matematickyklokan.net
+e-mailová adresa pro korespondenci: soutez@matematickyklokan.net
+
+60
+
+

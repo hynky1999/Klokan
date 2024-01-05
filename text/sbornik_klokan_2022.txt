@@ -1,0 +1,6485 @@
+Univerzita Palackého v Olomouci
+JČMF, pobočný spolek Olomouc
+
+Olomouc 2023
+
+Univerzita Palackého v Olomouci
+JČMF, pobočný spolek Olomouc
+
+Olomouc 2023
+
+KATALOGIZACE V KNIZE - NÁRODNÍ KNIHOVNA Č R
+Matematický klokan (soutě ž) (2022 : Č esko)
+Matematický klokan 2022. -- 1. vydání. -- Olomouc : Univerzita Palackého v Olomouci, 2023. -- 64 stran
+Nad názvem: Univerzita Palackého v Olomouci, JČ MF, poboč ný spolek Olomouc
+ISBN 978-80-244-6278-3 (brožováno)
+* 51 * 51:371.384 * (076.1/.3) * (062.552) * (058)
+
+– matematika -- úlohy
+– matematické soutě že
+– sbírky úloh
+– sborníky
+– roč enky
+51 - Matematika [13]
+
+Sborník sestavili:
+P. Calábek, Přírodovědecká fakulta UP v Olomouci
+J. Hátle, Přírodovědecká fakulta UP v Olomouci
+J. Molnár, Přírodovědecká fakulta UP v Olomouci
+S. Zatloukalová, Přírodovědecká fakulta UP v Olomouci
+
+Doprovodné aktivity soutěže Matematický klokan podporuje i Nadace RSJ.
+Neoprávněné použití tohoto díla je porušením autorských práv a může zakládat
+občanskoprávní, správněprávní, popř. trestněprávní odpovědnost.
+Za jazykovou správnost jednotlivých kapitol odpovídají autoři.
+
+1. vydání
+Ed. © Jiří Hátle, 2023
+© Univerzita Palackého v Olomouci, 2023
+ISBN 978-80-244-6278-3
+ISSN 2533-3305
+
+OBSAH
+Úvodní slovo ……………………………………………………………………………….
+
+4
+
+Vývoj Matematického klokana
+Rok 2022 po kategoriích
+
+5
+7
+
+…………………………………………………………..
+…………………………………………………………..
+
+Cvrček
+Zadání soutěžních úloh ……………………………………………………………………. 8
+Správná řešení soutěžních úloh …………………………………………………………… 12
+Statistické výsledky ……………………………………………………………………… 13
+Graf ……………………………………………………………………………………… 14
+Nejlepší řešitelé ………………………………………………………………………….. 15
+Klokánek
+Zadání soutěžních úloh ……………………………………………………………………. 19
+Správná řešení soutěžních úloh …………………………………………………………… 23
+Statistické výsledky ……………………………………………………………………… 24
+Graf ……………………………………………………………………………………… 25
+Nejlepší řešitelé …………………………………………………………………………... 26
+Benjamín
+Zadání soutěžních úloh ………………………………………………………………….. 29
+Správná řešení soutěžních úloh …………………………………………………………… 33
+Statistické výsledky ……………………………………………………………………… 34
+Graf ……………………………………………………………………………………… 35
+Nejlepší řešitelé …………………………………………………………………………... 36
+Kadet
+Zadání soutěžních úloh …………………………………………………………………... 39
+Správná řešení soutěžních úloh …………………………………………………………… 43
+Statistické výsledky ……………………………………………………………………… 44
+Graf ……………………………………………………………………………………… 45
+Nejlepší řešitelé …………………………………………………………………………... 46
+Junior
+Zadání soutěžních úloh ……………………………………………………………………. 47
+Správná řešení soutěžních úloh …………………………………………………………… 51
+Statistické výsledky ……………………………………………………………………… 52
+Graf ……………………………………………………………………………………… 53
+Nejlepší řešitelé …………………………………………………………………………... 54
+Student
+Zadání soutěžních úloh ……………………………………………………………………. 55
+Správná řešení soutěžních úloh …………………………………………………………… 59
+Statistické výsledky ……………………………………………………………………… 60
+Graf ……………………………………………………………………………………… 61
+Nejlepší řešitelé …………………………………………………………………………... 62
+Garanti kategorií ………………………………………………………………………….. 63
+Kontakt …………………………………………………………………………………... 64
+
+Úvodní slovo
+
+Milí přátelé Matematického klokana,
+s potěšením můžeme konstatovat, že celkový počet soutěžících se proti předchozímu ročníku
+opět ztrojnásobil, čímž jsme se téměř vrátili na předkovidové stavy. Úspěšně proběhly i
+doprovodné aktivity, mezi něž lze zařadit olomoucký podzimní Běh s Klokanem, Podzimní
+školu péče o talenty s mezinárodní účastí MAKOS, setkání zástupců pořadatelských zemí MK
+v rámci asociace Kangourou sans Frontières konané v italském Cerviu, na kterém se vybraly
+soutěžní úlohy pro následující ročník a workshop Klokani v Jeseníkách připravující finální
+české znění těchto úloh. Při této příležitosti rádi děkujeme sponzorům, kterými jsou MŠMT
+ČR, UPOL, Nadace RSJ, JČMF a její olomoucká pobočka i účastníkům Běhu s Klokanem,
+kteří společně podporují klokana rudého v olomoucké ZOO. A nezapomínáme ani na
+pořadatele na všech úrovních, kterým rovněž ze srdce děkujeme. Závěrem už jen připomenutí,
+že tento 28. ročník Matematického klokana se konal 18. 3. 2022 a následující 29. ročník se
+uskuteční 17. 3. 2023.
+
+pořadatelé
+
+4
+
+Vývoj Matematického klokana
+
+CVRČEK
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020†
+2021†
+2022
+
+11 076*
+46 832
+60 744
+70 942
+70 084
+78 291
+79 758
+84 221
+86 011
+97 478
+102 346
+109 187
+115 925
+115 120
+113 681
+7 577
+20 350
+89 494
+
+KLOKÁNEK
+6 205
+18 522
+61 161
+62 963
+87 885
+95 426
+93 434
+99 204
+83 584
+78 275
+70 886
+66 799
+70 705
+74 668
+75 624
+81 737
+84 031
+87 324
+86 065
+94 528
+96 763
+105 668
+111 013
+117 232
+120 081
+10 476
+31 193
+96 572
+
+BENJAMÍN
+7 834
+30 819
+59 314
+67 417
+79 717
+87 304
+86 458
+86 785
+74 112
+75 609
+72 090
+69 739
+66 840
+64 995
+64 258
+66 731
+65 461
+67 750
+67 794
+69 635
+71 120
+74 113
+75 330
+80 227
+82 252
+9 327
+30 519
+76 886
+
+KADET
+7 280
+27 262
+51 769
+57 653
+73 578
+81 893
+78 408
+81 440
+65 839
+68 324
+69 425
+69 104
+71 491
+69 734
+65 694
+63 412
+60 404
+61 010
+59 408
+61 244
+64 074
+62 953
+65 443
+66 405
+66 978
+6 678
+25 401
+67 660
+
+JUNIOR
+2 195
+6 148
+8 631
+11 580
+16 847
+20 384
+20 173
+20 479
+19 615
+17 345
+18 333
+18 003
+17 804
+19 101
+18 711
+18 711
+16 326
+15 021
+15 503
+15 479
+15 559
+16 002
+16 326
+15 233
+15 941
+2 217
+8 638
+15 667
+
+STUDENT
+1 297
+3 938
+7 349
+8 484
+6 606
+10 319
+11 228
+10 428
+9 879
+9 729
+10 690
+9 947
+10 274
+10 191
+10 599
+9 646
+8 721
+8 987
+8 243
+7 900
+7 894
+8 115
+7 568
+7 051
+6 764
+926
+3 373
+6 904
+
+* pouze experimentální ročník, výsledek nebyl zahrnut do celostátního sumáře
+† ročník poznamenaný pandemií COVID-19
+
+5
+
+CELKEM
+24 811
+86 689
+188 224
+208 097
+264 633
+295 326
+289 701
+298 336
+253 029
+249 282
+252 500
+280 424
+297 858
+309 631
+304 970
+318 528
+314 701
+324 313
+323 024
+346 264
+357 756
+376 038
+391 605
+401 268
+405 697
+37 201
+119 474
+353 183
+
+6
+
+0
+
+50 000
+
+100 000
+
+150 000
+
+200 000
+
+250 000
+
+300 000
+
+350 000
+
+400 000
+
+450 000
+
+Graf znázorňuje výsledky z tabulky „Vývoj Matematického klokana“
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+Vývoj Matematického klokana
+
+Rok 2022 po kategoriích
+
+100000
+90000
+
+96572
+89494
+
+80000
+
+76886
+
+70000
+
+67660
+
+60000
+50000
+40000
+30000
+20000
+
+15667
+
+10000
+
+6904
+
+0
+Cvrček
+
+Klokánek
+
+Benjamín
+
+Kadet
+
+Junior
+
+Student
+
+Počty řešitelů, kteří získali plný počet bodů:
+Cvrček
+
+90 bodů
+
+získalo
+
+132 žáků
+
+Klokánek
+
+120 bodů
+
+získalo
+
+104 žáků
+
+Benjamín
+
+120 bodů
+
+získalo
+
+91 žáků
+
+Kadet
+
+120 bodů
+
+získalo
+
+11 žáků
+
+Junior
+
+120 bodů
+
+získalo
+
+17 žáků
+
+Student
+
+120 bodů
+
+získalo
+
+15 žáků
+
+7
+
+Matematický KLOKAN 2022
+www.matematickyklokan.net
+
+kategorie Cvrček
+
+Úlohy za 3 body
+
+1. Na kterém obrázku je nejvíc trojúhelníků?
+
+(A)
+
+(B)
+
+(D)
+
+(E)
+
+(C)
+
+2. Aleš rozstřihl obrázek houby na poloviny a poté je přiložil A
+k sobě. Na kterém obrázku jsou oba dílky?
+D
+B
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E) C
+
+3. Petr má položit poslední kolečko do tabulky tak, aby
+v každém řádku a v každém sloupci byla 2 kolečka. Na
+které písmeno kolečko položí?
+(A) A
+
+(B) B
+
+(C) C
+
+(D) D
+
+(E) E
+
+E
+
+B
+A
+
+C
+D
+
+E
+
+4. Filip napsal číslo a pak jej zakryl. Různé číslice zakryl různými tvary a stejné číslice stejnými tvary.
+Které číslo mohlo být napsáno pod těmito tvary?
+(A) 34426
+
+(B) 34526
+
+(C) 34423
+
+8
+
+(D) 34424
+
+(E) 32446
+
+5. Na čtverečkovaný papír někdo vylil barvu (podívej se
+na obrázek). Na kolika malých čtverečcích je barva
+vylita?
+(A) 16
+
+(B) 17
+
+(C) 18
+
+(D) 19
+
+(E) 20
+
+6. Opice utrhla kapitánu Jackovi část mapy. Najdi
+chybějící část.
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Úlohy za 4 body
+7. Na obrázku je 5 stejných cihel. Kolik z nich se dotýká jen tří
+cihel?
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+8. Klokan doskákal ke koalovi tak, že neskočil
+na čtvereček s kaluží. Kterou cestou mohl
+zvolit?
+(A)
+(C)
+(E)
+
+(B)
+(D)
+
+9. Petr poskládal zvířátka. Najděte dílek, který se vyskytuje jen u jednoho
+zvířátka. U kterého zvířátka je tento dílek?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+9
+
+(E)
+
+10. Na obrázku vpravo je stavba z jednobarevných dílků. Na
+kterém obrázku je tato stavba při pohledu shora?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+11. Součet čísel na každém domě byl 20. Adam ve
+třech kolečkách čísla smazal. Které číslo bylo na
+místě otazníku?
+(A) 3
+
+(B) 4
+
+(C) 7
+
+(D) 9
+
+(E) 14
+
+12. Anička nalepila přes sebe tyto 4 samolepky
+
+.
+
+Hvězdu nalepila po čtverci, ale před trojúhelníkem. Který z obrázků
+mohl Aničce vzniknout?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Úlohy za 5 bodů
+
+1
+
+13. Katka pokládá tyto dílky
+
+2
+kolem každého čtverce. Kolik dílků
+položí kolem čtverce se stranou 5?
+(A) 10
+
+(B) 11
+
+3
+
+1
+
+(C) 12
+
+5
+
+(D) 14
+
+(E) 16
+
+14. Pepík vystřihl z papíru pět různých tvarů. Na který tvar využil nejméně
+papíru?
+b
+
+(A)
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+(B)
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+(C)
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+10
+
+b
+
+b
+
+b
+
+(D)
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+(E)
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
++
+
+15. Na obrázku nahraď každý z tvarů jiným číslem,
+stejné tvary stejným číslem. Které číslo patří na místo
+otazníku?
+
+18
++
+
+10
+
+(A) 10
+
+(B) 12
+
+(C) 14
+
+(D) 16
+
+(E) 18
+
+14
+
+?
+
+16. Tři zebry se účastní soutěže. Vítězí zebra s nejvíce pruhy. Uzuri má
+15 pruhů, Dante má o 3 pruhy více než Uzuri. Uzuri má o 5 pruhů
+méně než Tabby. Kolik pruhů má vítězná zebra?
+(A) 16
+
+(B) 18
+
+(C) 20
+
+(D) 21
+
+(E) 22
+
+17. Martinovo auto umí zatáčet pouze doleva. Nikdy nezatočí vpravo.
+Kterou z drah může Martinovo auto projet?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+18. Na stole leží pět karet s čísly (podívej se na obrázek).
+Můžeš postupně vyměňovat libovolné dvě karty.
+Urči nejmenší počet výměn k vytvoření řady čísel
+od nejmenšího po největší.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+11
+
+(E)
+
+3 4 1 5 2
+(E) 5
+
+Správná řešení soutěžních úloh
+CVRČEK 2022
+
+Úlohy za 3 body:
+1 B, 2 E, 3 D, 4 A, 5 E, 6 B,
+Úlohy za 4 body:
+7 B, 8 B, 9 D, 10 E, 11 D, 12 E,
+Úlohy za 5 bodů:
+13 C, 14 A, 15 C, 16 C, 17 C, 18 C.
+
+12
+
+Statistické výsledky
+CVRČEK 2022
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+
+132
+X
+X
+15
+71
+168
+143
+34
+52
+118
+203
+279
+122
+94
+177
+
+321
+350
+363
+174
+240
+449
+566
+504
+466
+425
+598
+801
+739
+739
+729
+
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+
+788
+935
+1175
+1049
+1027
+1131
+1313
+1447
+1507
+1430
+1567
+1678
+1847
+1880
+1815
+
+45
+44
+43
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+
+1846
+2102
+2281
+2268
+2192
+2243
+2391
+2464
+2445
+2332
+2310
+2499
+2495
+2401
+2176
+
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+
+2155
+2242
+2253
+2039
+1751
+1702
+1832
+1625
+1466
+1159
+1230
+1170
+1093
+647
+433
+
+548
+548
+444
+175
+134
+185
+223
+107
+41
+45
+47
+47
+14
+6
+8
+19
+
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+celkový počet řešitelů: 89 494
+
+průměrný bodový zisk: 40,11
+
+Percentil
+
+3
+
+10
+
+25
+
+50
+
+75
+
+90
+
+97
+
+Počet bodů
+
+16
+
+22
+
+29
+
+39
+
+50
+
+61
+
+72
+
+13
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+24
+
+26
+
+28
+
+30
+
+32
+
+34
+
+36
+
+38
+
+40
+
+42
+
+44
+
+46
+
+48
+
+50
+
+52
+
+54
+
+56
+
+58
+
+60
+
+62
+
+64
+
+66
+
+Graf znázorňuje výsledky v kategorii Cvrček z tabulky „Výsledky soutěže“
+
+22
+
+Cvrček 2022
+
+68
+
+70
+
+72
+
+74
+
+76
+
+78
+
+80
+
+82
+
+84
+
+86
+
+88
+
+90
+
+Nejlepší řešitelé
+CVRČEK 2022
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 90 b
+Anastázie Aujezdská
+Kristina Barth
+Alžběta Betincová
+Richard Bolek
+Anna Bouzková
+Markéta Bryndová
+Jan Bureš
+Fabio Cartelli
+Ondřej Cindr
+Helena Collis
+Jan Vendelin Cupal
+Matěj Číž
+Jan Deneš
+Hynek Dobšák
+Filip Dostál
+Ladislav Drápal
+Radovan Dvořák
+Justýna Eliášová
+Daniel Evan
+Jakub Fiala
+Natálie Filipenská
+Beata Fojtová
+Ema Gebauerová
+Nikolas Glenz
+Kostiantyn Glushko
+Kateřina Gudevová
+Amélie Guliard
+Anna Habová
+Václav Hampl
+Lukáš Heřman
+Václav Holub
+Herbert Horák
+Michal Jan Hrábek
+
+2.A
+3.A
+3.A
+II.C
+3.A
+3.A
+2. C
+3.B
+3.A
+
+ZŠ Ostrava Stará Bělá, Junácká 700, Ostrava-Stará Bělá, 724 00
+ZŠ a MŠ Antonína Čermáka, Antonína Čermáka 6, Praha 6, 160 00
+Základní škola sv. Voršily v Praze, Ostrovní 9, Praha 1, 110 00
+ZŠ, Podzámecká, Podzámecká 1, 293 06 Kosmonosy
+ZŠ Burešova, Burešova 14, Praha 8, 182 00
+
+Základní škola M. Alše, Praha 6, Suchdolská 360, 165 00
+FZŠ Hálkova, Hálkova 335/4 Olomouc
+ZŠ a MŠ Petrovice u Karviné, Petrovice u Karviné 186, 735 72
+ZŠ a MŠ Antonína Čermáka, Antonína Čermáka 6, Praha 6, 160 00
+Soukromá ZŠ Cesta k úspěchu v Praze, Bělohorská 226/103, 169 00
+2. Praha 6
+3. ZŠ a MŠ Krajková, Komenského 22, 357 08 Krajková
+3.D ZŠ Šenov, Radniční náměstí 1040, PSČ 739 34
+3. CZŠ a MŠ ve Zlíně, Česká 4787, 760 05 Zlín
+II. C ZŠ a MŠ Brno, Křídlovická 30b, Křídlovická 30b, 603 00 Brno
+2. ZŠ E. Nápravníka, Býšť 72, 533 22
+3. C ZŠ Heyrovského, Heyrovského 32, 635 00 Brno
+
+3.A ZŠ a MŠ Chýně, Bolzanova 800, Chýně 253 03
+3.B ZŠ Ostrava-Hrabůvka, Provaznická 64, Ostrava - Hrabůvka, 700 30
+3.B ZŠ a MŠ Antonína Čermáka, Antonína Čermáka 6, Praha 6, 160 00
+3. Škola Jasmína, Pálenická 4, 323 00 Plzeň
+III. Škola příběhem – církevní ZŠ, Filipínského 1, 615 00 Brno
+3. A ZŠ a MŠ Brno Kotlářská 4, Kotlářská 4, 602 00 Brno
+3.B ZŠ Řevnice, Školní 600, Řevnice 252 30
+2. B ZŠ Hať, Na Chromině 2, Hať, 747 16
+3. A ZŠ Brno, Sirotkova 36, Sirotkova 371/36, 616 00 Brno
+3.C Masarykova ZŠ, Slavětínská 200, 190 14 Klánovice
+2.A ZŠ Bohumila Hrabala, Zenklova 26/52, Praha 8 - Libeň, 180 00
+III. A ZŠ a MŠ Šaratice, Náves 96. 683 52 Šaratice
+2. IV Školy Březová, Březová 102, 687 67 Březová
+3. tř. ZŠ Vladimíra Menšíka Ivančice, Růžová 7, 664 91 Ivančice
+2. ZŠ a MŠ Tetín, Hradní 66, 266 01 Tetín
+2. ZŠ a MŠ Plzeň - Božkov, Vřesinská 17, 326 00 Plzeň
+3.A ZŠ Dobřany, Tř. 1. Máje 618, 334 41 Dobřany
+15
+
+Soukromá ZŠ Cesta k úspěchu v Praze, Bělohorská 226/103, 169 00
+Praha 6
+ZŠ Brno, Horácké náměstí 13, Horácké náměstí 13, 621 00 Brno
+
+Natálie Hřebíčková
+
+3.
+
+Magdalena Jančová
+Petr Juříček
+Samuel Kačmár
+Sofia Kantur
+Anna Kavalírová
+Oliver Kizek
+Milada Klášterecká
+Hubert Košťák
+Marie Koubková
+Lukáš Kozmon
+Konrád Král
+Sára Kratochvílová
+
+3. C
+3.A
+2.
+2.A
+3.B
+3.B
+2.
+3.B
+2.
+3. B
+3.A
+3. A
+
+Martina Krištofová
+
+3.C
+
+Sofia Krivolapova
+František Kropáček
+
+3. B
+3.C ZŠ Pardubice - Studánka, Pod Zahradami 317, 530 03 Pardubice
+
+Theodor Křivka
+Marek Kubečka
+Klaudie Kvaková
+Martin Lexman
+Ondřej Loew
+Michael Málek
+Prokop Maléř
+Kristíán Malík
+David Maňásek
+Viola Mazzolinin
+Kryštof Medek
+Hynek Mencl
+Michal Menšík
+Roman Mereda
+Vojtěch Míčka
+Filip Michl
+Mikuláš Mikoška
+Alena Mokrá
+Zdislava Mokrejšová
+Denis Munčinský
+Agáta Navrátilová
+Adam Nedbal
+Kateřina Nepustilová
+Vít Nevařil
+
+ZŠ Amos, Cihelní 6, 792 01 Bruntál
+Sofie - ZŠ a MŠ, Žižkova 286/12, Říčany, 251 01
+ZŠ Na Planině, Na Planině 1393/3, Praha 4
+ZŠ Wagnerovo nám., Wagnerovo nám. 458, 266 01 Beroun
+ZŠ Praha-Kolovraty, Mírová 57/47, 103 00, Praha 10 Kolovraty
+UZMŠ Lvíčata, Thákurova 1, Praha 6, 160 41
+Školy Hlásek - ZŠ a MŠ, U Kapličky 58, 267 18 Hlásná Třebaň
+ZŠ Lípa, Jihlavská 635, 595 01 Velká Bíteš
+ZŠ nám. Republiky, náměstí Republiky 9, 669 02 Znojmo
+ZŠ Bernarda Bolzana, Školní náměstí 199, 390 01 Tábor
+ZŠ Lednice, Břeclavská 510, 691 44 Lednice
+ZŠ a MŠ Dr. Edvarda Beneše, nám. Jiřího Berana 500, Praha 9 Čakovice, 196 00
+ZŠ Brno, Jana Babáka 1, Jana Babáka 1, 616 00 Brno
+
+Křesťanská ZŠ a MŠ J. A. Komenského, Růžodolská 118/26, 460 01
+Liberec XI
+ZŠ a MŠ Dr. Edvarda Beneše, nám. Jiřího Berana 500, Praha 9 3.C Čakovice, 196 00
+2.A Základní škola, Praha 8, Glowackého 555/6, 181 00, Praha 8
+3.C ZŠ B. Němcové Zábřeh, B. Němcové 1503/15, 789 01 Zábřeh
+2.M ZŠ Montessori Kladno, Pařížská 2249, 272 01
+ZŠ a MŠ Dr. Edvarda Beneše, nám. Jiřího Berana 500, Praha 9 2.M
+Čakovice, 196 00
+2. ZŠ Sedmikráska, Bezručova 293, 756 61 Rožnov pod Radhoštěm
+2. ZŠ Sedmikráska, Bezručova 293, 756 61 Rožnov pod Radhoštěm
+III. A ZŠ a MŠ Brno, Křídlovická 30b, Křídlovická 30b, 603 00 Brno
+3.B ZŠ a MŠ Chýně, Bolzanova 800, Chýně 253 03
+3. C ZŠ Svážná, Svážná 9, 634 00 Brno Nový Lískovec
+3.B ZŠ Litvínovská, Litvínovská 600, Praha 9, 190 00
+3.C ZŠ Praha-Kolovraty, Mírová 57/47, 103 00, Praha 10 Kolovraty
+3. A ZŠ Lednice, Břeclavská 510, 691 44 Lednice
+3.A ZŠ Strossmayerovo nám., Strossmayerovo náměstí 4/990, 170 00
+
+III.
+
+2.B ZŠ a MŠ Kubatova, ZŠ a MŠ, Kubatova 1, 370 04 České Budějovice
+III. B ZŠ a MŠ Brno, Křídlovická 30b, Křídlovická 30b, 603 00 Brno
+III. B ZŠ a MŠ T. G. Masaryka Zastávka, U Školy 181, 664 84 Zastávka
+3.A Základní škola sv. Voršily v Praze, Ostrovní 9, Praha 1, 110 00
+3.B ZŠ Chlumec, ZŠ Chlumec, Muchova 228, Chlumec 403 39
+2.A ZŠ Bohumila Hrabala, Zenklova 26/52, Praha 8 - Libeň, 180 00
+3.D ZŠ 28. října, 28. října 1157, Neratovice
+ZŠ a MŠ Lichnov, 793 15 Lichnov 46
+2
+3.A ZŠ a MŠ Červený Vrch, Alžírská 680/26, Praha 6, 160 00
+16
+
+Adéla Ondráková
+Bohumil Opekar
+Šimon Papánek
+Klára Pavelková
+Jaroslav Petřivý
+Ema Piliarik
+Dan Poberežnyk
+Štěpán Popďakunin
+Eva Pospíšilová
+Jan Přibyl
+Tomáš Příkazský
+Filip Raab
+Tobiáš Rauch
+Barbora Rubášová
+Ivan Rudenko
+Jan Rumánek
+Petr Sagatelian
+Lucie Salajková
+Matyáš Salva
+Štěpán Sekera
+Lucie Skálová
+Veronika Skrbková
+
+3.B ZŠ Okříšky, J. A. Komenského 87, 675 21 Okříšky
+3.C ZŠ, Dukelská 11, Dukelská 11, 370 01 České Budějovice
+3.C ZŠ Velké Popovice, Komenského 5, Velké Popovice, 251 69
+3.B ZŠ Chlumec, ZŠ Chlumec, Muchova 228, Chlumec 403 39
+3.A ZŠ Otokara Březiny, Demlova 34, 586 01 Jihlava
+3. ZŠ a MŠ IDEA s.r.o., U Továrny 1, Zdiby, 250 66
+2. ZŠ Formanská, Na Vojtěšce 188, 149 00 Újezd u Průhonic
+3.C ZŠ Pardubice - Studánka, Pod Zahradami 317, 530 03 Pardubice
+III. B ZŠ a MŠ T. G. Masaryka Zastávka, U Školy 181, 664 84 Zastávka
+3. A ZŠ Horníkova, ZŠ a MŠ, Brno, Horníkova 1, 628 00
+3. ZŠ a MŠ Bratčice, Bratčice 69, 664 67 Syrovice
+3. C ZŠ Svážná, Svážná 9, 634 00 Brno Nový Lískovec
+2. ZŠ a MŠ Plzeň - Božkov, Vřesinská 17, 326 00 Plzeň
+3.B 5. ZŠ Cheb, Matěje Kopeckého 1, 350 02 Cheb
+3.C ZŠ Karla Čapka, Kodaňská 16, 101 00 Praha 10
+3.C ZŠ Donovalská, Donovalská 1684, 149 00 Praha 4-Chodov
+3.B ZŠ a MŠ Antonína Čermáka, Antonína Čermáka 6, Praha 6, 160 00
+3. A ZŠ Lednice, Břeclavská 510, 691 44 Lednice
+II. B ZŠ a MŠ Brno, Křídlovická 30b, Křídlovická 30b, 603 00 Brno
+3.D ZŠ Šenov, Radniční náměstí 1040, PSČ 739 34
+3.C ZŠ Schulzovy sady, Školní 1235, 544 01 Dvůr Králové nad Labem
+3. A ZŠ V DOMCÍCH, V Domcích 488, 541 01 Trutnov
+
+Samuel Slunský
+
+3.C
+
+Jakub Sobolík
+Agáta Solovjova
+Magdaléna Součková
+Magdaléna Sprinzlová
+Dominik Stočes
+Dora Svobodová
+Ivana Šáchová
+David Šaman
+Martin Šedivý
+Teodor Šeketa
+Aniko Šenková
+Eduard Šindelář
+Erich Šíra
+Mariana Školařová
+Pavel Šmejkal
+Matěj Štarman
+Tereza Švejdová
+Michal Toman
+Vojtěch Trčka
+
+3.B
+3.
+III.C
+3.
+3B
+2.B
+II. B
+3.C
+3.
+2.
+3.
+3.B
+3. B
+2. IV
+3.B
+2.C
+3. A
+2. A
+3.a
+
+ZŠ a MŠ Dr. Edvarda Beneše, nám. Jiřího Berana 500, Praha 9 Čakovice, 196 00
+ZŠ Kolín V., Mnichovická 62, 28002 Kolín V
+ZŠ Vitae s.r.o., Chomutovická 1443/4, Praha 11, 149 00
+Základní škola, Hornoměcholupská 873, Praha 10, 102 00
+28. ZŠ Plzeň, Rodinná 39, 312 00 Plzeň
+ZŠ a MŠ Chodov, Květnového vítězství 57/17, 149 00 Praha 4
+ZŠ Humpolec, Hradská 894, 396 01 Humpolec
+ZŠ a MŠ Brno, Křídlovická 30b, Křídlovická 30b, 603 00 Brno
+ZŠ Ostrava Zelená, Zelená 1406/2, Moravská Ostrava a Přívoz, 702 00
+ZŠ Matice školské, Matice školské 3, 370 01 České Budějovice
+ZŠ a MŠ Parentes, Tlumačovská 32, 155 00 Praha 13 – Stodůlky
+TT Primary School, Královická 915, Brandýs n/L-St. Boleslav, 250 01
+Základní škola Londýnská, Londýnská 34, 120 00 Praha 2
+ZŠ Brno, Krásného 24, Krásného 24, 636 00 Brno
+Školy Březová, Březová 102, 687 67 Březová
+ZŠ Vorlina, U Vorliny 1500, 258 01 Vlašim
+ZŠ Smetanova, Smetanova 1509, 535 01 Přelouč
+ZŠ a MŠ Ostrovačice, Ríšova 43, 664 81 Ostrovačice
+ZŠ Mohylová, Mohylová 1963, 155 00 Praha 5 - Stodůlky
+ZŠ Chvaletická, Chvaletická 918, 198 00 Praha 9
+17
+
+Matyáš Trepáč
+Adéla Vaněčková
+Michael Varga
+Adam Vašica
+Michael Vesecký
+Viktor Viochna
+
+3. C
+2.D
+3.B
+3.B
+3
+2.A
+
+Vojtěch Vízek
+
+3.A
+
+Rafael Vlk
+Hynek Vymazal
+Josefína Zafková
+Michaela Zakopalová
+Michal Zavřel
+Beáta Zemachová
+Viktor Zhukovskyi
+Tereza Zvárová
+Matěj Žert
+Eliška Žižkovská
+
+3. B
+3. C
+3.
+3. A
+3.A
+3. A
+3.C
+3
+3. A
+2. B
+
+Základní škola Břeclav, Slovácká 2853/40, 690 02 Břeclav
+ZŠ Burešova, Burešova 14, Praha 8, 182 00
+ZŠ Litomyšl, U Školek, U Školek 1117, 570 01, Litomyšl
+MZŠ Velký Osek, Velký Osek, 281 51, Vrchlického 236
+ZŠ a MŠ Chotýšany, Chotýšany 49, 257 28
+Masarykova ZŠ a MŠ Bohumín, Seifertova 601, 735 81 Bohumín
+Biskupské G., církevní ZŠ, MŠ a ZUŠ, Orlické nábřeží 1/356 Hradec
+Králové, 500 03
+ZŠ Opava, Otická 18, Základní škola Opava, Otická 18, Opava, 746 01
+ZŠ Ivana Sekaniny, Ivana Sekaniny 1804, Ostrava-Poruba, 708 00
+ZŠ a MŠ Parentes, Tlumačovská 32, 155 00 Praha 13 – Stodůlky
+ZŠ a MŠ Pustiměř, Pustiměř 207, 683 21 Pustiměř
+ZŠ a MŠ Bedihošť, Komenského 86, 798 21 Bedihošť
+ZŠ a MŠ Brno, Horní 16, Horní 16, 639 00 Brno
+Základní škola, Praha 8, Glowackého 555/6, 181 00, Praha 8
+ZŠ Trojská, Trojská 211/110, Praha 7, 17100
+ZŠ a MŠ Brno Kotlářská 4, Kotlářská 4, 602 00 Brno
+Základní škola Tetčice, Palackého 52, 664 17 Tetčice
+
+18
+
+Matematický KLOKAN 2022
+www.matematickyklokan.net
+
+kategorie Klokánek
+Úlohy za 3 body
+1. Která z cest zavede včelku na květinu?
+(A) ↓ ↓ → ↓ ↓
+(D) → ↓ → ↓ ↓ →
+
+(B) → ↓ → ↓ ↓
+(E) ↓ → → ↓ ↓ ↓
+
+(C) → → ↓ ↓ ↓
+
+2. Na levém obrázku vidíš, jak zrcadla odrážejí paprsek laseru. Kterým bodem
+projde odrážený paprsek na obrázku
+vpravo?
+
+E
+D
+
+(A) A (B) B (C) C (D) D (E) E
+
+A
+
+B
+
+C
+
+A
+3. V každém řádku a v každém sloupci mají být právě dvě mince.
+Kterou minci musíš přemístit do některého prázdného pole?
+(A) A
+
+(B) B
+
+(C) C
+
+(D) D
+
+(E) E
+
+D
+B
+C
+
+E
+
+4. Kolik nejméně krabic musí David
+přemístit, aby mohl otevřít černou
+krabici?
+(A) 3 (B) 4 (C) 5 (D) 6 (E) 7
+
+5. Klokan Tom doskáče po číselné ose od 0 na
+číslo 16. Pravidelně střídá dlouhý skok se
+3332323252udělá?
+52545454242421212111
+dvěma krátkými. Kolik skoků
+111414143434313131313134343444
+0
+2 3 4
+(A) 4 (B) 7 (C) 8 2(D)
+2252525955 55(E)
+5252521212
+12111
+4441414111
+33333
+333ve
+23232čtvercích
+4242424242525252525se
+222společnou stranou byla
+6. Doplň puzzle tak, aby čísla
+444141413131313131313134343444
+navzájem různá. Který dílek použiješ?
+44444
+11111
+22222
+22222
+33333
+(A) 11121212323233(B)
+(C)
+(D)
+(E)
+3
+4
+2
+4
+1
+3
+3
+1
+4
+3 333434424222 444141131333 333131141444 222121214141444
+
+19
+
+4
+1 2 3
+
+1
+3 4 2
+
+3 2 5 4 2 1
+1 4 3 1 3 4
+2 5
+5 2 1
+4 1
+3
+3 2 4 2 5 2
+4 1 3 1 3 4
+2
+4 1 3
+
+2
+3 1 4
+
+3
+2
+
+7. Dino projde místnostmi od vstupu
+k východu, každou navštíví nejvýše
+jednou. Pak sečte čísla z každé
+místnosti, kterou prošel. Který největší součet může získat?
+(A) 27
+
+(B) 29
+
+(C) 32
+
+(D) 34
+
+(E) 36
+
+8. Která čísla můžeš zapsat do prázdných čtverečků, aby platilo 2022 +
+(A) 1 a 4
+
+(B) 3 a 5
+
+(C) 3 a 4
+
+(D) 7 a 2
+
+= 2020 +
+
+?
+
+(E) 9 a 8
+
+Úlohy za 4 body
+9. Marek postavil z dílků stavebnice věž. Co Marek uvidí, když se na
+věž podívá shora?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+10. Klokaním sourozencům je 2, 4, 5, 6, 8 a 10 let. Čtyřem z nich je dohromady 22 let.
+Kolik let je zbývajícím dvěma sourozencům?
+(A) 2 a 8
+
+(B) 4 a 5
+
+(C) 5 a 8
+
+(D) 6 a 8
+
+(E) 6 a 10
+
+11. Pět aut označených čísly 1, 2, 3, 4, 5 vyjelo stejným směrem.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Nejprve poslední auto předjelo dvě auta. Potom předposlední auto předjelo dvě
+auta. Naposled předjelo dvě auta prostřední auto. V jakém pořadí jedou nyní?
+(A) 1, 2, 3, 5, 4 (B) 2, 1, 3, 5, 4 (C) 2, 1, 5, 3, 4 (D) 3, 1, 4, 2, 5 (E) 4, 1, 2, 5, 3
+12. Mojmír chtěl sestavit tabulku s čísly tak, aby v každém řádku
+a v každém sloupci byl součet čísel stejný. Jedno číslo však zapsal
+chybně. Které?
+(A) 1
+(D) 5
+
+(B) 3
+(E) jedno z čísel 7
+
+(C) jedno z čísel 4
+
+13. Čtvercový koberec na obrázku je po celém obvodu ozdobený
+dvěma řadami pravidelně rozmístěných teček. Kolik teček je na
+celém koberci?
+(A) 48
+
+(B) 44
+
+(C) 40
+
+(D) 36
+
+20
+
+(E) 32
+
+9
+
+1
+
+5
+
+3
+
+7
+
+6
+
+4
+
+7
+
+4
+
+14. Jana překládala čtverečkovaný papír s čísly tak, jak
+vidíš na obrázku. Nakonec
+v něm udělala otvor. Která
+z čísel proděravěla?
+(A) 8, 11, 26, 29
+(D) 14, 16, 21, 23
+
+1 2 3 4 5 6
+7 8 9 10 11 12
+13 14 15 16 17 18
+19 20 21 22 23 24
+25 26 27 28 29 30
+31 31 33 34 35 36
+
+(B) 14, 17, 20, 23
+(E) 15, 17, 20, 22
+
+(C) 15, 16, 21, 22
+
+15. V kině sedí v každé řadě stejný počet žáků. Před Robertem jsou dvě řady žáků a za
+ním jedna řada. Vedle Roberta sedí 3 žáci vlevo a 5 vpravo. Kolik žáků je v kině?
+(A) 10
+
+(B) 17
+
+(C) 18
+
+(D) 27
+
+pohled shora
+
+16. Pyramida na obrázku je sestavená
+z krychlí s hranami o délce 10 cm.
+Jak dlouhá bude cesta mravence, který
+pyramidu překoná po tlusté čáře?
+(A) 30 cm
+(D) 80 cm
+
+(B) 60 cm
+(E) 90 cm
+
+(E) 36
+
+(C) 70 cm
+
+Úlohy za 5 bodů
+
+17. Vanda si vybrala několik dílků ze stavebnice na obrázku.
+Řekla: „Dva moje dílky jsou tmavé, dva velké a dva kulaté.“
+Kolik nejméně dílků si mohla Vanda vybrat?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+18. Fotbalového turnaje se zúčastnily tři týmy. Každý tým hrál zápas se všemi ostatními. V případě výhry, získal vítězný tým 3 body. V případě remízy 1 bod a pokud
+zápas prohrál, žádný bod. Kolik bodů nemohl získat žádný tým?
+(A) 1
+
+(B) 2
+
+(C) 4
+
+(D) 5
+
+19. Krychle na obrázku je složená ze
+tří druhů dílů dřevěné stavebnice.
+Kolik bílých dílů bylo potřeba na
+stavbu krychle?
+(A) 8 (B) 11 (C) 13 (D) 16 (E) 19
+
+21
+
+(E) 6
+
+20. Radka chce umístit některý z dílků 1 až 5
+do mapy tak, aby od A
+vedla cesta k B i E, ale
+nevedla cesta od A k D.
+Které dílky může vybrat?
+(A) 1 a 2
+
+E
+
+2
+
+1
+
+F
+
+D
+
+3
+
+A
+4
+
+C
+
+(B) 2 a 3
+
+5
+
+B
+
+(C) 1 a 4
+
+(D) 4 a 5
+
+(E) 1 a 5
+
+5m
+
+10m
+5m
+
+5m
+
+A
+
+5m
+
+21. Při tréninku obíhal Adam čtvercovou zahradu a Zita obdélníkový
+park. Vyběhli současně z místa A
+a běželi stejnou rychlostí. Kolikrát
+Adam oběhl zahradu, než se opět se
+Zitou setkal v místě A?
+
+5m
+
+5m
+
+(A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+10m
+
+22. Babička natrhala měruňky a pozvala svých pět vnuček. Laura snědla o dvě
+meruňky více než Soﬁe. Betty snědla o tři meruňky méně než Laura. Karolína
+snědla o jednu meruňku více než Betty a o tři méně než Alice. Které dvě dívky
+snědly stejný počet meruněk?
+(A) Karolína a Soﬁe
+(D) Soﬁe a Alice
+
+(B) Karolína a Laura
+(E) Alice a Betty
+
+(C) Laura a Alice
+1
+
+23. Housenka Julie
+může být spící Julie?
+(A)
+
+se uložila ke spánku. Na kterém z obrázků
+
+(B)
+
+(C)
+
+(D)
+
+24. Ve čtvercové tabulce se pod políčky stejné barvy skrývají stejná
+čísla. Na obrázku vpravo vidíš součty čísel v jednotlivých řádcích.
+Které číslo se skrývá pod černým políčkem?
+(A) 6
+
+(B) 8
+
+(C) 10
+
+(D) 12
+
+22
+
+(E) 14
+
+(E)
+
+34
+32
+26
+
+Správná řešení soutěžních úloh
+KLOKÁNEK 2022
+
+Úlohy za 3 body:
+1 D, 2 B, 3 C, 4 C, 5 E, 6 D, 7 D, 8 B,
+Úlohy za 4 body:
+9 A, 10 C, 11 B, 12 B, 13 E, 14 B, 15 E, 16 E,
+Úlohy za 5 bodů:
+17 B, 18 D, 19 B, 20 E, 21 C, 22 A, 23 A, 24 D.
+
+23
+
+Statistické výsledky
+KLOKÁNEK 2022
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+104
+X
+X
+19
+130
+67
+60
+14
+68
+115
+163
+76
+77
+86
+147
+181
+181
+96
+139
+169
+
+246
+230
+188
+184
+230
+272
+287
+262
+265
+277
+331
+383
+397
+346
+352
+449
+455
+459
+484
+465
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+541
+577
+584
+610
+604
+722
+801
+764
+794
+773
+846
+904
+984
+1052
+1004
+1028
+1128
+1218
+1243
+1250
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+1361
+1386
+1480
+1632
+1583
+1685
+1700
+1725
+1807
+1707
+1834
+1983
+1993
+2054
+2007
+1985
+2091
+2165
+2146
+1960
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+2151
+2096
+2051
+1969
+1906
+1898
+1945
+1892
+1750
+1562
+1564
+1599
+1472
+1248
+1174
+1078
+1179
+838
+724
+635
+
+619
+532
+498
+329
+281
+265
+231
+195
+113
+95
+116
+98
+59
+37
+48
+48
+29
+10
+11
+8
+54
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+celkový počet řešitelů: 96 572
+
+průměrný bodový zisk: 50,15
+
+Percentil
+
+3
+
+10
+
+25
+
+50
+
+75
+
+90
+
+97
+
+Počet bodů
+
+19
+
+27
+
+35
+
+47
+
+62
+
+78
+
+96
+
+24
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Klokánek z tabulky „Výsledky soutěže“
+
+30
+
+Klokánek 2022
+
+90
+
+93
+
+96
+
+99
+
+102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+KLOKÁNEK 2022
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Klement Bareš
+Theodor Bartoň
+Adam Benedikt
+Dan Blahoušek
+Filip Brabec
+Tobiáš Bursík
+Alžběta Cahová
+Alžběta Čapková
+
+5.
+5.C
+5.B
+4.A
+5.
+5.C
+5.
+5.
+
+Jakub Čejka
+
+V.
+
+Hynek Čejka
+Matěj Černohorský
+Viktor Černý
+Jindřich Češka
+Lukáš Dušek
+Tomáš Dušek
+Jakub Esselbach
+Adéla Fišerová
+Pavel Flajšar
+Antonín Fousek
+Magdalena Hahnová
+Tomáš Hála
+Barbora Housková
+Martin Houška
+Kateřina Hrubá
+Alžběta Charousová
+Patrik Chlup
+
+5.C
+5. A
+5.
+5.A
+4.A
+5. D
+5.B
+5.
+5. A
+5. C
+5.
+5.A
+5.B
+5. B
+5. D
+5.D
+5. B
+
+Vít Chorošenin
+
+4.
+
+Václav Janák
+Dominik Janda
+Vojtěch Janecký
+Martin Jelínek
+Eliáš Jelínek
+
+5. B
+4.B
+5.
+5.
+5.C
+
+ZŠ a MŠ Trivium Plus, Dobřany v Orl. H. 2, 518 01 Dobruška
+ZŠ Řevnice, Školní 600, 252 30 Řevnice
+ZŠ Praha - Radotín, Loučanská 1112/3, 153 00 Praha-Radotín
+ZŠ a MŠ Prostějov, Palackého tř. 14, 796 01 Prostějov
+ZŠ Dolní Břežany, Na Vršku 290, 252 41 Dolní Břežany
+ZŠ Dolní Břežany, Na Vršku 290, 252 41 Dolní Břežany
+ZŠ a MŠ Šanov, Šanov 97, 763 21 Slavičín
+Open Gate, Na Návsi 5, 251 01 Babice
+Křesťanská ZŠ a MŠ J. A. Komenského, Růžodolská 118/26, 460 01
+Liberec XI
+ZŠ Liberec, ul. 5. května 64/49, 460 01 Liberec 1
+PORG – G a ZŠ, Pod Krčským lesem 25, 142 00 Praha 10
+Tyršova ZŠ a MŠ, U Školy 7, 326 00 Plzeň
+ZŠ Vítězslava Hálka, Školní 200, 250 70 Odolena Voda
+Základní škola Londýnská, Londýnská 34, 120 00 Praha 6
+ZŠ a MŠ Pohořelice, Dlouhá 35, 691 23 Pohořelice
+ZŠ Železný Brod, Školní 700, 468 22 Železný Brod
+ZŠ a MŠ Orlické Podhůří, Říčky 59, 562 01 Orlické Podhůří
+ZŠ Brno, Kamínky 5, 634 00 Brno
+ZŠ Brno, Laštůvkova 77, 635 00 Brno
+Soukromá MŠ a ZŠ, Rozmarýnová 3, 637 00 Brno
+ZŠ a MŠ ANGEL, Angelovova 3183/15, 143 00 Praha – Modřany
+1. ZŠ Sedlčany, Hrabří 18, 264 01 Sedlčany
+ZŠ Jižní předměstí Rokycany, Čechova 855, 337 01 Rokycany
+ZŠ Brno, Laštůvkova 77, 635 00 Brno
+ZŠ Strossmayerovo nám., Strossmayerovo náměstí 4/990, 170 01
+ZŠ Šlapanice, Masarykovo nám. 16, 664 51 Šlapanice
+Soukromá ZŠ Cesta k úspěchu v Praze, Bělohorská 226/103, 169 00
+Praha 6
+ZŠ a MŠ Lelekovice, Hlavní 102/32, 664 31 Lelekovice
+ZŠ kpt. Jaroše, Gorkého 38, 541 01 Trutnov
+ZŠ a MŠ Třebívlice, U Zámku 7, 411 15 Třebívlice
+ZŠ a MŠ Kamenice, Kamenice 402, 588 33 Kamenice
+ZŠ Černošice, Pod Školou 447, 252 28 Černošice
+26
+
+Martin Kaláb
+Matyáš Kašpárek
+Klára Kočková
+Adéla Kohoutová
+Maxim Kolaja
+Jan Komačka
+Patrik Komůrka
+Matěj Korytář
+Lucie Kovaříková
+Vincent Král
+Jaroslav Krejča
+Lukáš Kresta
+
+5.
+5.
+5.C
+5. C
+5.
+V. A
+4. C
+5. A
+5. A
+5. B
+5. C
+5.B
+
+Michael Kundračík
+
+4.C
+
+Tomáš Kvapil
+Linda Kybicová
+Sára Langrová
+
+5.
+5. A
+5. B
+
+Matyáš Lapáček
+
+5. B
+
+Macák Lukáš
+Vít Lukavský
+Michal Mach
+Zdeněk Machala
+Vojtěch Marek
+Stella Matušáková
+Myroslav Mikulin
+Andy Navrátil
+Kryštof Novák
+Štěpán Novotný
+Celestýna Ondrůšková
+Karolína Opletalová
+Tadeáš Pacák
+Vítězslav Pacek
+Monika Pachlopníková
+Alžběta Palátová
+Timon Pater
+Julie Petlachová
+Kateřina Pokorná
+Antonín Pomikálek
+Martin Prokop
+Tobiáš Radkovský
+Antonín Rund
+Matěj Schroll
+
+5.
+5.M
+5. IV
+5.
+5.C
+5.B
+4.E
+4.
+5.
+5.A
+4.B
+5. A
+4.
+5. B
+4. B
+5.
+4.B
+5.
+5.
+IV. B
+5.B
+5. A
+5.B
+5. A
+
+2. ZŠ Heuréka, Pellicova 20, 602 00 Brno-střed
+ZŠ Velký Ořechov, Velký Ořechov 124, 763 07
+ZŠ a MŠ, L. Kuby, L. Kuby 48, 370 07 České Budějovice
+ZŠ Tišnov, nám. 28. října 1708, 666 01 Tišnov
+ZŠ a MŠ Strážovice, Strážovice 36, 696 38
+ZŠ E. Zátopka, Pionýrská 791, 742 21 Kopřivnice
+ZŠ Tišnov, Smíškova 840, 666 01 Tišnov
+ZŠ Kostelec n. Č. L., nám. Smiřických 33, 281 63 Kostelec n. Č. L.
+ZŠ a MŠ Pozořice, U školy 386, 664 07 Pozořice
+ZŠ Libochovice, Vrchlického 284, 411 17 Libochovice
+ZŠ Máj I, M. Chlajna 21, 370 05 České Budějovice
+ZŠ Porubská, Porubská 12/832, 708 00 Ostrava-Poruba
+Soukromá ZŠ s RVJ DINO ELEMENTARY SCHOOL,s.r.o.,
+Bellova 352, 109 00 Praha 10
+Heřmánek Praha, ZŠ a G, Rajmonova 1199/4, 182 03 Praha 8
+ZŠ Na Planině, Na Planině 1393/3, Praha 8
+ZŠ Přerov, Svisle 13, 750 02 Přerov
+Základní škola Campanus, Jírovcovo náměstí 1782, 148 00 Praha 4 Chodov
+ZŠ Hořice, Komenského 338, 508 01 Hořice
+ZŠ Montessori Kladno, Pařížská 2249, 272 01 Kladno
+Školy Březová, Březová 102, 687 67 Březová
+ZŠ Kvasice, Husova 642, 768 21 Kvasice
+ZŠ Petřiny-sever, Na Okraji 43, 162 04 Praha 6
+ZŠ Ostrava, Gen. Píky 13A/2975, 702 00 Ostrava
+ZŠ Bohumila Hrabala, Zenklova 26/52, 180 00 Praha 8 - Libeň
+ZŠ a SMŠ Radslavice, Školní 5, 751 11 Radslavice
+Sportovní ZŠ a MŠ Človíček, Kunická 1568, 102 00 Praha 15
+ZŠ a MŠ, L. Kuby, L. Kuby 48, 370 07 České Budějovice
+ZŠ UNESCO, Komenského náměstí 350, 686 62 Uherské Hradiště
+ZŠ Gajdošova, Gajdošova 3, 615 00 Brno-Židenice
+ZŠ V. Talicha, V. Talicha 1855, 434 01 Most
+Základní škola, Vejrostova 1, 635 00 Brno
+Základní škola Kuřim, Tyršova 1255/56, 664 34 Kuřim
+ZŠ Lípa Velká Bíteš, Jihlavská 635, 595 01 Velká Bíteš
+ZŠ Černošice, Pod Školou 447, 252 28 Černošice
+ZŠ a MŠ, Ochoz u Brna 75, 664 02 Ochoz u Brna
+ZŠ Teplýšovice, Teplýšovice 45, 256 01
+ZŠ a MŠ Brno, Křídlovická 30b, 603 00 Brno
+ZŠ Táborská, Základní škola, Táborská 421/45, 140 00 Praha 4
+ZŠ a MŠ Petra Strozziho, Za Invalidovnou 579/3, 186 00 Praha 8
+ZŠ Magic Hill, Mánesova 2630/3b, 251 01 Říčany
+PORG – G a ZŠ, Pod Krčským lesem 25, 142 00 Praha 10
+
+27
+
+Anežka Skalická
+Anna Skořepová
+Tomáš Splesniok
+Jakub Starý
+Adam Svoboda
+Robin Svoboda
+Vojtěch Sysr
+Antonín Šafrata
+Vít Šebela
+Markéta Šebelová
+Eduard Škarka
+Theodor Šnapka
+
+5.
+5.C
+5.
+5. A
+5
+5.
+5.
+4.B
+5.B
+4.A
+5. B
+5.C
+
+Antonín Šťastný
+
+5.
+
+Jakub Šupálek
+Filip Tetzeli
+Valérie Tlapáková
+Jan Tocháček
+Ondřej Trávníček
+Ema Uhlířová
+Štěpán Urbánek
+Lucie Vajndlichová
+Veronika Venclíková
+Jan Veselý
+Marek Vicenda
+Tomáš Vokřínek
+Nikolas Vopařil
+Martina Všetičková
+Radka Zakuťanská
+David Zapletal
+Lukáš Závodný
+Vítězslav Žváček
+
+4. C
+5. A
+5.A
+5.B
+4.B
+5.A
+5. B
+5.C
+5. B
+5. C
+5.
+5. D
+5. A
+5.A
+5. B
+5.B
+5. C
+5.
+
+ZŠ Letohrad, Komenského ul. 269, 561 51 Letohrad
+ZŠ Burešova, Burešova 14, 182 00 Praha 8
+ZŠ Pianeta, Trnková 280, 735 51 Bohumín - Pudlov
+ZŠ Gajdošova, Gajdošova 3, 615 00 Brno-Židenice
+Bratrská škola, Rajská 300/3, 170 00 Praha 7
+ZŠ a MŠ Viničné Šumice, Viničné Šumice 42, 664 06
+ZŠ Letohrad, Komenského ul. 269, 561 51 Letohrad
+ZŠ Řevnice, Školní 600, 252 30 Řevnice
+Základní škola Londýnská, Londýnská 34, 120 00 Praha 6
+Základní škola Londýnská, Londýnská 34, 120 00 Praha 6
+ZŠ Ústí nad Orlicí, Komenského 11, 562 01 Ústí nad Orlicí
+ZŠ Ostrava, Zelená 1406/2, 702 00 Moravská Ostrava a Přívoz
+ZŠ a MŠ Libice nad Doubravou, náměstí sv. Jiljí 11, 582 77 Libice
+nad Doubravou
+ZŠ Břeclav, Slovácká 40, Slovácká 2853/40, 690 02 Břeclav
+PORG – G a ZŠ, Pod Krčským lesem 25, 142 00 Praha 10
+Smart Academia ZŠ, Pionýrů 79, 253 01 Hostivice
+ZŠ Stod, Komenského nám. 10, 333 01 Stod
+ZŠ Petřiny-sever, Na Okraji 43, 162 04 Praha 6
+ZŠ a MŠ Krčín, Žižkovo náměstí 1, 549 01 Nové Město nad Metují
+ZŠ Jižní předměstí Rokycany, Čechova 855, 337 01 Rokycany
+ZŠ Burešova, Burešova 14, 182 00 Praha 8
+PORG – G a ZŠ, Pod Krčským lesem 25, 142 00 Praha 10
+Církevní ZŠ Veselí n. M., Školní 698, 698 01 Veselí nad Moravou
+ZŠ Plzeň - Újezd, Národní 76/1, 312 00 Plzeň
+ZŠ Brno, Sirotkova 371/36, 616 00 Brno
+PORG – G a ZŠ, Pod Krčským lesem 25, 142 00 Praha 10
+ZŠ Mládí, Mládí 135/4, 155 00 Praha 5 Stodůlky
+ZŠ Svatoplukova, Svatoplukova 7, 785 01 Šternberk
+ZŠ Ostrava - Hrabůvka, Provaznická 64, 700 30 Ostrava - Hrabůvka
+ZŠ Hodonín, Vančurova 2, 695 01 Hodonín
+ZŠ a MŠ Zvole, Zvole 119, 789 01 Zábřeh
+
+28
+
+Matematický KLOKAN 2022
+www.matematickyklokan.net
+
+kategorie Benjamín
+Úlohy za 3 body
+3
+
+1. Stela jela na loďce kolem pěti bójí, jak je znázorněno na obrázku. Které bóje objížděla proti
+směru pohybu hodinových ručiček?
+(A) 1 a 4
+(D) 1, 4 a 5
+
+(B) 2, 3 a 5
+(E) 1 a 3
+
+1
+4
+
+(C) 2 a 3
+
+5
+2
+
+2. Na levém obrázku vidíš, jak zrcadla odrážejí paprsek laseru.
+Kterým bodem projde odrážený
+paprsek na obrázku vpravo?
+(A) A
+(D) D
+
+(B) B
+(E) E
+
+E
+D
+
+(C) C
+A
+
+3. Cisterciácké číslice se používaly na počátku
+13. století. Zápis čísla 24, který vytvoříme
+složením symbolů pro čísla 20 a 4, vypadá
+a
+takto . Obdobně číslo 81 zapíšeme
+číslo 93 takto
+
+. Jak zapíšeme číslo 45?
+
+(A)
+
+(B)
+
+1
+
+2
+
+3
+
+B
+
+4
+
+5
+
+C
+
+6
+
+7
+
+8
+
+9
+
+10 20 30 40 50 60 70 80 90
+
+(C)
+
+(D)
+
+(E)
+
+4. Vozidla na obrázku se mohou pohybovat pouze dopředu
+nebo dozadu, ale otáčet se nemohou. Kolik nejméně
+vozidel musí popojet, aby černé auto mohlo vyjet ven?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+5. Tom chce koupit přesně 95 kuliček. Ty se prodávají v baleních po 5, 10 nebo
+25 kuličkách. Urči nejmenší počet balení, která si mohl koupit.
+(A) 4
+
+(B) 5
+
+(C) 7
+
+(D) 8
+
+6. Na obrázku je čtverec ABCD s délkou strany 10 cm a kružnice
+dotýkající se všech jeho stran. Urči obsah šedé plochy.
+(A) 40 cm2 (B) 45 cm2 (C) 50 cm2 (D) 55 cm2 (E) 60 cm2
+
+29
+
+(E) 10
+
+7. Karty 4 69 113 9 51 5 67 přeskládej tak, aby vzniklo nejmenší možné
+dvanáctimístné číslo. Které bude poslední trojčíslí tohoto čísla?
+(A) 699
+
+(B) 113
+
+(C) 551
+
+(D) 967
+
+(B) 6
+(E) 48
+
+?
+
+Pravidla
+
+8. V levém obrázku vidíš pravidla pro
+počítání s šipkami. V pravém obrázku
+začneš číslem 12 a počítáš podle nich.
+Kterým číslem skončíš?
+(A) 3
+(D) 24
+
+(E) 459
+12
+
+:2
+:4
+
+×4
+
+(C) 12
+
+×2
+
+Úlohy za 4 body
+9. Číslice čísla 2022 na obrázku byly slepeny z 66 kostek a celý povrch byl pak natřen žlutou barvou.
+Kolik kostek má natřené právě 4 stěny?
+(A) 16
+
+(B) 30
+
+(C) 46
+
+(D) 54
+
+(E) 60
+
+10. Nádrž na vodu tvaru kvádru má rozměry
+4 m × 2 m × 1 m a je napuštěna vodou
+do výšky 25 cm (levý obrázek). Nádrž
+otočíme tak, aby podstava byla 1 m × 2 m
+(pravý obrázek). Do jaké výšky bude sahat hladina vody?
+(A) 25 cm
+
+(B) 50 cm
+
+4m
+
+1m
+4m
+
+25 cm
+
+(C) 75 cm
+
+(D) 1 m
+
+2m
+1m 2m
+(E) 1,25 m
+
+11. Na průhledném čtvercovém papíru jsou zakresleny obrazce.
+Papír dvakrát přeložíme napůl tak, jak je vyznačeno na obrázku. Co uvidíš?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+12. Na obrázku je čtverec o obsahu 100 cm2 s čtvercovou sítí. Která
+hodnota odpovídá obsahu tmavě vyznačené plochy?
+
+10 cm
+
+(A) 20 cm2 (B) 25 cm2 (C) 30 cm2 (D) 35 cm2 (E) 40 cm2
+10 cm
+13. Rok 2022 je zajímavý, protože v jeho zápise se třikrát vyskytuje číslice 2. Takový
+rok se třemi stejnými číslicemi prožívá Eva už potřetí. Kolik nejméně let může být
+Evě na konci roku 2022?
+(A) 18
+
+(B) 20
+
+(C) 22
+
+(D) 23
+
+30
+
+(E) 134
+
+14. Do obrázku dopiš do všech kroužků čísla 1, 2, 3 nebo 4 tak,
+aby každý řádek, každý sloupec a každá čtveřice spojená
+úsečkami obsahovala vždy všechna čísla 1, 2, 3 a 4. Které
+číslo dopíšeš do kroužku místo otazníku?
+(A) 1
+(D) 4
+
+(B) 2
+(C) 3
+(E) nelze jednoznačně určit
+
+15. Marie má doma 4 psy. Hmotnost každého jejího psa v kg je dána celým číslem.
+Žádní dva psi neváží stejně. Jejich celková hmotnost je 60 kg. Druhý nejtěžší pes
+váží 28 kg. Kolik váží její třetí nejtěžší pes?
+(A) 2 kg
+
+(B) 3 kg
+
+(C) 4 kg
+
+(D) 5 kg
+
+(E) 6 kg
+
+16. Zapiš následujících sedm čísel 3, 4, 5, 6, 7, 8, 9 do kroužků na
+obrázku tak, aby se součty tří čísel na každém paprsku rovnaly.
+Který největší možný součet tří čísel můžeš na paprsku získat?
+(A) 16
+
+(B) 18
+
+(C) 20
+
+(D) 22
+
+(E) 28
+
+Úlohy za 5 bodů
+
+17. Stejné kelímky jsou skládány do sebe (viz obrázek). Sloupec z 8 kelímků
+je vysoký 42 cm a sloupec ze 2 kelímků je vysoký 18 cm. Jak vysoký by
+byl sloupec ze 6 takových kelímků?
+(A) 22 cm
+
+(B) 24 cm
+
+(C) 28 cm
+
+(D) 34 cm
+
+(E) 40 cm
+
+18. Pět dospělých slonů a čtyři slůňata jdou
+za sebou (viz obrázek). Na rozcestí si
+každý vybere, zda bude pokračovat doleva
+či doprava. Která z následujících situací
+nemůže nastat poté, co všichni projdou
+tímto rozcestím?
+
+(A)
+
+(B)
+
+(D)
+
+(E)
+
+(C)
+
+31
+
+19. Do čtverečků
++ −
+=
+doplní Petr čtyři z čísel 2, 3, 4, 5, 6 tak, aby platila
+rovnost. Kolik z nabídnutých pěti čísel může napsat do šedého čtverečku?
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+20. K určení kódu pro odemknutí zámku máš následující čtyři nápovědy.
+
+7
+
+9
+
+3
+
+7
+
+2
+
+5
+
+3
+
+1
+
+7
+
+8
+
+4
+
+9
+
+6 8 2
+
+6 1 4
+
+2 0 6
+
+7 3 8
+
+5
+
+5
+
+1
+
+6
+
+7
+
+1
+
+Jedna z číslic
+je správná a na
+správném místě.
+
+0
+
+3
+
+Jedna z číslic je
+správná, ale na
+špatném místě.
+
+9
+
+5
+
+Dvě z číslic jsou
+správné, ale na
+špatném místě.
+
+2
+
+7
+
+Všechny tyto
+číslice jsou
+nesprávné.
+
+Který kód odemkne zámek?
+(A) 604
+
+(B) 082
+
+(C) 640
+
+(D) 042
+
+(E) 046
+
+21. Anna má model zobrazený na obrázku vpravo. Který z obrázků představuje tentýž model?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+22. Tři obrázky ukazují stavbu z kostek při pohledu shora, zepředu a zprava. Urči největší
+možný počet kostek, které mohly být použity
+k vytvoření stavby.
+
+(E)
+
+zprava
+
+shora
+
+zepředu
+
+23. Čísla 3, 4, 5, 6, 7 zapiš do pěti kroužků tak, aby číslo
+uvnitř každého trojúhelníku bylo součinem všech tří
+čísel v jeho vrcholech. Urči součet tří čísel ve vrcholech
+vybarveného trojúhelníku.
+
+105
+
+84
+
+210
+
+168
+
+(A) 18
+
+(A) 12
+
+(B) 19
+
+(C) 20
+
+(B) 14
+
+(D) 21
+
+(C) 15
+
+(E) 22
+
+(D) 17
+
+(E) 18
+
+24. Okolo kulatého stolu sedí 30 osob. Některé z nich mají na hlavě klobouk. Osoby,
+které mají klobouk, vždy říkají pravdu, zatímco ty, které klobouk nemají, mohou
+buď lhát, nebo říkat pravdu. Každý z nich tvrdí: „Alespoň jeden z mých dvou
+sousedů nemá klobouk.“ Kolik nejvíce osob u stolu může mít klobouk?
+(A) 5
+
+(B) 10
+
+(C) 15
+
+(D) 20
+
+32
+
+(E) 25
+
+Správná řešení soutěžních úloh
+BENJAMÍN 2022
+
+Úlohy za 3 body:
+1 E, 2 B, 3 D, 4 C, 5 B, 6 C, 7 A, 8 B,
+Úlohy za 4 body:
+9 E, 10 D, 11 A, 12 B, 13 D, 14 B, 15 A, 16 C,
+Úlohy za 5 bodů:
+17 D, 18 C, 19 E, 20 D, 21 C, 22 B, 23 D, 24 D.
+
+33
+
+Statistické výsledky
+BENJAMÍN 2022
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+91
+X
+X
+1
+31
+101
+90
+2
+9
+36
+110
+122
+72
+19
+55
+105
+152
+125
+77
+76
+
+156
+181
+184
+125
+127
+171
+189
+257
+230
+194
+221
+260
+298
+287
+277
+340
+347
+337
+379
+400
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+413
+421
+443
+509
+520
+484
+513
+584
+622
+676
+678
+659
+727
+754
+863
+831
+914
+912
+976
+941
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+963
+1021
+1107
+1170
+1124
+1233
+1246
+1308
+1383
+1316
+1399
+1455
+1512
+1568
+1555
+1585
+1577
+1676
+1682
+1661
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+1654
+1638
+1653
+1704
+1578
+1537
+1640
+1568
+1450
+1383
+1372
+1247
+1181
+1092
+1021
+961
+1016
+814
+832
+585
+
+581
+611
+439
+336
+326
+288
+274
+174
+153
+97
+135
+81
+78
+18
+39
+24
+41
+8
+4
+11
+27
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+celkový počet řešitelů: 76 886
+
+průměrný bodový zisk: 48,87
+
+Percentil
+
+3
+
+10
+
+25
+
+50
+
+75
+
+90
+
+97
+
+Počet bodů
+
+18
+
+25
+
+34
+
+46
+
+61
+
+77
+
+94
+
+34
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Benjamín z tabulky „Výsledky soutěže“
+
+30
+
+Benjamín 2022
+
+90
+
+93
+
+96
+
+99
+
+102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+BENJAMÍN 2022
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Aleš Antoň
+Petr Axman
+Mariam Barešová
+Petr Barták
+Katka Bártová
+Ema Bašárová
+David Bátrla
+Marek Beneda
+Ondřej Bohatý
+Vít Bouček
+Albert Dolejš
+Magdalena Drápalová
+Antonín Duda
+Adéla Dvořáková
+Adam Engel
+Hugo Gurňák
+Tomáš Hála
+Simona Havlová
+Denisa Hladěnová
+Karel Hojný
+Maxmilián Hošťálek
+Matyáš Hron
+Radim Jabůrek
+Ondřej Jirásek
+Vilém Jirásek
+Jáchym Juránek
+Adam Jurtík
+Markéta Klangová
+Matěj Kmínek
+Prokop Knapp
+
+2.A
+7. A
+2.G
+2B8
+7. C
+
+G Jaroslava Heyrovského, Mezi Školami 2475/29, 158 00 Praha 5
+ZŠ Boskovice, nám. 9. května 8, 680 01 Boskovice
+Gymnázium, Dobruška, Pulická 779, 518 01 Dobruška
+
+Slovanské gymnázium, tř. J. z Poděbrad 13, 779 00 Olomouc
+ZŠ Opava, Otická 18, 746 01 Opava
+G a hudební škola. hl. m. Prahy, Komenského nám. 400/9, 130 00
+II.B
+Praha 3
+Gymnázium, Litoměřická 726/17, 190 21 Praha 9 – Prosek
+2G
+ZŠ M. Horákové, M. Horákové 258, 500 06 Hradec Králové
+6.A
+Gymnázium Opatov, Konstantinova 1500, 149 00 Praha
+2. P
+1. B Církevní gymnázium Plzeň, Mikulášské náměstí 15, 326 00 Plzeň
+1.M Gymnázium Christiana Dopplera, Zborovská 45, 150 00 Praha 5
+Gymnázium Dr. Antona Randy, Dr. Randy 4096/13, 466 01
+V2.A
+Jablonec nad Nisou
+ZŠ T. Šobra a MŠ Písek, Šobrova 2070, 397 01 Písek
+7.A
+2.AG PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+ZŠ a MŠ Červený Vrch, Alžírská 680/26, Praha 6, 160 00
+7.D
+2/8l. G a SOŠ Frýdek-Místek, Cihelní 410, 738 01 Frýdek-Místek
+Gymnázium Roudnice nad Labem, Havlíčkova 175, 413 01
+sekunda Roudnice nad Labem
+2. A G. Jana Blahoslava Ivančice, Lány 859/2, 664 91 Ivančice
+
+sekunda
+Gymnázium Nad Alejí, Nad Alejí 1952, 162 00 Praha 6
+B
+Gymnázium Říčany, Komenského náměstí 1280/1, Říčany, 251 01
+V2
+1. B Církevní gymnázium Plzeň, Mikulášské náměstí 15, 326 00 Plzeň
+VII.A Základní škola Brána jazyků s rvm, Uhelný trh 4, Praha 1
+ZŠ a MŠ Vyškov, Letní pole, sídliště Osvobození 56, 682 01
+Vyškov
+ZŠ a MŠ Červený Vrch, Alžírská 680/26, Praha 6, 160 00
+7.D
+1. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+sekunda Gymnázium Tišnov, Na Hrádku 20, 666 01 Tišnov
+ZŠ a MŠ Janovice, Janovice 410, 739 02
+7.
+Cyrilometodějské G a SOŠ pedagogická, Lerchova 63, 602 00 Brno
+G2
+Gymnázium, Česká 64, 370 21 České Budějovice
+2.E
+ZŠ a MŠ Nový Malín, Nový Malín 274, 788 03
+6.A
+
+7. A
+
+36
+
+Anna Košťáková
+Matěj Kovačík
+
+Ester Princová
+Matěj Purkert
+Karolína Raabová
+Ivan Raděj
+Ondřej Reichel
+Jan Ryšavý
+Zuzana Sajdlová
+Yana Savenkova
+
+sekunda Mensa gymnázium, Španielova 1111/19, 163 00 Praha 6 - Řepy
+ZŠ, O. Nedbala, O. Nedbala 30, 370 05 České Budějovice
+7.A
+sekunda
+Gymnázium Nad Alejí, Nad Alejí 1952, 162 00 Praha 6
+B
+2.AG PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+sekunda Gymnázium V. Mýto, nám. Vaňorného 163, 566 01 Vysoké Mýto
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+ZŠ Zlín, Okružní 4685, Zlín, 760 05
+7.A
+2SB Gymnázium Zlín - Lesní čtvrť, Lesní čtvrť III 1364, 760 01 Zlín
+Gymnázium Opatov, Konstantinova 1500, 149 00 Praha
+1R
+Gymnázium E. Krásnohorské, Ohraní 55, 149 00 Praha 4
+II
+2. B Církevní gymnázium Plzeň, Mikulášské náměstí 15, 326 00 Plzeň
+ZŠ Šumperk, 8. května 63, 787 01 Šumperk
+6.B
+ZŠ Bodláka a Pampelišky, Veliš 40, 507 21 Veliš
+7.
+1. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+1A8 Gymnázium Benešov, Husova 470, 256 01 Benešov
+1.BG PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+2V.A Gymnázium Svitavy, Sokolovská 1638/1 , 568 02 Svitavy
+1. E Gymnázium Plzeň, Mikulášské náměstí 23, 326 00 Plzeň
+1. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+prima PORG - gymnázium a ZŠ, Lindnerova 3, 180 00 Praha 8 - Libeň
+2.A8 G Rožnov p. R., Koryčanské Paseky 1725, 756 61 Rožnov p. R.
+GNK, Nad Kavalírkou 1, Praha 5
+2A
+sekunda
+Gymnázium Nad Alejí, Nad Alejí 1952, 162 00 Praha 6
+B
+sekunda Gymnázium F. X. Šaldy, Partyzánská 530/3, 460 01 Liberec 11
+sekunda Gymnázium, Písnická 760, 142 00 Praha 4
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+2. E Gymnázium Plzeň, Mikulášské náměstí 23, 326 00 Plzeň
+G2A Gymnázium Zábřeh, nám. Osvobození 20, 789 01 Zábřeh
+ZŠ a MŠ Tábor, Husova 1570, 390 02 Tábor
+7.A
+2.A8 G F. M. Pelcla, Hrdinů odboje 36, 516 11 Rychnov nad Kněžnou
+7. D ZŠ Brno, Sirotkova 371/36, 616 00 Brno
+
+Jakub Sekal
+
+sekunda 390 01 Tábor
+
+Kateřina Semeráková
+Jana Schmidová
+Alexey Slabucho
+
+sekunda Gymnázium, Studentská 895, 295 01 Mnichovo Hradiště
+sekunda Mensa gymnázium, Španielova 1111/19. 163 00 Praha 6 - Řepy
+1.AG PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+
+Martin Kovalt
+Matěj Kovář
+Václav Kreidl
+Jiří Kučera
+Lukáš Kulhánek
+Alexandr Kusák
+Tomáš Lapka
+Jakub Linek
+Matyáš Macourek
+Josef Materna
+Jiří Mazánek
+Hana Medunová
+Jan Mezník
+Martin Molitóris
+Šimon Novák
+David Novák
+Dan Osoba
+Jakub Pazdera
+Adam Pečenka
+Šimon Pelák
+Jaromír Pešek
+Annie Petrová
+Jakub Pospíšil
+
+Jakub Slánička
+Kristýna Soukupová
+
+G Pierra de Coubertina Tábor, Náměstí Františka Křižíka 860,
+
+7.A
+
+ZŠ a MŠ J. A. Komenského, Komenského nám. 209,
+271 01 Nové Strašecí
+
+sekunda
+Gymnázium Nad Alejí, Nad Alejí 1952, 162 00 Praha 6
+A
+37
+
+Ondřej Stehlík
+Tereza Stehlíková
+Irena Šepsová
+Ondřej Šigut
+Dan Školař
+Arne Štoudek
+Nikola Šturcová
+Vojtěch Švarc
+Jakub Tesař
+Michal Tollar
+Quang Minh Tran
+Josef Turek
+Alexander Urban
+Benjamin Uriča
+Timotej Vašina
+Petr Vokřínek
+Filip Vopravil
+Šimon Wandrol
+Jiří Zakuťanský
+Adam Zavadil
+Lukáš Zedníček
+Antonín Zemek
+
+G Jaroslava Heyrovského, Mezi Školami 2475/29, 158 00 Praha 5
+2.B
+sekunda
+Masarykovo gymnázium, Petákova 2, 301 00 Plzeň
+B
+ZŠ Opatovice nad Labem, Školní 247, 533 45 Opatovice nad Labem
+7.B
+ZŠ Frýdek-Místek, Českosl. armády 570, 738 01 Frýdek-Místek
+7.E
+6. IV Školy Březová, Březová 102, 687 67 Březová
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+ZŠ a MŠ ANGEL, Angelovova 3183/15, 143 00 Praha – Modřany
+7.A
+V2A GJO Kutná Hora, Jaselská 932, 284 80 Kutná Hora
+sekunda
+Gymnázium Nad Alejí, Nad Alejí 1952, 162 00 Praha 6
+A
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+Gymnázium Šumperk, Masarykovo nám. 8, 787 01 Šumperk
+G2
+ZŠ a MŠ Suchdol, Suchdol 6, 285 02 Suchdol
+6.
+2. B Církevní gymnázium Plzeň, Mikulášské náměstí 15, 326 00 Plzeň
+ZŠ a MŠ Bílá, Bílá 1, Praha 6, 160 08
+7.A
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+2.AG PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+1. bg Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+II.A Gymnázium Šternberk, Horní náměstí 5, 785 01 Šternberk
+1.BG PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+2. ag Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+2/8l. G a SOŠ Frýdek-Místek, Cihelní 410, 738 01 Frýdek-Místek
+
+38
+
+Matematický KLOKAN 2022
+www.matematickyklokan.net
+
+kategorie Kadet
+
+Úlohy za 3 body
+
+4
+
+1. Eva jela na loďce kolem pěti bójí, jak je znázorněno na obrázku. Které bóje objížděla po směru
+pohybu hodinových ručiček?
+(A) 2, 3 a 4
+(D) 2, 4 a 5
+
+(B) 1, 2 a 3
+(E) 2, 3 a 5
+
+1
+5
+
+(C) 1, 3 a 5
+3
+
+2
+
+2. Karty 4 8 31 59 107 přeskládej tak, aby vzniklo nejmenší možné devítimístné
+číslo. Kterou kartu umístíš na konec?
+(A) 4
+
+(B) 8
+
+(C) 31
+
+3. Klokan skáče vpřed po číselné ose a pravidelně střídá dva dlouhé skoky se třemi krátkými (viz obrázek). Na které z nabízených
+čísel osy také doskočí?
+(A) 82
+
+(B) 83
+
+(C) 84
+
+0
+
+(D) 59
+
+(E) 107
+
+3
+
+6 7 8 9
+
+(D) 85
+
+(E) 86
+
+4. Z Jardova auta upadla poznávací značka. Omylem ji přidělal zpět obráceně, ale
+naštěstí v tom nebyl žádný rozdíl. Která z následujících značek by mohla být
+Jardova?
+(A) 04 NSN 40
+
+(B) 60 HOH 09
+
+(D) 03 HNH 30
+
+(E) 08 XBX 80
+
+(C) 80 BNB 08
+
+5. Robin poskládal krychli na obrázku ze stejných cihliček, jejichž
+nejkratší hrana má délku 4 cm. Jaké rozměry (v cm) měly
+cihličky?
+(A) 4 × 6 × 12
+(D) 4 × 8 × 16
+
+(B) 4 × 6 × 16
+(E) 4 × 12 × 16
+
+(C) 4 × 8 × 12
+
+39
+
+6. V zápisu 6 9 12 15 18 21 = 45 vepiš do jednoho kroužku znaménko minus a do zbývajících kroužků znaménka plus tak, aby platila rovnost. Kam zapíšeš
+znaménko minus?
+(A) mezi 6 a 9
+(D) mezi 15 a 18
+
+(B) mezi 9 a 12
+(E) mezi 18 a 21
+
+(C) mezi 12 a 15
+
+7. Kolik celých čísel mezi 100 a 300 je zapsáno jen lichými číslicemi?
+(A) 25
+
+(B) 50
+
+(C) 75
+
+(D) 100
+
+(E) 150
+
+8. Dan správně vypočítal součet druhých mocnin 23852 + 12022 = 7 133 029. Bohužel
+se mu na jeho zápis vylil inkoust a některé číslice nejsou vidět. Která je poslední
+číslice prvního čísla?
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+(E) 7
+
+Úlohy za 4 body
+
+9. Stejné misky skládáme na sebe mezi
+police vzdálené 30 cm. Pět misek na
+sobě má výšku 20 cm a dvě misky na
+20 cm
+sobě mají výšku 11 cm. Kolik nejvíce
+misek naskládaných na sebe se vejde
+mezi tyto police?
+(A) 6
+
+(B) 7
+
+(C) 8
+
+11 cm
+
+(D) 9
+
+(E) 10
+
+10. Na standardní hrací kostce je součet ok na protilehlých
+stěnách vždy 7. Čtyři takové standardní kostky slepíme
+dohromady dle obrázku. Kolik nejméně ok může ležet na
+celém povrchu vzniklého hranolu?
+(A) 52
+
+(B) 54
+
+(C) 56
+
+(D) 58
+
+(E) 60
+
+11. Tři sestry, každá jiného věku, mají průměrný věk 10 let. Průměrný věk jedné
+dvojice sester je 11 let a jiné dvojice 12 let. Kolik let je nejstarší sestře?
+(A) 10
+
+(B) 11
+
+(C) 12
+
+(D) 14
+
+40
+
+(E) 16
+
+4m
+12. Čtvercový záhon má stranu délky 12 m. Zahradník na
+něj zasadil podle obrázku do světlých částí tulipány a do
+tmavých částí narcisy. Jaký je celkový obsah plochy, na
+které jsou vysazeny narcisy?
+(A) 48 m2 (B) 46 m2 (C) 44 m2 (D) 40 m2 (E) 36 m2
+
+4m
+
+4m
+4m
+
+13. Doma mám dvoje hodiny. Jedny se každou hodinu předbíhají o jednu minutu a ty
+druhé se každou hodinu zpožďují o dvě minuty. Včera jsem oboje hodiny nastavil na
+správný čas. Když jsem se na ně dnes podíval, jedny ukazovaly čas 11.00 a druhé
+12.00. Kdy jsem je včera nastavil?
+(A) ve 23.00
+
+(B) v 19.40
+
+(C) v 15.40
+
+(D) ve 14.00
+
+(E) v 11.20
+
+14. Vítek napsal několik kladných čísel menších než 7. Radka každé z Vítkových čísel
+odečetla od čísla 7 a výsledky si zapsala. Součet Vítkových čísel je 22. Součet
+Radčiných čísel je 34. Kolik čísel Vítek napsal?
+(A) 7
+
+(B) 8
+
+(C) 9
+
+(D) 10
+
+(E) 11
+30
+
+15. Čísla 1 až 8 zapište po jednom do kroužků na obrázku tak,
+aby šipky ukazovaly na součin příslušných tří čísel. Kolik je
+součet čísel ve spodní (bílé) řadě?
+(A) 11
+
+(B) 12
+
+(C) 15
+
+(D) 17
+
+(E) 19
+48 105 28 144
+
+16. Zebra lže pouze v pondělí, úterý a středu. Panter lže pouze ve čtvrtek, pátek
+a sobotu. Mauglí se ptal zebry a pantera, jaký je den. Zebra řekla: „Včera byl jeden
+z mých dnů, kdy lžu.“ Panter odvětil: „Včera byl jeden z mých prolhaných dnů.“
+Který den se Mauglí ptal?
+(A) ve čtvrtek
+
+(B) v pátek
+
+(C) v sobotu
+
+(D) v neděli
+
+(E) v pondělí
+
+Úlohy za 5 bodů
+
+17. Radek chce do zbývajících políček uvedené tabulky 3 × 3 dopsat další
+čísla tak, aby součet čísel ve všech čtyřech čtvercích 2 × 2 byl stejný.
+Které číslo musí zapsat do políčka s otazníkem?
+(A) 0
+
+(B) 1
+
+(C) 4
+
+(D) 5
+
+41
+
+(E) 6
+
+2
+
+4
+
+?
+
+3
+
+18. Velký obdélník ABCD je rozdělen na sedm shodných obdélníků. Jaký je poměr délek stran |AB| : |BC| velkého
+obdélníku?
+(A) 1 : 2
+
+(B) 4 : 3
+
+(C) 8 : 5
+
+D
+
+C
+
+A
+
+B
+
+(D) 12 : 7 (E) 7 : 3
+
+19. Přímá silnice prochází vesnicemi A, B, C, D, ne nutně v tomto pořadí. Vzdálenost
+z A do C je 75 km, vzdálenost z B do D je 45 km a vzdálenost z B do C je 20 km.
+Která z následujících hodnot nemůže být vzdáleností z A do D?
+(A) 10 km
+
+(B) 50 km
+
+(C) 80 km
+
+(D) 100 km
+
+20. Zedník měl dvě stejné cihly. Složil je k sobě třemi různými
+způsoby (viz obrázek). Povrchy takto získaných kvádrů
+byly 72 cm2 , 96 cm2 a 102 cm2 . Jaký je povrch jedné cihly?
+2
+
+(A) 36 cm
+(D) 54 cm2
+
+2
+
+(B) 48 cm
+(E) 60 cm2
+
+(C) 52 cm
+
+(E) 140 km
+
+72
+102
+96
+
+2
+
+21. Ve čtverci 5 × 5 vybarvíme nejmenší možný počet políček tak, aby měl
+jakýkoli obdélník 1×4 nebo 4×1 ležící uvnitř tohoto čtverce vybarvené
+alespoň jedno políčko. Kolik políček vybarvíme?
+(A) 5
+
+(B) 6
+
+(C) 7
+
+(D) 8
+
+(E) 9
+
+22. Na přímce bylo vyznačeno několik červených bodů. V prvním kroku Petr mezi každé
+dva sousední červené body vyznačil tužkou jeden bod a nakonec nově vyznačené
+body obarvil červeně. Tento krok zopakoval ještě třikrát. Na přímce bylo nakonec
+vyznačeno 225 červených bodů. Kolik červených bodů bylo vyznačeno na přímce na
+počátku?
+(A) 10
+
+(B) 12
+
+(C) 15
+
+(D) 16
+
+(E) 25
+A
+
+23. Rovnoramenný trojúhelník ABC s rameny AB a AC je rozdělen
+podobně jako na obrázku na tři menší rovnoramenné trojúhelníky,
+kde |AD| = |DB|, |CE| = |CD| a |BE| = |EC|. Jaká je velikost úhlu
+BAC? (Pozor, obrázek je ilustrační!)
+(A) 24◦
+
+(B) 28◦
+
+(C) 30◦
+
+(D) 35◦
+
+(E) 36◦
+
+E
+B
+
+D
+C
+
+24. V sedmi parcích žije dohromady 2022 klokanů a několik koalů. V každém parku se
+počet klokanů rovná celkovému počtu koalů ve všech ostatních parcích. Kolik koalů
+žije celkem ve všech sedmi parcích?
+(A) 288
+
+(B) 337
+
+(C) 576
+
+42
+
+(D) 674
+
+(E) 2022
+
+Správná řešení soutěžních úloh
+
+KADET 2022
+
+Úlohy za 3 body:
+1 E, 2 B, 3 C, 4 B, 5 C, 6 D, 7 A, 8 C,
+Úlohy za 4 body:
+9 C, 10 D, 11 E, 12 A, 13 C, 14 B, 15 D, 16 A,
+Úlohy za 5 bodů:
+17 B, 18 D, 19 C, 20 D, 21 B, 22 C, 23 E, 24 B.
+
+43
+
+Statistické výsledky
+
+KADET 2022
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+11
+X
+X
+0
+3
+3
+12
+1
+2
+3
+16
+13
+13
+3
+16
+11
+26
+16
+25
+17
+
+23
+26
+22
+30
+27
+36
+31
+39
+45
+36
+61
+54
+66
+79
+94
+95
+86
+98
+137
+134
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+122
+158
+188
+192
+189
+202
+225
+244
+269
+333
+316
+333
+387
+386
+437
+458
+505
+555
+606
+631
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+638
+648
+724
+820
+862
+848
+928
+1019
+1084
+1181
+1170
+1218
+1374
+1434
+1497
+1490
+1579
+1607
+1734
+1790
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+1831
+1846
+1923
+1963
+1917
+1951
+1974
+1968
+1869
+1750
+1737
+1681
+1520
+1440
+1236
+1117
+1148
+991
+906
+746
+
+664
+603
+548
+394
+350
+300
+325
+240
+197
+118
+150
+116
+120
+26
+47
+39
+55
+19
+11
+10
+23
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+celkový počet řešitelů: 67 660
+
+průměrný bodový zisk: 41,50
+
+Percentil
+
+3
+
+10
+
+25
+
+50
+
+75
+
+90
+
+97
+
+Počet bodů
+
+16
+
+23
+
+31
+
+39
+
+50
+
+63
+
+77
+
+44
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Kadet z tabulky „Výsledky soutěže“
+
+30
+
+Kadet 2022
+
+90
+
+93
+
+96
+
+99
+
+102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+KADET 2022
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Ondřej Buben
+Alexis Théodore
+Dachary
+Antonín Drlík
+Jan Jaroš
+Anna Kristina Migel
+Adam Ondračka
+Kamila Poláková
+Anna Prokopová
+Adam Pustka
+Bartoloměj Valtr
+Otakar Vítek
+
+tercie
+
+Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+
+9.B
+
+ZŠ Jablonné nad Orlicí, Jamenská 555, 561 64 Jablonné nad Orlicí
+
+kvarta
+9.
+tercie B
+2.B/6l.
+kvarta
+8.B
+kvarta
+8. S
+4. ag
+
+PORG - gymnázium a ZŠ, Lindnerova 3, 180 00 Praha 8 - Libeň
+ZŠ a MŠ Suchdol, Suchdol 6, 285 02 Suchdol
+Gymnázium Nad Alejí, Nad Alejí 1952, 162 00 Praha 6
+G P. Bezruče, Československé arm. 517, 738 01 Frýdek-Místek
+Mensa gymnázium, Španielova 1111/19, 163 00 Praha 6 - Řepy
+ZŠ Táborská, Táborská 421/45, 140 00 Praha 4
+Gymnázium F. X. Šaldy, Partyzánská 530/3, 460 01 Liberec 11
+ZŠ Opava, Englišova 82, 746 01 Opava
+Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+
+46
+
+Matematický KLOKAN 2022
+www.matematickyklokan.net
+
+kategorie Junior
+Úlohy za 3 body
+1. Rovnostranný trojúhelník se stranou délky 12 cm má stejný obvod jako čtverec se
+stranou délky x. Určete x.
+(A) 9 cm
+
+(B) 12 cm
+
+(C) 16 cm
+
+(D) 24 cm
+
+(E) 36 cm
+x x+1
+
+2. Na obrázku vidíte část tabulky výsledků násobení, kde x a y jsou
+kladná celá čísla a platí x > y. Určete x.
+(A) 6
+
+(B) 7
+
+(C) 8
+
+(D) 10
+
+(E) 11
+
+y
+y+1
+
+77
+
+3. Jsem menší než má polovina, větší než můj dvojnásobek a součet mne a mé druhé
+mocniny je nula. Jaké číslo jsem?
+(A) −2
+
+(B) −1
+
+(C) 0
+
+(D) 1
+
+(E) 2
+
+4. Graf na obrázku vpravo ukazuje časy, které strávila Naďa při hraní
+čtyř svých her minulý týden. Tento týden se jí podařilo u dvou
+her zkrátit čas na polovinu a u zbývajících dvou her strávila stejné
+množství času jako minule. Který z následujících grafů by mohl být
+z tohoto týdne?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+5. Na obrázku vidíte 5 čtverců a dva pravoúhlé trojúhelníky. Čísla uvnitř čtverců vyjadřují jejich obsahy
+v m2 . Určete obsah čtverce označeného otazníkem.
+(A) 15 m2
+(D) 18 m2
+
+(B) 16 m2
+(E) 19 m2
+
+3
+
+8
+
+22
+
+(C) 17 m2
+
+?
+
+6. Voleb předsedy studentské rady se účastní 5 kandidátů. Volby vyhraje kandidát
+s nejvyšším počtem hlasů. Po sečtení 90 % všech hlasů jsou výsledky následující:
+Alex (14 hlasů), Barča (11 hlasů), Cyril (10 hlasů), Dana (8 hlasů) a Eda (2 hlasy).
+Kolik kandidátů má ještě šanci volby vyhrát?
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+47
+
+(E) 5
+
+7. Mája se snaží dostat z buňky X do buňky Y. Může ovšem přecházet
+jen mezi buňkami, které mají společnou stranu. Kolika způsoby se
+může dostat do cíle, pokud má projít všemi buňkami a navštívit
+každou buňku právě jednou?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+X
+
+Y
+
+(E) 6
+
+8. Tři shodné velké kružnice a čtyři shodné malé kružnice
+se dotýkají tak, jak je ukázáno na obrázku. Poloměr
+malé kružnice je 1 m. Určete celkový obsah tmavých
+ploch v m2 .
+(A) π
+
+(B) 2π
+
+(C) 3π
+
+(D) 4π
+
+(E) 6π
+
+Úlohy za 4 body
+9. V rodině je šest sourozenců. Jejich věky jsou vyjádřeny po sobě jdoucími celými čísly.
+Každého ze sourozenců jsem se zeptal: „Kolik let je tvému nejstaršímu sourozenci?“
+Která z následujících hodnot nemohla být součtem čísel z jejich odpovědí?
+(A) 95
+
+(B) 125
+
+(C) 167
+
+(D) 205
+
+(E) 233
+
+10. Do řady bylo poskládáno 2022 dominových kostek. Adam z řady odebral každou
+šestou kostku. Magda si ze zbývajících kostek vzala každou pátou. Potom Kamila
+odebrala každou čtvrtou kostku. Kolik kostek zůstalo v řadě?
+(A) 0
+
+(B) 337
+
+(C) 674
+
+(D) 1011
+
+(E) 1348
+
+11. Tři sourozenci tipovali věk své babičky. První hádal 75, druhý 78 a třetí 81 let.
+Nakonec zjistili, že jeden se spletl o rok, jeden o dva roky a jeden o 4 roky. Kolik let
+muselo tehdy být babičce?
+(A) 76
+(D) 80
+
+(B) 77
+(C) 79
+(E) nelze jednoznačně určit
+
+12. Obdélník ABCD na obrázku je sestaven z 12 shodných obdélníčků. Jaký je poměr délek stran AD ku DC?
+(A) 98
+
+(B) 78
+
+(C) 67
+
+(D) 56
+
+(E) 45
+
+13. Zajíc a ježek si dali závod na jedno kolo na kruhové trati o délce 550 m. Zajíc běžel
+rychlostí 10 m · s−1 , ježek pouze 1 m · s−1 . Vyběhli současně, ovšem ježek běžel
+opačným směrem. Jakmile se potkali, ježek se otočil a běžel za zajícem. O kolik
+sekund za zajícem proběhl cílem ježek?
+(A) 45 s
+
+(B) 50 s
+
+(C) 55 s
+
+48
+
+(D) 100 s
+
+(E) 505 s
+
+14. Čtverec PQRS na obrázku má délku strany rovnu 1 dm.
+Bod U je střed strany RS a bod W je střed čtverce. Úsečky
+TW, UW a VW dělí čtverec na tři části o stejném obsahu.
+Vyjádřete délku úsečky SV v dm.
+(A) 21
+
+(B) 23
+
+(C) 34
+
+(D) 45
+
+(E) 56
+
+𝑃 𝑉
+
+𝑆
+
+𝑊
+
+𝑈
+𝑅
+
+𝑄 𝑇
+
+15. Veronika má na levé ruce 5 stejných prstýnků, jak vidíte na obrázku.
+V kolika různých pořadích si je může všechny sundat, jestliže je sundává
+jeden po druhém?
+(A) 16
+
+(B) 20
+
+(C) 24
+
+(D) 30
+
+(E) 45
+
+16. Zelinář má 12 závaží o navzájem různých celočíselných
+hmotnostech 1 kg až 12 kg. Rozdělí je do skupin po
+čtyřech. Závaží v první skupině mají celkovou hmotnost
+41 kg, ve druhé 26 kg. Které z následujících závaží je ve
+stejné skupině jako devítikilogramové závaží?
+(A) 3 kg
+
+(B) 5 kg
+
+(C) 7 kg
+
+(D) 8 kg
+
+(E) 10 kg
+
+Úlohy za 5 bodů
+
+17. Na fotbalovém turnaji osmi týmů, kde hrál každý s každým právě jednou, byly body
+udělovány takto: vítěz zápasu získal 3 body, poražený 0 bodů a při remíze si každý
+tým připsal 1 bod. Na konci turnaje byl součet bodů získaných všemi týmy roven 61.
+Kolik nejvíce bodů mohl získat vítěz turnaje?
+(A) 21
+
+(B) 19
+
+(C) 18
+
+(D) 17
+
+18. Do dvou shodných rovnoramenných pravoúhlých
+trojúhelníků jsou vepsány čtverce jako na obrázku. Čtverec P má obsah 45 cm2 . Určete obsah
+čtverce R (v cm2 ).
+(A) 35
+
+(B) 40
+
+(C) 45
+
+(D) 50
+
+P
+
+(E) 16
+
+R
+
+(E) 60
+
+19. Součin číslic přirozeného čísla N je 20. Které z následujících hodnot nemůže nabýt
+součin číslic čísla N + 1 ?
+(A) 24
+
+(B) 25
+
+(C) 30
+
+(D) 35
+
+49
+
+(E) 40
+
+20. Z krychle o hraně délky 2 dm byly odstraněny dotýkající se
+shodné polokoule, jejichž středy jsou shodné se středy stěn
+krychle (viz obrázek). Určete průměr polokoulí.
+√
+(A) 1 dm
+(B) q
+2 dm
+(C) 2 dm
+(D) 23 dm
+(E) 23 dm
+21. Piráti si rozdělili lup čítající 200 zlatých mincí a 600 stříbrných mincí. Každý vyšší
+důstojník si vzal 5 zlatých a 10 stříbrných mincí, každý nižší důstojník 3 zlaté
+a 8 stříbrných mincí a každý pirát bez hodnosti obdržel 1 zlatou a 6 stříbrných
+mincí. Žádná mince nezbyla. Kolik pirátů si rozdělilo lup?
+(A) 50
+
+(B) 60
+
+(C) 72
+
+(D) 80
+
+(E) 90
+
+22. Každá stěna krychle je rozdělena na čtyři shodné čtverce.
+V každém čtverci je zobrazena jedna ze tří značek – kolečko,
+čtvereček, křížek. Žádné dva čtverce, které mají společnou
+stranu, neobsahují stejné značky. Obrázek vpravo ukazuje
+jednu z variant takové krychle. Kolik značek může obsahovat
+další varianta takové krychle?
+(A) 6 koleček, 8 čtverečků a zbývající jsou křížky
+(B) 7 koleček, 8 čtverečků a zbývající jsou křížky
+(C) 5 koleček, 8 čtverečků a zbývající jsou křížky
+(D) 7 koleček, 7 čtverečků a zbývající jsou křížky
+(E) žádný z výše uvedených počtů značek
+23. Ve městě Výslechov lidé komunikují výhradně pomocí otázek. Dělí se na dvě
+skupiny – pozitivisty, na jejichž otázky lze odpovědět pouze „ano“, a negativisty,
+na jejichž otázky lze odpovědět pouze „ne“. Když jsem tam potkal Toma s Evou,
+Eva se mne zeptala: „Jsme já i Tom negativisté?“ Ke kterým skupinám obyvatel
+patří Tom a Eva?
+(A) Nelze jednoznačně rozhodnout.
+(B) Oba jsou pozitivisté.
+(C) Oba jsou negativisté.
+(D) Tom je negativista, Eva pozitivista.
+(E) Tom je pozitivista, Eva negativista.
+D
+24. Délka úhlopříčky čtverce ABCD je 7 cm a čtverce EFGB je 10 cm.
+Bod P je středem čtverce ABCD. Vypočítejte obsah trojúhelníku
+DFP.
+(A) 14,5 cm2
+(D) 16,5 cm2
+
+(B) 15 cm2
+(E) 17,5 cm2
+
+C
+P
+
+E
+
+A
+
+B
+
+(C) 15,75 cm2
+
+F
+
+50
+
+G
+
+Správná řešení soutěžních úloh
+
+JUNIOR 2022
+
+Úlohy za 3 body:
+1 A, 2 D, 3 B, 4 C, 5 C, 6 C, 7 D, 8 B,
+Úlohy za 4 body:
+9 D, 10 D, 11 E, 12 A, 13 A, 14 E, 15 B, 16 C,
+Úlohy za 5 bodů:
+17 D, 18 B, 19 D, 20 C, 21 D, 22 E, 23 E, 24 E.
+
+51
+
+Statistické výsledky
+
+JUNIOR 2022
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+17
+X
+X
+0
+6
+10
+13
+0
+0
+4
+9
+15
+4
+1
+9
+14
+22
+6
+7
+10
+
+25
+16
+22
+17
+25
+23
+29
+20
+23
+32
+38
+30
+43
+44
+53
+59
+52
+44
+68
+79
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+65
+71
+79
+88
+105
+82
+107
+113
+131
+146
+128
+144
+169
+155
+189
+191
+192
+192
+212
+226
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+229
+242
+237
+245
+260
+262
+307
+296
+311
+304
+279
+304
+314
+318
+346
+365
+350
+349
+386
+338
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+350
+367
+347
+351
+356
+350
+332
+347
+298
+278
+253
+232
+233
+223
+189
+197
+178
+150
+134
+118
+
+115
+97
+83
+65
+56
+45
+60
+41
+17
+6
+26
+16
+11
+1
+3
+9
+7
+2
+1
+1
+6
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+celkový počet řešitelů: 15 667
+
+průměrný bodový zisk: 48,09
+
+Percentil
+
+3
+
+10
+
+25
+
+50
+
+75
+
+90
+
+97
+
+Počet bodů
+
+19
+
+26
+
+35
+
+46
+
+59
+
+73
+
+88
+
+52
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Junior z tabulky „Výsledky soutěže“
+
+30
+
+Junior 2022
+
+90
+
+93
+
+96
+
+99
+
+102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+JUNIOR 2022
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Adam Celecký
+Patrik Čermák
+Viktor Gola
+Jan Holuša
+Tomáš Hrabák
+Magdaléna Jursová
+Vojtěch Kadeřábek
+Filip Kovář
+Šimon Lopour
+Barbora Novotná
+Michaela Novotná
+Veronika Plevná
+Petr Podolský
+Tereza Poštulková
+Patrik Maxmilian
+Rosenberg
+Jan Slíva
+Mojmír Zálešák
+
+sexta
+6.AG
+1.A
+6.B
+6. E
+4.C/6l.
+sexta
+1.B
+1. A
+5.A
+5.A
+6.A
+4A
+5.B
+
+Mensa gymnázium, Španielova 1111/19 163 00 Praha 6 - Řepy
+PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+MG, SZŠ a VOŠz Vsetín, Tyršova 1069, 755 01 Vsetín
+Wichterlovo gymnázium, Čs. Exilu 669, 708 00 Ostrava-Poruba
+Gymnázium Plzeň, Mikulášské náměstí 23, 326 00 Plzeň
+G P. Bezruče, Československé armády 517, Frýdek-Místek, 738 01
+Mensa gymnázium, Španielova 1111/19 163 00 Praha 6 - Řepy
+Mendelovo gymnázium, Komenského 5, Opava 746 01
+Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+Gymnázium Turnov, Jana Palacha 804, 511 01 Turnov
+Gymnázium Turnov, Jana Palacha 804, 511 01 Turnov
+Gymnázium Cheb, Nerudova 7, 350 02 Cheb
+Gymnázim B. Němcové, Pospíšilova 324/7, 500 03 Hradec Králové
+Wichterlovo gymnázium, Čs. Exilu 669, 708 00 Ostrava-Poruba
+
+1. A
+
+Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+
+kvinta
+6.AG
+
+Mensa gymnázium, Španielova 1111/19 163 00 Praha 6 - Řepy
+PORG - gymnázium a ZŠ, Pod Krčským lesem 25, 142 00 Praha 4
+
+54
+
+Matematický KLOKAN 2022
+www.matematickyklokan.net
+
+kategorie Student
+Úlohy za 3 body
+1. Běta je starší než Karel a mladší než Lída. Tom je starší než Běta. Kteří dva z nich
+mohou být stejně staří?
+(A) Karel a Tom
+(D) Běta a Lída
+
+(B) Tom a Lída
+(E) Tom a Běta
+
+(C) Lída a Karel
+
+2. Jindra měl minulý týden na mobilu spuštěné čtyři aplikace, v grafu
+vpravo vidíte doby spuštění aplikací uspořádané od nejdelší po nejkratší. Tento týden měl Jindra dvě z těchto aplikací spuštěné stejnou
+dobu, zbývající dvě dobu poloviční. Který z grafů nemůže znázorňovat
+tento týden?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+3. Kolik trojmístných přirozených čísel je dělitelných číslem 13 ?
+(A) 68
+
+(B) 69
+
+(C) 70
+
+(D) 76
+
+(E) 77
+
+4. Čtyři shodné kružnice s poloměrem 1 m se protínají jako
+na obrázku. Určete v metrech obvod tmavě vyznačené
+oblasti.
+(A) π
+(B) π2
+(C) 23 π
+(D) 2π
+(E) číslo z otevřeného intervalu ( 32 π, 2π)
+5. Kolik reálných řešení má rovnice (x − 2)2 + (x + 2)2 = 0?
+(A) 0
+
+(B) 1
+
+(C) 2
+
+(D) 3
+
+(E) 4
+
+6. Čtyři protínající se přímky na obrázku vymezují
+osm shodných úhlů. Který z černých oblouků má
+stejnou délku jako malá šedá kružnice uprostřed?
+(A) A
+
+(B) B
+
+(C) C
+
+(D) D
+
+D
+
+A
+B
+
+(E) E
+
+E
+C
+
+55
+
+7. Nechť a, b, c jsou nenulová reálná čísla. Obě čísla −2a4 b3 c2 a 3a3 b5 c−4 mají stejné
+znaménko. Která z nerovností jistě platí?
+(A) ab > 0
+
+(B) b < 0
+
+(C) c > 0
+
+(D) bc > 0
+
+(E) a < 0
+
+8. Michal vyznačil na přímce body A, B, C, D v pořadí jako na obrázku. Vzdálenost
+bodů A, C je 12 cm a bodů B, D je 18 cm. Určete vzdálenost středů úseček AB a CD.
+A
+(A) 6 cm
+
+B
+
+(B) 9 cm
+
+C
+
+D
+
+(C) 12 cm
+
+(D) 15 cm
+
+(E) 18 cm
+
+Úlohy za 4 body
+9. Najděte největší společný dělitel čísel 22021 + 22022 a 32021 + 32022 .
+(A) 22021
+
+(B) 1
+
+(C) 2
+
+(D) 6
+
+(E) 12
+
+10. Na obrázku vidíte mapu oblasti s 16 městy spojenými silnicemi. Samospráva se rozhodla postavit několik elektráren
+v těchto městech. Každá elektrárna je s to zásobit město, ve
+kterém stojí, a všechna sousední města s ním spojená silnicí.
+Určete nejmenší počet elektráren, které se musí postavit, aby
+byla zásobena všechna města oblasti.
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+(E) 7
+
+11. Složením které dvojice dílů můžeme dostat těleso vpravo?
+
+(A)
+
+(B)
+
+(D)
+
+(E)
+
+(C)
+
+12. Markéta se účastní turnaje pro 8 hráček. Ví, že porazí každou soupeřku kromě
+Karolíny, která porazí všechny soupeřky. V prvním kole se hráčky náhodně rozdělí
+do čtyř dvojic. Vítězky každého zápasu postoupí do druhého kola, kde se sehrají dva
+zápasy, jejichž vítězky postoupí do ﬁnále. Určete pravděpodobnost, že se Markéta
+nedostane do ﬁnále.
+(A) 1
+
+(B)
+
+1
+2
+
+(C)
+
+2
+7
+
+(D)
+
+3
+7
+
+(E)
+
+4
+7
+
+13. Aritmetický průměr pěti čísel je 24. Přitom aritmetický průměr tří nejmenších je 19
+a tří největších je 28. Určete prostřední číslo.
+(A) 20
+
+(B) 21
+
+(C) 22
+
+(D) 23
+
+56
+
+(E) 24
+
+14. Kvádr s povrchem S je rozřezán šesti rovinami jako
+na obrázku vpravo. Každá rovina je rovnoběžná s některou jeho stěnou, ale její vzdálenost od této stěny je
+libovolná. Nyní kvádr rozdělíme na 27 menších částí.
+Vyjádřete pomocí S součet jejich povrchů.
+(A) 2S
+
+(B)
+
+5
+S
+2
+
+(C) 3S
+
+(D) 4S
+
+(E) jiný součet
+
+15. Do trojúhelníku vpravo jsou vepsány dva obdélníky
+o rozměrech 1 m × 5 m a 2 m × 3 m. Určete v metrech
+velikost jeho výšky ke straně BC.
+
+A
+
+2
+
+7
+8
+(C)
+2
+3
+(E) jiná velikost
+
+(A) 3
+16
+(D)
+5
+
+(B)
+
+3
+5
+
+1
+B
+
+C
+
+16. V kartézské soustavě souřadnic leží kružnice se středem v počátku [0, 0] a poloměrem 5. Kolik bodů s celočíselnými souřadnicemi leží na této kružnici?
+(A) 5
+
+(B) 8
+
+(C) 12
+
+(D) 16
+
+(E) 20
+
+Úlohy za 5 bodů
+
+17. Obdélník na obrázku je rozdělen na 11 menších obdélníků, každý z nich je podobný největšímu obdélníku.
+Delší strana nejmenších obdélníků měří 1 m. Určete
+v metrech obvod největšího obdélníku.
+(A) 20
+
+(B) 24
+
+(C) 27
+
+(D) 30
+
+(E) 36
+1
+
+18. Kolik trojmístných čísel se rovná pětinásobku součinu svých číslic?
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+19. Vrcholy 20úhelníku jsou po jednom označeny všemi celými čísly od 1 do 20 tak, že
+se čísla v sousedních vrcholech liší o 1 nebo o 2. Strany tohoto 20úhelníku, kde se
+čísla v koncových bodech liší o 1, jsou obarveny červeně. Kolik jich může být?
+(A) 1
+(D) 4
+
+(B) 2
+(E) více možností
+
+(C) 3
+
+√
+√
+20. Kolik přirozených čísel leží mezi n2 + n + 1 a 9n2 + n + 1 pro libovolné přirozené
+číslo n?
+(A) n + 1
+
+(B) 2n − 1
+
+(C) 2n
+
+(D) 2n + 1
+
+57
+
+(E) 3n
+
+21. Na obrázku vpravo je v kartézské soustavě souřadnic čtverec s
+vrcholy [1, 1], [2, 1],
+h [1,i2] a [2, 2]. Každý bod [x, y] tohoto čtverce
+se zobrazí na bod 1x , 1y . Který z obrazců vznikne?
+
+(A)
+
+(B)
+
+(D)
+
+(E)
+
+(C)
+
+22. Celá čísla od 1 do 10, každé právě jednou, jsou vepsána do
+kružnic na obrázku. Součet čísel v levém sloupci je 24 stejně
+jako v pravém sloupci. Součet čísel ve spodní řadě je 25. Které 24
+číslo je napsáno uprostřed horní řady?
+(A) 2
+(D) 6
+
+?
+24
+
+(B) 4
+(C) 5
+(E) žádné z předchozích
+
+25
+
+23. Dvě kružnice protínají obdélník AFMG jako na obrázku. Přitom |AB| = 8 m,
+|CD| = 26 m, |EF| = 22 m, |GH| = 12 m a |JK | = 24 m. V metrech určete |LM|.
+A B
+8
+
+C
+
+12
+G
+
+(A) 14
+
+E
+
+F
+22
+
+24
+H
+
+(B) 15
+
+D
+26
+
+J
+
+x
+K
+
+L
+
+(C) 16
+
+(D) 17
+
+M
+
+(E) 18
+
+24. Pravidelný šestiboký hranol byl seříznut dle
+obrázku. Horní podstavou vzniklého tělesa
+je pravidelný šestiúhelník s vrcholy ve středech podstavných hran původního hranolu.
+Jaká část objemu původního hranolu byla
+seříznuta?
+(A)
+
+1
+12
+
+(B)
+
+1
+6
+
+(C)
+
+1
+√
+4 3
+
+58
+
+(D)
+
+1
+√
+6 2
+
+(E)
+
+1
+√
+6 3
+
+Správná řešení soutěžních úloh
+
+STUDENT 2022
+
+Úlohy za 3 body
+1 B, 2 E, 3 B, 4 D, 5 A, 6 D, 7 E, 8 D,
+Úlohy za 4 body
+9 E, 10 B, 11 A, 12 D, 13 B, 14 C, 15 B, 16 C,
+Úlohy za 5 bodů
+17 D, 18 A, 19 B, 20 C, 21 C, 22 E, 23 C, 24 A.
+
+59
+
+Statistické výsledky
+
+STUDENT 2022
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+15
+X
+X
+0
+3
+5
+6
+0
+0
+3
+7
+6
+6
+1
+4
+10
+8
+2
+7
+9
+
+9
+10
+7
+10
+10
+15
+17
+14
+18
+14
+25
+16
+16
+28
+33
+21
+28
+34
+28
+46
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+26
+33
+37
+46
+46
+54
+61
+66
+75
+67
+72
+68
+69
+91
+88
+99
+104
+111
+97
+108
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+112
+106
+113
+135
+130
+153
+126
+164
+122
+153
+155
+142
+154
+140
+154
+136
+151
+147
+138
+150
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+134
+141
+137
+129
+120
+120
+129
+109
+101
+110
+125
+107
+84
+79
+80
+64
+91
+61
+35
+44
+
+33
+29
+26
+23
+13
+22
+18
+13
+4
+5
+7
+6
+3
+1
+3
+2
+3
+0
+1
+0
+2
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+celkový počet řešitelů: 6 904
+
+průměrný bodový zisk: 50,59
+
+Percentil
+
+3
+
+10
+
+25
+
+50
+
+75
+
+90
+
+97
+
+Počet bodů
+
+20
+
+28
+
+37
+
+49
+
+62
+
+75
+
+91
+
+60
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Student z tabulky „Výsledky soutěže“
+
+30
+
+Student 2022
+
+90
+
+93
+
+96
+
+99
+
+102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+STUDENT 2022
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Benedikt Bareš
+Vojtěch Brdečko
+Filip Brecher
+František Dvořák
+Mikuláš Fiala
+Anna Hronová
+Pavel Kletečka
+Jaromír Koflák
+Štěpán Mikéska
+Matěj Ságl
+Jan Slíva
+Karel Stehlík
+Jakub Štěpo
+Tobiáš Unger
+Michaela Valtrová
+
+4.A
+oktáva B
+R7A
+8.O
+3C
+3. A
+V7
+4.C
+3. A
+7A8
+kvinta
+8.M
+O7
+3.B
+3.B
+
+Gymnázium Dobruška, Pulická 779, Dobruška 518 01
+Biskupské gymnázium Brno a MŠ, Barvičova 85, 602 00 Brno
+Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+Gymnázium Český Krumlov, Chvalšinská 112, 381 01 Č. Krumlov
+Gymnázium Botičská, Botičská 1, 128 01 Praha 2
+Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+Gymnázium Říčany, Komenského náměstí 1280/1, Říčany, 251 01
+Slezské gymnázium Opava, Zámecký okruh 29, Opava 746 01
+Gymnázium Brno, tř. Kpt. Jaroše 1829/14, 658 70 Brno
+Gymnázium Jihlava, Jana Masaryka 1, 586 01 Jihlava
+Mensa gymnázium, Španielova 1111/19 163 00 Praha 6 - Řepy
+Gymnázium Christiana Dopplera, Zborovská 45, 150 00 Praha 5
+Gymnázium Kladno, nám. E. Beneše 1573, Kladno, 272 01
+Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+Mendelovo gymnázium, Komenského 5. Opava 746 01
+
+62
+
+Garanti kategorií
+Znění úloh podle evropské verze v jednotlivých kategoriích upravili:
+Cvrček
+
+Mgr. Eva Nováková, Ph.D.
+Katedra matematiky Pedagogické fakulty MU
+Poříčí 7, 603 00 BRNO
+e-mail: novakova@ped.muni.cz
+tel.: 549 49 6933
+
+Klokánek
+
+RNDr. Martina Uhlířová, Ph.D.
+Katedra matematiky PdF UP v Olomouci
+Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: martina.uhlirova@upol.cz
+tel.: 585 63 5712
+
+Benjamín
+
+Mgr. David Nocar, Ph.D.
+Katedra matematiky PdF UP v Olomouci
+Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: david.nocar@upol.cz
+tel.: 585 63 5709
+
+Kadet
+
+Mgr. David Nocar, Ph.D.
+Katedra matematiky PdF UP v Olomouci
+Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: david.nocar@upol.cz
+tel.: 585 63 5709
+
+Junior
+
+Mgr. Vladimír Vaněk, Ph.D.
+Katedra algebry a geometrie PřF UP v Olomouci
+17. listopadu 12, 771 46 OLOMOUC
+e-mail: vladimir.vanek@upol.cz
+tel.: 585 63 4645
+
+Student
+
+RNDr. Pavel Calábek, Ph.D.
+Katedra algebry a geometrie PřF UP v Olomouci
+17. listopadu 12, 771 46 OLOMOUC
+e-mail: pavel.calabek@upol.cz
+tel.: 585 63 4642
+
+63
+
+Kontaktní adresa:
+Silvie Zatloukalová
+Katedra algebry a geometrie PřF UP v Olomouci, 17. listopadu 12, 771 46 OLOMOUC
+e-mail: silvie.zatloukalova@upol.cz
+tel.: 58 563 4651
+
+http://matematickyklokan.net
+e-mailová adresa pro korespondenci: soutez@matematickyklokan.net
+
+64
+
+Matematický klokan 2022
+Jiří Hátle (ed.)
+Odpovědná redaktorka Tereza Vintrová
+Návrh obálky a sazba Jiří Hátle
+Vydala a vytiskla Univerzita Palackého v Olomouci
+Křížkovského 8, 771 47 Olomouc
+vydavatelstvi.upol.cz
+Olomouc 2023
+1. vydání
+ISBN 978-80-244-6278-3
+ISSN 2533-3305
+VUP 2023/0065
+
+Neprodejná publikace
+
+

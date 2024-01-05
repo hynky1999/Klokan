@@ -1,0 +1,5127 @@
+Univerzita Palackého v Olomouci
+JČMF pobočka Olomouc
+
+Olomouc 2015
+
+Univerzita Palackého v Olomouci
+JČMF pobočka Olomouc
+
+Olomouc 2015
+
+Sborník sestavili:
+P. Calábek, Přírodovědecká fakulta UP v Olomouci
+J. Hátle, Přírodovědecká fakulta UP v Olomouci
+J. Molnár, Přírodovědecká fakulta UP v Olomouci
+S. Zatloukalová, Přírodovědecká fakulta UP v Olomouci
+
+Za jazykovou správnost jednotlivých kapitol odpovídají autoři.
+
+1. vydání
+Ed. © Jiří Hátle, 2015
+ISBN 978-80-244-4870-1
+
+OBSAH
+Úvodní slovo ……………………………………………………………………………….
+
+4
+
+Vývoj Matematického klokana
+Rok 2015 po kategoriích
+
+5
+7
+
+…………………………………………………………..
+…………………………………………………………..
+
+Cvrček
+Zadání soutěžních úloh ……………………………………………………………………. 8
+Správná řešení ……………………………………………………………………………. 12
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 13
+Graf ……………………………………………………………………………………… 14
+Nejlepší řešitelé ………………………………………………………………………….. 15
+Klokánek
+Zadání soutěžních úloh ……………………………………………………………………. 18
+Správná řešení …………………………………………………………………………….. 22
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 23
+Graf ……………………………………………………………………………………… 24
+Nejlepší řešitelé …………………………………………………………………………... 25
+Benjamín
+Zadání soutěžních úloh ………………………………………………………………….. 26
+Správná řešení …………………………………………………………………………….. 30
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 31
+Graf ……………………………………………………………………………………… 32
+Nejlepší řešitelé …………………………………………………………………………... 33
+Kadet
+Zadání soutěžních úloh …………………………………………………………………... 34
+Správná řešení …………………………………………………………………………….. 38
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 39
+Graf ……………………………………………………………………………………… 40
+Nejlepší řešitelé …………………………………………………………………………... 41
+Junior
+Zadání soutěžních úloh ……………………………………………………………………. 42
+Správná řešení …………………………………………………………………………….. 46
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 47
+Graf ……………………………………………………………………………………… 48
+Nejlepší řešitelé …………………………………………………………………………... 49
+Student
+Zadání soutěžních úloh ……………………………………………………………………. 50
+Správná řešení …………………………………………………………………………….. 54
+Statistické výsledky, průměrný bodový zisk ……………………………………………… 55
+Graf ……………………………………………………………………………………… 56
+Nejlepší řešitelé …………………………………………………………………………... 57
+Garanti kategorií ………………………………………………………………………….. 59
+Kontakty ………………………………………………………………………………….. 60
+
+Úvodní slovo
+
+Milí přátelé Matematického klokana,
+obliba naší soutěže roste! V 21. ročníku, který se konal 20. 3. 2015, jsme překonali
+hranici 350 tisíc účastníků a to nás velmi těší. Držíme se v popředí pořadí počtu účastníků jak
+v absolutních, tak zejména v relativních (v přepočtu na počet obyvatel) počtech soutěžících
+v celosvětovém měřítku. A to je v asociaci Kangaroo sans frontières sdruženo více než 60
+zemí všech pěti v úvahu připadajících kontinentů a celkový počet zapojených řešitelů dosáhl
+sedmi milionů.
+Loňský ročník byl jubilejní, a tak úvodní slovo bylo delší. Letos už jen dodáváme, že
+podrobnější informace můžete nalézt na www.matematickyklokan.net a že příští 22. ročník se
+uskuteční 18. března 2016. Děkujeme.
+
+pořadatelé
+
+4
+
+Vývoj Matematického klokana
+
+CVRČEK
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+
+11 076*
+46 832
+60 744
+70 942
+70 084
+78 291
+79 758
+84 221
+86 011
+97 478
+102 346
+
+KLOKÁNEK
+6 205
+18 522
+61 161
+62 963
+87 885
+95 426
+93 434
+99 204
+83 584
+78 275
+70 886
+66 799
+70 705
+74 668
+75 624
+81 737
+84 031
+87 324
+86 065
+94 528
+96 763
+
+BENJAMÍN
+7 834
+30 819
+59 314
+67 417
+79 717
+87 304
+86 458
+86 785
+74 112
+75 609
+72 090
+69 739
+66 840
+64 995
+64 258
+66 731
+65 461
+67 750
+67 794
+69 635
+71 120
+
+KADET
+7 280
+27 262
+51 769
+57 653
+73 578
+81 893
+78 408
+81 440
+65 839
+68 324
+69 425
+69 104
+71 491
+69 734
+65 694
+63 412
+60 404
+61 010
+59 408
+61 244
+64 074
+
+JUNIOR
+2 195
+6 148
+8 631
+11 580
+16 847
+20 384
+20 173
+20 479
+19 615
+17 345
+18 333
+18 003
+17 804
+19 101
+18 711
+18 711
+16 326
+15 021
+15 503
+15 479
+15 559
+
+STUDENT
+1 297
+3 938
+7 349
+8 484
+6 606
+10 319
+11 228
+10 428
+9 879
+9 729
+10 690
+9 947
+10 274
+10 191
+10 599
+9 646
+8 721
+8 987
+8 243
+7 900
+7 894
+
+* pouze experimentální ročník, výsledek nebyl zahrnut do celostátního sumáře
+
+5
+
+CELKEM
+24 811
+86 689
+188 224
+208 097
+264 633
+295 326
+289 701
+298 336
+253 029
+249 282
+252 500
+280 424
+297 858
+309 631
+304 970
+318 528
+314 701
+324 313
+323 024
+346 264
+357 756
+
+6
+
+0
+
+50 000
+
+100 000
+
+150 000
+
+200 000
+
+250 000
+
+300 000
+
+350 000
+
+400 000
+
+1995
+
+1996
+
+1997
+
+1998
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Graf znázorňuje výsledky z tabulky „Vývoj Matematického klokana“
+
+1999
+
+Vývoj Matematického klokana
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Rok 2015 po kategoriích
+
+120 000
+102 346
+96 763
+
+100 000
+
+71 120
+
+80 000
+
+64 074
+60 000
+40 000
+20 000
+
+15 559
+7 894
+
+0
+Cvrček
+
+Klokánek
+
+Benjamín
+
+Kadet
+
+Junior
+
+Student
+
+Počty řešitelů, kteří získali plný počet bodů:
+Cvrček
+
+90 bodů
+
+získalo
+
+79 žáků
+
+Klokánek
+
+120 bodů
+
+získali
+
+2 žáci
+
+Benjamín
+
+120 bodů
+
+získalo
+
+18 žáků
+
+Kadet
+
+120 bodů
+
+získalo
+
+0 žáků
+
+Junior
+
+120 bodů
+
+získalo
+
+5 žáků
+
+Student
+
+120 bodů
+
+získali
+
+2 žáci
+
+7
+
+Matematický KLOKAN 2015
+www.matematickyklokan.net
+
+kategorie Cvrček
+
+Úlohy za 3 body
+1. Který útvar na některém obrázku chybí?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+2. Najdi chybějící dílek domu.
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+3. Zdeněk měl fotograﬁi klokana (vpravo). Petra ji zařadila mezi
+své čtyři fotograﬁe (dole). Který obrázek je Zdeňkův?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+4. Kolik trojúhelníků je na obrázku?
+(A) 7
+
+(B) 6
+
+(C) 5
+
+(D) 4
+
+8
+
+(E) 3
+
+5. Eda měl 10 stejných kovových dílků stavebnice.
+
+Spojil vždy dva dílky a vytvořil pět nových dílků. Který z nich je
+nejkratší?
+
+(A) A
+
+(B) B
+
+(C) C
+
+(D) D
+
+(E) E
+
+6. Najdi součet čísel, která nejsou zapsána ve
+čtverci.
+(A) 30
+
+(B) 60
+
+(C) 90
+
+(D) 45
+
+(E) 100
+
+Úlohy za 4 body
+7. Marek má 9 bonbónů a Dan má 17 bonbónů. Kolik bonbónů má dát
+Dan Markovi, aby měli stejně?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+8. Který dílek chybí?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+9
+
+?
+
+9. Janča se dívala na pohádku. Po půl hodině byla v její polovině. Jaká je
+délka celé pohádky?
+(A) 15 minut
+(D) 2 hodiny
+
+(B) půl hodiny
+(E) 40 minut
+
+(C) 1 hodinu
+
+10. Tomáš má dva díly stavebnice, které vznikly slepením dvou
+krychlí (podívej se vpravo). Kterou ze staveb nemohl z těchto
+dvou dílů postavit?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+11. Na oslavě Věrčiných narozenin se sešlo 14 dětí (i s Věrkou). Maminka
+objednala 2 pizzy a každou rozdělila na 8 stejných dílků. Každé dítě
+jeden z nich snědlo. Kolik dílků zbylo?
+(A) 5
+
+(B) 4
+
+(C) 3
+
+(D) 2
+
+(E) 1
+
++
+
+12. Napiš čísla 1, 2, 3, 4, 5 do čtverců tak, aby byly výpočty | {z }
+správné. Které číslo napíšeš do vyznačeného čtverce?
+−
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+| {z }
+
+Úlohy za 5 bodů
+
+13. Mourek chytal myši tři dny. Každý následující den chytil o dvě myši
+více než předchozí den. Třetí den chytil dvakrát více myší než první
+den. Kolik myší chytil Mourek dohromady za 3 dny?
+(A) 12
+
+(B) 15
+
+(C) 18
+
+10
+
+(D) 20
+
+(E) 24
+
+14. V tělocvičně stáli chlapci seřazeni podle výšky. Patrik stál uprostřed
+a od začátku byl osmý. Kolik chlapců stálo v řadě?
+(A) 7
+
+(B) 8
+
+(C) 12
+
+(D) 15
+
+(E) 16
+
+15. Klokan Jirka umí skákat vždy jen na sousední políčko
+a nesmí se vracet. Kolika různými cestami se mohl
+S
+dostat čtyřmi skoky ze S do C?
+(A) 3
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+C
+
+(E) 7
+
+16. Ríša a Lukáš stavěli iglú. Ríša vytvořil každou hodinu 8 sněhových
+kostek a Lukáš o dvě méně. Kolik kostek vytvořili dohromady za tři
+hodiny?
+(A) 14
+
+(B) 30
+
+(C) 42
+
+(D) 48
+
+(E) 54
+
+17. Adam slepil krychli z tmavých a bílých krychliček (podívej
+se na obrázek). Nikdy k sobě nepřilepil dvě krychličky
+stejné barvy. Které z následujících tvrzení je pravdivé?
+(A) Adam použil o jednu tmavou krychličku více než bílých.
+(B) Adam použil o jednu bílou krychličku více než tmavých.
+(C) Adam použil stejný počet bílých i tmavých krychliček.
+(D) Adam použil o dvě bílé krychličky více než tmavých.
+(E) Adam použil o dvě tmavé krychličky více než bílých.
+
+18. Na dovolenou jsme odjeli včera odpoledne v 16:32. Na místo jsme přijeli
+dnes ráno v 6:11. Jak dlouho jsme cestovali?
+(A) 13 hodin 39 minut (B) 14 hodin 39 minut (C) 14 hodin 21 minut
+(D) 13 hodin 21 minut (E) 2 hodiny 21 minut
+
+11
+
+Správná řešení soutěžních úloh
+CVRČEK 2015
+
+Úlohy za 3 body
+1 D, 2 B, 3 E, 4 C, 5 B, 6 E
+Úlohy za 4 body
+7 C, 8 C, 9 C, 10 D, 11 D, 12 E
+Úlohy za 5 bodů
+13 C, 14 D, 15 D, 16 C, 17 A, 18 A
+
+12
+
+Výsledky soutěže
+CVRČEK 2015
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+
+79
+X
+X
+7
+33
+56
+141
+14
+33
+47
+123
+197
+207
+31
+97
+
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+206
+313
+427
+320
+225
+343
+598
+646
+685
+569
+584
+777
+1133
+984
+998
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+
+928
+1240
+1448
+1673
+1389
+1472
+1643
+2031
+2069
+1990
+1841
+2050
+2502
+2516
+2277
+
+45
+44
+43
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+
+2193
+2452
+2728
+2789
+2452
+2289
+2527
+2782
+2859
+2628
+2332
+2443
+2668
+2756
+2398
+
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+
+celkový počet řešitelů: 102 346
+
+průměrný bodový zisk: 40,7
+
+13
+
+2185
+2245
+2378
+2323
+2020
+1695
+1782
+1925
+1677
+1331
+1118
+1125
+1149
+913
+608
+
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+503
+502
+420
+328
+170
+191
+152
+130
+43
+58
+42
+43
+11
+10
+11
+20
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Graf znázorňuje výsledky v kategorii Cvrček z tabulky „Výsledky soutěže“
+
+10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90
+
+Cvrček 2015
+
+Nejlepší řešitelé
+CVRČEK 2015
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 90 b
+Richard Agulár
+Antonie Bakošová
+Michael Barcal
+Alexandra Bártková
+Václav Bartoš
+Matěj Bejr
+Kryštof Bláha
+Jakob Blake
+Lucie Buštová
+Jan Čihák
+Mirek Danda
+Vojtěch Ďoubal
+Jan Dresler
+Kristýna Dřevikovská
+Erik Duba
+Matouš Dubový
+Štěpán Dvořák
+Aleš Gajda
+Viktor Gola
+Martin Hons
+Kajetán L. Hostička
+Lucie Jankovcová
+Anna Janštová
+Magda Jarnotová
+Adam Jirout
+
+III.B
+3.C
+3.A
+3.
+III.A
+3.
+3.
+3.C
+3.B
+2. B
+3.C
+3.B
+3.A
+3.B
+3.B
+3.
+3. A
+3.
+3.A
+3.
+3.A
+3.B
+3.C
+3.C
+3.
+
+Antonie Kocmanová
+
+P3
+
+Jáchym Kohout
+Vít Koucký
+Jakub Křečan
+Mikuláš Kuchař
+Veronika Kuchyňková
+Sára Kurowská
+Radka Lakomá
+
+3.A
+3.A
+3.B
+3.A
+3.D
+3.
+III.
+
+ZŠ Příbram II, Jiráskovy sady 273
+ZŠ nám. Jiřího z Poděbrad 7,8/1685, Praha 3 130 00
+ZŠ NOVÝ PORG, Pod Krčským lesem 25, Praha 4 - Krč, 14200
+ZŠ a MŠ Bohuslavice u Zlína 221, 763 51
+ZŠ Chomutov, Na Příkopech 895, 430 01 Chomutov
+ZŠ Bojanov, 538 26 Bojanov 90
+ZŠ a MŠ Tlučná, Školní 838, 330 26 Tlučná
+CMCZŠ Lerchova, Lerchova 65, Brno 602 00
+ZŠ Davle, Školní 96
+ZŠ V. Kl. Klicpery, V. K. Klicpery 561, 504 01 Nový Bydžov
+ZŠ Praha- Kolovraty, Mírová 47/57, 103 00
+ZŠ Praha- Kolovraty, Mírová 47/57, 103 00
+ZŠ M. Horákové, M.Horákové 258, 500 06 Hradec Králové
+ZŠ Resslova 603, 539 01 Hlinsko
+ZŠ Seifertova 5, 586 01 Jihlava
+ZŠ a MŠ Větřkovice 127, 747 43 Větřkovice
+ZŠ Brigádníků, Brigádníků 510/14, 100 00
+ZŠ a MŠ Mikulčice, Mikulčice 555, 696 19
+ZŠ Vsetín - Ohrada 1876, Nad školou 1878, 755 01 Vsetín
+ZŠ Havlíčkova 933, 676 01 Moravské Budějovice
+ZŠ a MŠ Červený vrch, Alžírská 680, Praha 6 160 00
+ZŠ Davle, Školní 96
+ZŠ Jablunkov, Lesní 190, Jablunkov, 739 91
+ZŠ Jablunkov, Lesní 190, Jablunkov, 739 91
+ZŠ a MŠ Větřkovice 127, 747 43 Větřkovice
+Schola Europaea Bruxelles III, Boulevard du Triomphe 135, 1050
+Bruxelles
+ZŠ Komenského 68 p.o. Nový Jičín, 741 01 Nový Jičín
+ZŠ Týnec nad Sázavou
+FZŠ Táborská, Táborská 45/421, 14000, Praha 4
+ZŠ Bulharská 1532, Ostrava - Poruba, 70800
+FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+Lobodice 39, 751 01 Lobodice
+ZŠ a MŠ Ptení 175, 798 43
+15
+
+Richard Langer
+Natálie Lysáková
+Lucie Macková
+Adéla Martinková
+Natálie Mlchová
+Tomáš Mucha
+Veronika Nejedlá
+Melichar Němejc
+Eliška Neubertová
+Jan Nevečeřal
+Markéta Nováková
+Michaela Novotná
+Jan Pánek
+Barbora Poulová
+Justýna Raková
+Valentýna Rejdová
+Jiří Rejzek
+Filip Riedel
+Kristýna Říhová
+Jaroslav Secký
+Karel Síbr
+Anna Skleničková
+Matěj Stoupa
+Markéta Stryjová
+Rozálie Suchánková
+Kristýna Šikýřová
+Natálie Šindelářová
+Jakub Šlechta
+Matyáš Táborský
+Natálie Tišerová
+Kateřina Trojtlová
+Hana Trubačíková
+Aneta Vacková
+Ondřej Valouch
+Aneta Váňová
+Eliška Vitvarová
+Eda Vlček
+Matěj Vohralík
+Hana Vojkůvková
+Daniel Vojník
+Jakub Vojtek
+Lucas Všetula
+
+3.A
+3.C
+3.A
+3.C
+3.D
+2.B
+3.
+3.A
+3.B
+2.
+3.A
+3.
+2.B
+3.B
+3.A
+3.
+2.
+3.B
+3.B
+2.A
+III.
+3.A
+3.B
+3.C
+3.B
+
+ZŠ a MŠ Jana Pavla II., Na Hradě 90, 500 03 Hradec Králové
+
+3.
+3.A
+3.A
+3.B
+3.A
+3.A
+2.B
+3.C
+3.B
+3.B
+III.B
+3.
+
+ZŠ a MŠ Bukovice 47, 549 54 Police nad Metují
+ZŠ a MŠ Husova 17, Brno 602 00
+
+ZŠ a MŠ Červený vrch, Alžírská 680, Praha 6 160 00
+ZŠ Komenského 53, 675 71 Náměšť nad Oslavou
+ZŠ Kuřim, Tyršova 1255, Kuřim 664 34
+ZŠ Neratovice, 28. října 1157
+ZŠ NOVÝ PORG, Pod Krčským lesem 25, Praha 4 - Krč, 14200
+ZŠ a MŠ Praha-Slivenec, Ke Smíchovu 16, 154 00
+FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+ZŠ Davle, Školní 96
+Tyršova ZŠ a MŠ Plzeň, U Školy 7, 326 00 Plzeň
+FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+ZŠ Ohrazenice, Ohrazenice 88, 511 01 Turnov
+ZŠ náměstí Čáslav, náměstí J. Žižky z Trocnova 182
+ZŠ Seifertova 5, 586 01 Jihlava
+FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+
+ZŠ Pravlov, Pravlov 100, 664 64
+ZŠ a MŠ Holoubkov, Holoubkov 14, 338 01 Holoubkov
+ZŠ u Školy, U Školy 222/6, 460 07 Liberec 7
+ZŠ Kamenice, Ringhofferova 57
+ZŠ Dr. V. Peška 721, 537 01 Chrudim
+ZŠ a MŠ Ptení 175, 798 43
+FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+ZŠ Zásmuky, Komenského nám. 94
+ZŠ Jablunkov, Lesní 190, Jablunkov, 739 91
+ZŠ a MŠ Kontešinec, Masarykovy sady 104, 737 01 Český Těšín
+ZŠ M.C. Sklodowské a MŠ Jáchymov, Husova 992, 362 51
+3. Jáchymov
+2. ZŠ a MŠ Dolní Cerekev 26, 588 45 Dolní Cerekev
+III.A ZŠ Máj II, M. Chlajna 23, 370 05 České Budějovice
+3. A ZŠ Brigádníků, Brigádníků 510/14, 100 00
+3.C FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+
+ZŠ a MŠ Lánov 155, 543 41 Lánov
+ZŠ Brno, Horácké náměstí 13, Brno 621 00
+ZŠ Luhačovice, Školní 666, 763 26 Luhačovice
+ZŠ 1. máje 58/1, Karlovy Vary, 360 06
+ZŠ Strossmayerovo náměstí, Praha 7, 17000
+ZŠ P10 Hostýnská, Hostýnská 2/2100 108 00
+ZŠ Ostrava-Hrabová, Paskovská 46, 720 00
+ZŠ Kamenice, Ringhofferova 57
+ZŠ a MŠ Pastviny 70, Brno 624 00
+ZŠ a MŠ Senohraby, Školní 27
+16
+
+Klára Zavřelová
+Viktorie Zemanová
+Josef Zivr
+Tobias Zvonar
+
+3.
+III.A
+3.
+2.A
+
+ZŠ a MŠ Kameničky 38, 539 41 Kameničky
+ZŠ Chomutov, Na Příkopech 895, 430 01 Chomutov
+ZŠ a MŠ Bílá Třemešná
+ZŠ Klatovy, Čapkova 126, 339 01 Klatovy
+
+17
+
+Matematický KLOKAN 2015
+www.matematickyklokan.net
+
+kategorie Klokánek
+Úlohy za 3 body
+1.
+(A) 6
+
+(B) 7
+
+(C) 8
+
+(D) 10
+
+(E) 15
+
+2. Eda měl 10 stejných kovových dílků stavebnice.
+
+Spojil vždy dva dílky a vytvořil pět nových. Který z nich je nejdelší?
+
+(A) A
+
+(B) B
+
+(C) C
+
+(D) D
+
+(E) E
+
+3. Které číslo je zakryto čtvercem?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+4. Pan Zahradník má 10 slepic. 5 slepic snáší vejce každý den a dalších 5 slepic snáší
+vejce každý druhý den. Kolik vajec snesou všechny slepice za 10 dní?
+(A) 75
+
+(B) 60
+
+(C) 50
+
+(D) 25
+
+(E) 10
+8
+
+9
+
+1
+
+5. Martina začala u čísla 1 a spojovala každou druhou tečku (podívej se na
+7
+obrázek), dokud znovu neskončila u čísla 1. Který obrázek vytvořila?
+6
+9
+
+8
+(A) 7
+6
+
+9
+
+8
+
+1
+2 (B) 7
+3
+
+5
+
+4
+
+9
+
+8
+
+1
+2 (C) 7
+
+6
+
+3
+5
+
+4
+
+9
+
+8
+
+1
+
+6
+
+3
+5
+
+18
+
+4
+
+3
+
+5 4
+8 9 1
+
+1
+
+2 (D) 7
+
+2
+
+2 (E) 7
+
+6
+
+3
+5
+
+4
+
+2
+
+6
+
+3
+5
+
+4
+
+6. Lucka jela do Rakouska, kde šla nakupovat. V peněžence měla tyto
+peníze (podívej se vpravo). V obchodě zaplatila 7 euro za míč. Kolik
+peněz jí zbylo?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+7. Na obrázku je ostrov s podivně členitým pobřežím.
+Roste na něm palma a sedí na něm několik žabek.
+Kolik žabek sedí na ostrově?
+(C) 7
+
+(D) 8
+
+(E) 9
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+GA
+RO
+
+8. Na deštníku mám napsáno slovo KANGAROO (podívej se vpravo).
+Na kterém z následujících obrázků je můj deštník?
+
+AN
+
+(B) 6
+
+OK
+
+(A) 5
+
+(E)
+
+Úlohy za 4 body
+
+9. Zuzka vystřihla útvar z obrázku nahoře a rozstříhala jej na
+trojúhelníky, které vidíš dole. Kolik jich dostala?
+(A) 8
+
+(B) 12
+
+(C) 14
+
+(D) 15
+
+(E) 16
+
+10. Leoš měl 7 jablek a 2 banány. Dal 2 jablka Janě. Ta mu na oplátku dala několik
+banánů. Leoš měl potom stejně jablek jako banánů. Kolik banánů dala Jana
+Leošovi?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 7
+
+11. Jarda slepil z bílých a černých krychliček krychli (podívej se na
+obrázek). Nikdy k sobě nepřilepil dvě krychličky stejné barvy. Kolik
+je v krychli bílých krychliček?
+(A) 10
+
+(B) 12
+
+(C) 13
+
+(D) 14
+
+19
+
+(E) 15
+
+12. Petr jezdí na kole po cyklostezce v parku (podívej
+se na obrázek). Vyjel z místa S směrem, který ukazuje šipka. Na první křižovatce zabočil doprava,
+na druhé doleva, na další doprava, pak doleva.
+Kterým místem neprojel?
+(A) A
+
+(B) B
+
+(C) C
+
+(D) D
+
+(E) E
+
+13. U lyžařského vleku čekalo v řadě 10 lyžařů. Před Tomášem jich stálo o 3 méně než
+za ním. Kolikátý v řadě byl Tomáš?
+(A) 1
+
+(B) 3
+
+(C) 4
+
+(D) 6
+
+(E) 7
+
+14. Na obrázku vidíš 5 berušek. Kamarádí spolu každé dvě
+berušky, jejichž počet teček se liší právě o jednu. Každá
+beruška poslala SMS zprávu své kamarádce. Kolik SMS
+zpráv berušky odeslaly?
+(A) 2
+
+(B) 4
+
+(C) 6
+
+(D) 8
+
+(E) 9
+
+15. Pepa řadí do jedné poličky 4 hračky – auto, míč, vrtulník a loď. Vždy dodržuje tato
+pravidla: loď stojí vedle auta, vrtulník stojí vedle auta. Kolika způsoby může Pepa
+hračky umístit?
+(A) 2
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+(E) 8
+
+16. Rozděl útvar vpravo na tři stejné dílky. Jak vypadá každý dílek?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Úlohy za 5 bodů
+
+17. Který čtvereček musí Lucka z obrázku odstřihnout, aby jí zůstala síť,
+ze které může složit krychli?
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 6
+
+20
+
+(E) 7
+
+1
+2 3 4
+5
+7 6
+
+18. Na průsvitný papír nakreslil Zbyněk 3 čtverce s těmito vzory (podívej na obrázek). Položil je na sebe,
+střed propíchl špendlíkem a otáčel s nimi, až získal
+co největší černou plochu (čtverce přitom měly
+zarovnané strany). Kolik čtverečků bylo černých?
+(A) 5
+
+(B) 6
+
+(C) 7
+
+(D) 8
+
+(E) 9
+
+19. Čísla 2, 3, 5, 6 a 7 napiš do polí sestavených do tvaru kříže (podívej se
+vpravo). Součty čísel v řádku a sloupci jsou stejné. Které z čísel můžeš
+napsat do středu kříže?
+(A) jen 3
+
+(B) jen 5
+
+(C) jen 7
+
+(D) 5 nebo 7
+
+(E) 3, 5 nebo 7
+
+20. Kája má 10 míčů očíslovaných 0 až 9. Rozdělil tyto
+míče mezi své 3 kamarády. Jirka dostal 3 míče, Janek
+4 a Anička 3. Kamarádi vynásobili čísla na svých míčích
+a dostali tato čísla: Jirka 0, Janek 72 a Anička 90. Jaký
+je součet čísel na Jirkových míčích?
+(A) 11
+
+(B) 12
+
+(C) 13
+
+(D) 14
+
+(E) 15
+
+21. Na zemi leží tři hasičské hadice (podívej se na obrázek). Spoj je
+s dalšími třemi tak, aby tvořily jeden uzavřený okruh. Které rozložení
+vybereš?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+22. Tomáš nakreslil obrázky vepříka, žraloka a nosorožce a rozstříhal je na 3 části
+(podívej se na obrázek). Potom vytvářel nové obrázky tím, že zaměňoval části těl.
+Každé zvíře ale mělo přední část, tělo a zadní část. Najdi největší počet zvířat, které
+mohl takto vytvořit.
+
+(A) 3
+
+(B) 9
+
+(C) 15
+
+(D) 27
+
+(E) 30
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+23. Na obrázku je vyznačeno 16 bodů. V řádcích a sloupcích jsou od sebe
+stejně vzdáleny. Maruška kreslí čtverce tak, že všechny vrcholy jsou
+vyznačené body. Kolik různě velkých čtverců může vytvořit?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+24. Kamarádi Alenka, Bohunka, Šárka, David a Eliška o víkendu pekli sušenky. Během
+celého víkendu upekla Alenka 24 sušenek, Bohunka 25, Šárka 26, David 27 a Eliška
+28. Na konci víkendu měl jeden z kamarádů dvakrát více sušenek než po sobotě,
+jiný měl třikrát více, další čtyřikrát více, další pětkrát více a poslední šestkrát více.
+Kdo upekl v sobotu nejvíc sušenek?
+(A) Alenka
+
+(B) Bohunka
+
+(C) Šárka
+
+21
+
+(D) David
+
+(E) Eliška
+
+Správná řešení soutěžních úloh
+KLOKÁNEK 2015
+
+Úlohy za 3 body
+1 E, 2 A, 3 E, 4 A, 5 E, 6 B, 7 B, 8 A
+Úlohy za 4 body
+9 D, 10 B, 11 C, 12 D, 13 C, 14 C, 15 B, 16 E
+Úlohy za 5 bodů
+17 E, 18 D, 19 D, 20 E, 21 C, 22 D, 23 D, 24 C
+
+22
+
+Výsledky soutěže
+KLOKÁNEK 2015
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+2
+0
+0
+1
+4
+8
+42
+1
+1
+8
+15
+62
+66
+7
+10
+37
+71
+95
+54
+13
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+33
+82
+121
+139
+72
+66
+134
+183
+190
+137
+131
+168
+287
+284
+299
+199
+247
+352
+461
+438
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+418
+411
+493
+576
+674
+608
+665
+705
+823
+887
+861
+839
+972
+1092
+1191
+1186
+1218
+1266
+1355
+1525
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+1574
+1520
+1504
+1655
+1858
+1789
+1825
+1943
+2049
+2149
+2102
+2071
+2200
+2215
+2249
+2163
+2236
+2203
+2239
+2138
+
+celkový počet řešitelů: 96 763
+
+průměrný bodový zisk: 48,2
+
+23
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+2208
+2059
+2114
+2087
+2109
+1872
+1793
+1787
+1848
+1652
+1565
+1417
+1431
+1364
+1209
+1030
+1178
+958
+852
+696
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+562
+513
+483
+453
+300
+228
+229
+210
+132
+62
+95
+80
+62
+26
+18
+27
+26
+8
+8
+10
+35
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Klokánek z tabulky „Výsledky soutěže“
+
+30
+
+Klokánek 2015
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+KLOKÁNEK 2015
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Vojtěch Bárta
+Klára Liberdová
+
+5.D FZŠ prof. O.Chlupa PedF UK, Fingerova 2186, 158 00 Praha 13
+5. Jubilejní Masarykova ZŠ a MŠ Sedliště 203, Sedliště, 739 36
+
+25
+
+Matematický KLOKAN 2015
+www.matematickyklokan.net
+
+kategorie Benjamín
+
+Úlohy za 3 body
+
+(B)
+
+(C)
+
+(D)
+
+AN
+OK
+
+(A)
+
+GA
+RO
+
+1. Na deštníku mám shora napsáno slovo KANGAROO tak, jak vidíš
+na obrázku. Na kterém z obrázků (A)–(E) není můj deštník?
+
+(E)
+
+2. Daniel vybarvil 9 čtverečků černou, bílou a šedou barvou tak, jak
+vidíš na obrázku. Vyber nejmenší možný počet čtverečků, které musí
+Daniel přemalovat, aby žádné dva čtverečky se společnou stranou
+nebyly stejné barvy.
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+3. Hodnota kterého zlomku je menší než 2?
+(A)
+
+19
+8
+
+(B)
+
+20
+9
+
+(C)
+
+21
+10
+
+(D)
+
+22
+11
+
+(E)
+
+23
+12
+
+4. Každý čtvereček na obrázku má obsah 4 cm2 . Urči délku zvýrazněné čáry.
+(A) 16 cm
+
+(B) 18 cm
+
+(C) 20 cm
+
+(D) 21 cm
+
+(E) 23 cm
+
+5. Obdélník ABCD se stranou BC délky 1 cm se skládá ze 4
+shodných obdélníků (viz obrázek). Urči délku strany AB.
+(A) 4 cm
+
+(B) 3 cm
+
+(C) 2 cm
+
+(D) 1 cm
+
+D
+
+1 cm
+
+(E) 0,5 cm
+A
+
+26
+
+C
+
+B
+
+6. Kolik váží Dita?
+8 kg
+(A) 2 kg
+
+(B) 3 kg
+
+(C) 4 kg
+
+2 kg
+(D) 5 kg
+
+(E) 6 kg
+
+7. Evička má 4 papírové proužky stejné délky. Dva z nich slepila dohromady s 10cm
+přelepem a získala tak proužek o délce 50 cm (viz obrázek). Ze zbylých dvou proužků
+chce udělat proužek o délce 56 cm. Jak dlouhý bude muset být přelep?
+10 cm
+10 cm
+50 cm
+(A) 4 cm
+
+(B) 6 cm
+
+(C) 8 cm
+
+(D) 10 cm
+
+(E) 12 cm
+
+8. Každá rostlina na Honzově zahrádce má buď pět listů a žádný květ,
+nebo dva listy a jeden květ. Celkem můžeme na Honzově zahrádce
+napočítat 6 květů a 32 listů. Kolik rostlin tam Honza má?
+(A) 10
+
+(B) 12
+
+(C) 13
+
+(D) 15
+
+(E) 16
+
+Úlohy za 4 body
+9. Tomáš použil 6 čtverců o délce strany 1 cm k vytvoření obrazce, který
+vidíš na obrázku. Vypočti jeho obvod.
+(A) 9 cm
+
+(B) 10 cm
+
+(C) 11 cm
+
+(D) 12 cm
+
+(E) 13 cm
+
+10. Anička si každý den zapisuje datum. Ze zapsaných čísel si dělá „ciferný součet“ dle
+následujícího vzoru: 19. březen si zapíše jako 19. 3. a sečte 1 + 9 + 3 = 13. Kolik je
+největší součet zapsaný během roku?
+(A) 14
+
+(B) 43
+
+(C) 16
+
+(D) 23
+
+(E) 20
+
+11. Na kterém obrázku není síť pravidelného čtyřbokého jehlanu?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+27
+
+(E)
+
+12. V Klokaní ulici stojí v řadě za sebou 9 domů. Každý z domů je obydlený a bydlí
+v něm alespoň jeden člověk. Je zajímavé, že ve dvou sousedních domech bydlí vždy
+dohromady nejvýše 6 lidí. Urči nejvyšší možný počet lidí, kteří mohou v ulici bydlet.
+(A) 23
+
+(B) 25
+
+(C) 27
+
+(D) 29
+
+(E) 31
+
+13. Lucie i její matka Marie se narodily v lednu. Dnes, 19. března 2015, se rozhodla
+Lucie sestavit zajímavý příklad. Sečte svůj rok narození s rokem narození své
+matky a k výsledku ještě přičte svůj věk a věk matky. Kolik bude výsledek?
+(A) 4028
+
+(B) 4029
+
+(C) 4030
+
+(D) 4031
+
+14. Na obrázku vidíš ornament složený z jednobarevných
+tyčinek. Tyčinky jsou modré, zelené a červené. Ve
+všech trojúhelnících má každá strana jinou barvu.
+Kterou barvu má tyčinka označená otazníkem?
+
+(E) 4032
+?
+
+modrá
+
+červená červená
+(A) jen modrou
+(B) jen červenou
+(C) jen zelenou
+(D) modrou nebo červenou (E) barvu tyčinky není možné určit
+
+15. Honza má v batohu jablka a hrušky. V batohu jsou 3 zelená jablka, 5 žlutých jablek,
+7 zelených hrušek a 2 žluté hrušky. Honza z batohu vytahuje náhodně jeden kus
+ovoce za druhým. Určete nejmenší možný počet kusů ovoce, který Honza musí
+z batohu vyndat, aby mezi nimi existovalo jablko i hruška stejné barvy.
+(A) 9
+
+(B) 10
+
+(C) 11
+
+(D) 12
+
+(E) 13
+
+16. Představ si novou šachovou ﬁgurku klokana. Klokan se po
+šachovnici pohybuje tak, jak je znázorněno na obrázku:
+3 šachová pole vpřed a 1 bokem. Urči nejmenší počet tahů,
+které potřebuješ k přemístění ﬁgurky klokana ze současné
+pozice na pole A?
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+(E) 6
+
+Úlohy za 5 bodů
+
+17. V šifrovaném výpočtu představují písmena X, Y, Z tři různé číslice. Urči
++
+hodnotu písmene X.
++
+(A) 2
+(B) 3
+(C) 4
+(D) 5
+(E) 6
+
+28
+
+X
+X
+YY
+ZZZ
+
+18. Jana si v obchodě koupila 3 různé čokoládové tyčinky. Za první z nich zaplatila
+polovinu svých peněz a 1 Kč k tomu. Za druhou tyčinku zaplatila polovinu
+zbývajících peněz a 2 Kč k tomu. Za třetí zaplatila polovinu zbývajících peněz a 3 Kč.
+Žádné peníze jí nezbyly. Kolik korun Jana zaplatila celkem?
+(A) 28 Kč
+
+(B) 32 Kč
+
+(C) 34 Kč
+
+(D) 36 Kč
+
+19. Karel má za domácí úkol vytvořit papírový model krychle.
+Nachystal si papírovou síť složenou ze 7 čtverců. Poraď mu,
+který ze čtverců má odstřihnout, aby získal síť krychle.
+(A) jen D
+(D) jen C nebo G
+
+(B) jen G
+(E) jen C nebo D nebo G
+
+(E) 45 Kč
+A B C
+D E F
+
+G
+(C) jen C nebo D
+
+20. Číslo 100 vynásob buď 2, nebo 3. Výsledek potom zvětši o 1, nebo o 2. Nový výsledek
+vyděl buď 3, nebo 4. Dostaneš přirozené číslo. Které?
+(A) 50
+(D) 68
+
+(B) 51
+(C) 67
+(E) hledané číslo není možné určit
+
+21. Ve vlaku z Olomouce do Prahy je zařazeno 8 vagónů. V každém vagónu je stejný
+počet kupé. Michal sedí ve třetím vagónu v 18. kupé za lokomotivou. Jana sedí
+v sedmém vagónu v 50. kupé za lokomotivou. Kolik kupé je v každém z vagónů?
+(A) 7
+
+(B) 8
+
+(C) 9
+
+(D) 10
+
+(E) 12
+
+22. Na obrázku vidíš klokaní hlavolam. Kolika způsoby můžeš 3 klokany umístit do
+čtvercových polí tak, aby nikdy nebyli 2 klokani ve dvou spolu sousedících polích?
+(Do každého pole můžeš umístit nejvýše jednoho klokana.)
+
+(A) 7
+
+(B) 8
+
+(C) 9
+
+(D) 10
+
+(E) 11
+
+23. Na přímce leží 4 body. Vzdálenosti mezi každou možnou dvojicí z těchto bodů jsou:
+2, 3, k, 11, 12, 14. (Vzdálenosti jsou seřazeny podle velikosti.) Urči hodnotu k.
+(A) 5
+
+(B) 6
+
+(C) 7
+
+(D) 8
+
+(E) 9
+
+24. Boris slepil z malých krychlí o hraně 1 cm velkou krychli s hranou 4 cm. Potom
+3 stěny krychle natřel červenou barvou a zbývající 3 stěny barvou modrou. Když
+práci dokončil, zjistil, že žádná z malých krychlí nemá 3 stěny červené. Kolik malých
+krychlí má modré i červené stěny?
+(A) 0
+
+(B) 8
+
+(C) 12
+
+(D) 24
+
+29
+
+(E) 32
+
+Správná řešení soutěžních úloh
+BENJAMÍN 2015
+
+Úlohy za 3 body
+1 C, 2 A, 3 E, 4 B, 5 C, 6 D, 7 A, 8 A
+Úlohy za 4 body
+9 D, 10 E, 11 A, 12 D, 13 C, 14 B, 15 E, 16 B
+Úlohy za 5 bodů
+17 E, 18 C, 19 D, 20 C, 21 B, 22 D, 23 E, 24 D
+
+30
+
+Výsledky soutěže
+BENJAMÍN 2015
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+18
+X
+X
+2
+7
+36
+25
+1
+4
+19
+31
+36
+24
+14
+22
+41
+51
+40
+26
+43
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+67
+73
+77
+65
+64
+108
+109
+104
+108
+128
+129
+150
+133
+180
+168
+183
+201
+235
+233
+286
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+278
+277
+326
+330
+355
+366
+364
+420
+439
+480
+440
+517
+533
+608
+620
+579
+645
+661
+771
+739
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+816
+850
+863
+884
+952
+981
+969
+1060
+1100
+1114
+1217
+1078
+1231
+1271
+1259
+1284
+1357
+1383
+1343
+1468
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 71 120
+
+průměrný bodový zisk: 43,2
+
+31
+
+1470
+1496
+1545
+1551
+1548
+1561
+1619
+1570
+1548
+1566
+1480
+1534
+1470
+1382
+1313
+1331
+1454
+1168
+1129
+982
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+993
+907
+732
+643
+601
+564
+494
+400
+274
+236
+301
+256
+131
+61
+82
+87
+92
+10
+7
+9
+54
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Benjamín z tabulky „Výsledky soutěže“
+
+30
+
+Benjamín 2015
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+BENJAMÍN 2015
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Jan Adámek
+Petr Augustin
+Štěpán Bartoš
+Adam Blažek
+Ondřej Dacík
+Petr Dosedla
+Martin Fof
+Petr Hrdina
+Jakub Kislinger
+Jan Kokert
+Filip Máca
+Magdaléna Mišinová
+Jakub Petr
+Adéla Pokorná
+Anna Salavcová
+Michal Šíma
+Marek Štefánik
+Václav Trpiškovský
+
+Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+Gymnázium, Jírovcova 8, 371 61 České Budějovice
+ZŠ Majakovského 2219, 734 01 Karviná
+Gymnázium, Plzeň, Mikulášské nám.23, 326 00 Plzeň
+Gymnázium Uherské Hradiště,Velehradská tř. 218, 686 17
+2OA
+Uherské Hradiště
+prima
+Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+1.A
+Mendelovo gymnázium, Komenského 5 , 746 01 Opava
+1.M
+Gym. Christiana Dopplera, Zborovská 45, 150 00, Praha 5
+Gymnázium J.Vrchlického, Národních mučedníků 347, 339 01
+SA
+Klatovy
+6.A
+Mírová 2743/4,Ústí nad Labem 400 11
+sekunda Gymnázium JB, Talichova 824 Beroun
+sekunda Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+sekunda Gymnázium Jana Keplera, Parléřova 2, 169 00 Praha 6
+sekunda Gymnázium Říčany, Komenského nám. 1/1280
+I.A
+Gymnázium, Žitavská 2969,470 01 Česká Lípa
+2.O
+Gymnázium, Komenského 147, 396 01 Humpolec
+sekunda Masarykovo Gymnázium Příbor, p.o. Jičínská 528, 742 58 Příbor
+sekunda A Open Gate, Babice
+sekunda
+2.E
+7.B
+2.E
+
+33
+
+Matematický KLOKAN 2015
+www.matematickyklokan.net
+
+kategorie Kadet
+
+Úlohy za 3 body
+
+1. Čtyři shodné malé obdélníky jsou spojeny tak, že dohromady tvoří jeden velký obdélník, jak je vidět na obrázku.
+Kratší strana velkého obdélníku má délku 10 cm. Kolik
+měří delší strana velkého obdélníku?
+(A) 10 cm
+
+(B) 20 cm
+
+(C) 30 cm
+
+10 cm
+
+(D) 40 cm
+
+(E) 50 cm
+
+2. Je dán trojúhelník se stranami délek 6 cm, 10 cm a 11 cm a rovnostranný
+trojúhelník, jehož obvod je roven obvodu prvního trojúhelníku. Určete délku strany
+tohoto rovnostranného trojúhelníku.
+(A) 18 cm
+
+(B) 11 cm
+
+(C) 10 cm
+
+(D) 9 cm
+
+(E) 6 cm
+
+3. Na obrázku je síť krychle s očíslovanými stěnami. Saša sečte čísla
+na každých dvou protějších stěnách. Které tři součty dostane?
+(A) 4, 6, 11 (B) 4, 6, 10 (C) 5, 6, 10 (D) 5, 7, 9
+
+5
+1
+
+2
+
+3
+
+(E) 5, 8, 8
+
+4
+
+6
+
+4. Cyklista jede rychlostí 5 metrů za sekundu. Obvod každého z kol jeho jízdního kola
+je 125 centimetrů. Kolik celých otáček učiní každé kolo během 5 sekund?
+(A) 4
+
+(B) 5
+
+(C) 10
+
+(D) 20
+
+(E) 25
+V
+Y
+
+X
+
+P
+
+Q
+
+W
+
+U
+
+5. Na obrázku je síť trojbokého hranolu. Která z jeho hran se
+shoduje s hranou UV, když tento hranol složíme?
+(A) VW
+
+(B) XW
+
+(C) XY
+
+(D) QR
+
+(E) RS
+S
+R
+
+34
+
+T
+
+6. Na obrázku jsou slovy označeny barvy některých úseček ornamentu tvořeného trojúhelníky. Luis chce obarvit všechny ostatní
+úsečky buď červeně, nebo modře, nebo zeleně tak, aby všechny trojúhelníky měly
+každou ze stran jiné barvy. Kterou barvu
+použije na úsečku x?
+(A) pouze zelenou
+(C) pouze modrou
+(E) úloha nemá řešení
+
+zelená
+
+modrá
+
+zelená
+
+x
+
+modrá
+
+(B) pouze červenou
+(D) buď červenou, nebo modrou
+
+7. Ve třídě se žádní dva chlapci nenarodili ve stejný den v týdnu a žádné dvě dívky
+se nenarodily ve stejný měsíc. Pokud by však do této třídy nastoupil nový chlapec
+nebo nová dívka, jedna z uvedených dvou vlastností by přestala platit. Kolik dětí
+je v této třídě?
+(A) 18
+
+(B) 19
+
+(C) 20
+
+(D) 24
+
+(E) 25
+
+8. Správným sečtením délek tří stran obdélníku dospěla Iva k hodnotě 44 cm. Také
+Jana správně sečetla délky tří stran téhož obdélníku a vyšlo jí 40 cm. Kolik je jeho
+obvod?
+(A) 42 cm
+
+(B) 56 cm
+
+(C) 64 cm
+
+(D) 84 cm
+
+(E) 112 cm
+
+Úlohy za 4 body
+
+9. Na obrázku jsou tři čtverce, přičemž přímka procházející společnými
+vrcholy spodních čtverců protíná střed horního čtverce. Délky stran
+všech čtverců jsou 1 cm. Vypočtěte obsah tmavé oblasti.
+(A) 43 cm2
+
+(B) 78 cm2
+
+(C) 1 cm2
+
+(D) 1 14 cm2
+
+(E) 1 12 cm2
+
+10. Každou hvězdičku v rovnici 2 ∗ 0 ∗ 1 ∗ 5 ∗ 2 ∗ 0 ∗ 1 ∗ 5 ∗ 2 ∗ 0 ∗ 1 ∗ 5 = 0 nahradíme
+znaménkem + nebo − tak, aby v rovnici platila rovnost. Určete nejmenší počet
+hvězdiček, které musí být nahrazeny znaménkem +.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+11. Během průtrže mračen spadlo 15 litrů vody na m2 . Venkovní bazén nepřetekl.
+O kolik v něm stoupla hladina vody?
+(A) o 150 cm
+(D) o 1,5 cm
+
+(B) o 0,15 cm
+(C) o 15 cm
+(E) záleží na velikosti bazénu
+
+35
+
+12. Studenti dosáhli v testu průměrně 6 bodů. V testu uspělo právě 60 % studentů
+přičemž ti dosáhli průměrně 8 bodů. Vypočítejte průměrný počet bodů u studentů,
+kteří v testu neuspěli.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+13. Jeden vrchol čtverce přeložíme do jeho středu a vytvoříme tak
+nepravidelný pětiúhelník. Obsahy čtverce a pětiúhelníku v cm2 jsou
+vyjádřeny dvěma po sobě jdoucími přirozenými čísly. Určete obsah
+čtverce.
+(A) 2 cm2
+
+(B) 4 cm2
+
+(C) 8 cm2
+
+(D) 16 cm2
+
+(E) 32 cm2
+
+14. Paní učitelka se zeptala pěti svých žáků, kolik z nich se předcházející den učilo.
+Cyril odpověděl, že nikdo, Anežka řekla, že pouze jeden, Eliška tvrdila, že pouze 2,
+Gita sdělila, že pouze 3 a Libor pravil, že pouze 4 žáci. Paní učitelka zjistila, že
+ti, kteří se neučili, neřekli pravdu a naopak ti, kteří se učili, pravdu řekli. Kolik
+z těchto žáků se předcházející den učilo?
+(A) 0
+
+(B) 1
+
+(C) 2
+
+(D) 3
+
+(E) 4
+
+15. Klára správně dělí číslo 2015 po řadě 1, 2, 3 a tak dále až do čísla 1000 včetně.
+U každého dělení si zapíše zbytek. Kolik bude největší zbytek?
+(A) 215
+(D) 1007
+
+(B) 503
+(E) jiná hodnota
+
+(C) 671
+
+16. Každé kladné celé číslo je potřeba obarvit podle tří následujících pravidel:
+– Každé číslo musí být obarveno buď červeně, nebo zeleně.
+– Součet libovolných dvou různých červených čísel je červené číslo.
+– Součet libovolných dvou různých zelených čísel je zelené číslo.
+Kolika různými způsoby můžeme čísla obarvit?
+(A) 0
+
+(B) 2
+
+(C) 4
+
+(D) 6
+
+Úlohy za 5 bodů
+
+17. Ria se chystá napsat číslo do každého ze sedmi ohraničených
+polí. Dvě pole spolu sousedí, pokud spolu sdílejí část hraniční
+křivky. Číslo v každém poli má být součtem čísel všech polí, se
+kterými sousedí. Pokud už Ria zapsala dvě čísla, jak je vidět
+na obrázku, které číslo zapíše do prostředního pole označeného
+otazníkem?
+(A) 1
+
+(B) −2
+
+(C) 6
+
+(D) −4
+
+36
+
+(E) 0
+
+(E) více než 6
+
+18. Na pěti kartách je napsáno po jednom kladném celém číslu (ne nutně různém). Petr
+zjistil, že pokud sečte obě čísla na kartách ve všech možných dvojicích utvořených
+z těchto pěti karet, dostane jen některou ze tří hodnot 57, 70 a 83. Které je největší
+číslo napsané na kartách?
+(A) 35
+
+(B) 42
+
+(C) 48
+
+(D) 53
+
+(E) 82
+2 cm2
+
+a
+19. Čtverec na obrázku o obsahu 30 cm2 je úhlopříčkou
+rozdělen na dvě části, které jsou dále rozděleny na trojúhelníky. Na obrázku rovněž vidíte obsahy některých
+z nich. Která z vyznačených částí úhlopříčky je nejdelší?
+(A) a
+
+(B) b
+
+(C) c
+
+(D) d
+
+bc
+
+b
+bc
+
+5 cm
+
+2
+
+c
+
+9 cm2
+bc
+
+d
+
+(E) e
+
+bc
+
+4 cm2
+
+e
+
+20. Ve skupině klokanů hmotnost dvou nejlehčích tvoří 25 % hmotnosti celé této
+skupiny a hmotnost tří nejtěžších tvoří 60 % hmotnosti skupiny. Kolik klokanů
+je ve skupině?
+(A) 5
+
+(B) 6
+
+(C) 7
+
+(D) 8
+
+(E) 9
+
+21. Kamil má sedm kousků drátu o délkách 1 cm, 2 cm, 3 cm, 4 cm, 5 cm,
+6 cm a 7 cm. Některé z těchto kousků použije k vytvoření drátěné
+modelu krychle o hranách délky 1 cm bez jakýchkoli překrytí. Určete
+nejmenší počet kousků, které může Kamil použít.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+
+22. V lichoběžníku PQRS se základnami PQ a SR je velikost úhlu RSP 120◦ a platí, že
+|RS| = |SP| = 13 |PQ|. Vypočítejte velikost úhlu PQR.
+(A) 15◦
+
+(B) 22,5◦
+
+(C) 25◦
+
+(D) 30◦
+
+(E) 40◦
+
+23. Na přímce leží pět bodů. Alex změřil vzdálenosti mezi každou dvojicí bodů a seřadil
+je vzestupně: 2 cm, 5 cm, 6 cm, 8 cm, 9 cm, k cm, 15 cm, 17 cm, 20 cm a 22 cm. Určete
+k.
+(A) 10
+
+(B) 11
+
+(C) 12
+
+(D) 13
+
+(E) 14
+
+24. Včera jsem si zapsal telefonní číslo svého přítele Emila. Telefonní číslo na mém
+lístečku má šest číslic, ale vzpomínám si, že Emilovo číslo má číslic sedm. Vůbec si
+nevzpomínám, kterou z číslic jsem zapomněl napsat ani kde se v telefonním čísle
+nacházela. Najděte nejmenší možný počet různých telefonních čísel, které budu
+muset zkusit, abych měl jistotu, že mezi nimi je správné telefonní číslo. (Telefonní
+číslo může začínat jakoukoli číslicí včetně 0.)
+(A) 55
+
+(B) 60
+
+(C) 64
+
+(D) 70
+
+37
+
+(E) 80
+
+Správná řešení soutěžních úloh
+
+KADET 2015
+
+Úlohy za 3 body
+1 B, 2 D, 3 A, 4 D, 5 C, 6 A, 7 B, 8 B
+Úlohy za 4 body
+9 C, 10 B, 11 D, 12 C, 13 C, 14 B, 15 C, 16 D
+Úlohy za 5 bodů
+17 C, 18 C, 19 D, 20 B, 21 D, 22 D, 23 E, 24 C
+
+38
+
+Výsledky soutěže
+
+KADET 2015
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+0
+X
+X
+0
+0
+1
+0
+0
+0
+1
+2
+2
+0
+0
+1
+3
+1
+3
+0
+3
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+5
+6
+4
+2
+3
+6
+13
+21
+11
+13
+13
+24
+21
+27
+24
+30
+45
+49
+53
+57
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+69
+58
+86
+88
+107
+98
+105
+143
+168
+165
+199
+187
+217
+234
+262
+296
+319
+353
+376
+433
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+473
+477
+622
+625
+665
+727
+797
+837
+978
+1028
+1030
+1183
+1237
+1278
+1379
+1453
+1535
+1609
+1684
+1648
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 64 074
+
+průměrný bodový zisk: 38,4
+
+39
+
+1824
+1835
+1957
+1888
+1994
+1896
+1941
+1980
+1860
+1888
+1790
+1793
+1683
+1525
+1524
+1417
+1355
+1186
+1022
+959
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+871
+792
+601
+498
+442
+411
+353
+238
+156
+138
+151
+138
+78
+30
+48
+38
+54
+17
+9
+7
+15
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Kadet z tabulky „Výsledky soutěže“
+
+30
+
+Kadet 2015
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+KADET 2015
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 115 b
+Radek Olšák
+
+kvarta Španielova 1111/19, 163 00 Praha 6
+
+41
+
+Matematický KLOKAN 2015
+www.matematickyklokan.net
+
+kategorie Junior
+
+Úlohy za 3 body
+
+1. Maminka vyprala a pověsila trička na šňůru. Poté děti pověsily vždy mezi každá
+dvě trička jednu ponožku. Na šňůře visí 29 kusů oblečení. Kolik z nich je triček?
+(A) 10
+
+(B) 11
+
+(C) 13
+
+(D) 14
+
+(E) 15
+
+2. Obarvená část čtverce o straně a je ohraničena polokružnicí
+a dvěma čtvrtkružnicemi. Jaká je plocha obarvené části?
+(A) 18 πa2
+
+(B) 12 πa2
+
+(C) 14 a2
+
+(D) 14 πa2
+
+(E) 12 a2
+
+3. Které z následujících čísel není ani druhou, ani třetí mocninou některého
+přirozeného čísla?
+(A) 613
+
+(B) 512
+
+(C) 411
+
+(D) 310
+
+(E) 29
+
+4. Tři sestry Anna, Julie a Lucie si koupily balení 30 sušenek, každá si jich vzala
+10. Anna však zaplatila 80 centů, Julie 50 a Lucie 20. Kdyby si sušenky rozdělily
+poměrově podle peněz, které zaplatily, kolik sušenek by měla Anna ještě dostat?
+(A) 6
+
+(B) 7
+
+(C) 8
+
+(D) 9
+
+(E) 10
+
+5. Pan Hide chce vykopat poklad, který kdysi zakopal na své zahradě. Pamatuje si
+však pouze, že poklad zakopal alespoň 5 m od plotu a nejvýše 5 m od staré hrušně.
+Na kterém z následujících obrázků je vyšrafována oblast, v níž by měl pan Hide
+hledat poklad?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+6. Urči poslední číslici součtu 20152 + 20150 + 20151 + 20155 .
+(A) 1
+
+(B) 5
+
+(C) 6
+
+(D) 7
+
+42
+
+(E) 9
+
+7. Pan Svíce si koupil 100 svíček. Každý den zapálí jednu a její nevyhořelý zbytek si
+schová. Z každých sedmi zbytků si vyrobí jednu novou svíčku. Kolik dní mu svíčky
+vydrží?
+(A) 112
+
+(B) 114
+
+(C) 115
+
+(D) 116
+
+(E) 117
+
+8. Číslo n udává počet pravých úhlů v konvexním pětiúhelníku. Vyber úplný seznam
+možných hodnot n.
+(A) 1, 2, 3
+(D) 0, 1, 2
+
+(B) 0, 1, 2, 3, 4
+(E) 1, 2
+
+(C) 0, 1, 2, 3
+
+Úlohy za 4 body
+
+Start
+9. Délka strany jednoho čtverečku je 1 (viz obrázek). Urči délku
+nejkratší cesty ze startu do cíle, pokud se můžeš pohybovat pouze
+po stranách či úhlopříčkách jednotlivých čtverečků.
+√
+√
+√
+√
+(B) 10 +√ 2
+(C) 4 2
+(A) 2 5
+(D) 6
+(E) 2 + 2 2
+
+b
+
+b
+
+Cíl
+
+10. Dnes mají otec i syn narozeniny. Součin věku otce a věku syna je 2015. Jaký je
+rozdíl jejich věků?
+(A) 26
+
+(B) 29
+
+(C) 31
+
+(D) 34
+
+(E) 36
+
+11. Každý obyvatel Wingrovy planety má alespoň dvě uši. Tři obyvatelé Imi, Dimi a
+Trimi se sešli v jednom z kráterů. Imi řekl: „Vidím 8 uší.“ Dimi: „Vidím 7 uší.“
+Trimi: „To je divné, já vidím jen 5 uší.“ Nikdo z nich si nevidí vlastní uši. Kolik uší
+má Trimi?
+(A) 2
+
+(B) 4
+
+(C) 5
+
+(D) 6
+
+(E) 7
+
+12. Hranol se čtvercovou podstavou o straně 10 cm je naplněn vodou do výšky h. Dovnitř
+vložíme kovovou kostku o hraně 2 cm. Urči nejnižší výšku hladiny vody h takovou,
+aby byly boční stěny kostky úplně ponořeny.
+(A) 1,92 cm
+
+(B) 1,93 cm
+
+(C) 1,90 cm
+
+43
+
+(D) 1,91 cm
+
+(E) 1,94 cm
+
+G
+
+D
+13. Obsah čtverce ABCD je 80. Body E, F, G a H leží na
+stranách čtverce (viz obrázek) a platí |AE| = |BF| =
+= |CG| = |DH| a |EB| = 3|AE|. Vypočítej obsah obarvené
+plochy.
+(A) 20
+
+(B) 25
+
+(C) 30
+
+(D) 35
+
+C
+
+H
+
+F
+
+(E) 40
+A
+
+E
+
+B
+
+14. Jestliže jsou řešením rovnice x2 − 85x + c = 0 dvě různá prvočísla, urči ciferný součet
+čísla c.
+(A) 13
+
+(B) 14
+
+(C) 15
+
+(D) 17
+
+(E) 21
+
+15. Kolik existuje trojmístných přirozených čísel takových, že každé dvě sousední číslice
+se liší o 3?
+(A) 12
+
+(B) 14
+
+(C) 16
+
+(D) 20
+
+(E) 27
+
+16. Petra má na poličce tři různé slovníky a dva různé romány. Kolika způsoby může
+knihy seřadit tak, aby všechny slovníky byly vedle sebe a oba romány také?
+(A) 12
+
+(B) 24
+
+(C) 30
+
+(D) 60
+
+(E) 120
+
+Úlohy za 5 bodů
+
+17. Mirek má do každého prázdného políčka na obrázku vepsat číslo
+tak, aby v něm byla hodnota součtu čísel v sousedních políčkách.
+Určete číslo v políčku označené otazníkem. (Políčka nazveme
+sousední právě tehdy, když jejich hranice mají více než jeden
+společný bod.)
+(A) 0
+
+(B) −3
+
+(C) 3
+
+(D) −6
+
+(E) 6
+
+18. Kolik dvoumístných čísel můžeme napsat jako součet právě šesti různých celých
+nezáporných mocnin čísla 2.
+(A) 0
+
+(B) 1
+
+(C) 2
+
+(D) 3
+
+44
+
+(E) 4
+
+19. V trojúhelníku ABC je narýsována úsečka
+rovnoběžná se základnou AB s krajním
+bodem X, resp. Y (viz obrázek). Víme,
+že obarvené plochy mají stejný obsah
+a |CX| : |XA| = 4 : 1. Vypočítej |CY| : |YA|.
+(A) 1 : 1
+(D) 3 : 2
+
+(B) 2 : 1
+(E) 4 : 3
+
+C
+
+C
+Y
+
+X
+
+(C) 3 : 1
+A
+
+B
+
+A
+
+B
+
+20. Je dán pravoúhlý trojúhelník. Osa jednoho z ostrých úhlů protíná protější stranu
+v bodě D, který stranu rozdělí na dvě úsečky délek 2 a 1. Urči vzdálenost vrcholu
+tohoto úhlu od bodu D.
+√
+√
+√
+√
+√
+(A) 2
+(B) 3
+(C) 4
+(D) 5
+(E) 6
+21. Pokud z posloupnosti čísel 1, 2, 3, . . . , n − 1, n odstraníme jedno číslo, aritmetický
+průměr zbývajících čísel bude 4,75. Které číslo máme odstranit?
+(A) 5
+(D) 9
+
+(B) 7
+(C) 8
+(E) nelze jednoznačně určit
+
+22. Ferda Mravenec stojí na vrcholu drátěného modelu krychle s hranou délky 1. Chce
+projít všechny hrany krychle a vrátit se na původní vrchol. Najdi nejkratší délku
+takové cesty.
+(A) 12
+
+(B) 14
+
+(C) 15
+
+(D) 16
+
+(E) 20
+
+23. Uvažujme deset libovolných navzájem různých čísel. Pokud je mezi nimi číslo, které
+je rovno součinu zbývajících devíti, podtrhneme ho. Urči nejvyšší počet podtržených
+čísel v jednom takovém souboru deseti čísel.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 9
+
+(E) 10
+
+24. Na přímce bylo modře vyznačeno několik bodů. Uvažujme všechny možné úsečky
+s modrými krajními body. Víme, že jeden z modrých bodů je vnitřním bodem 80
+úseček a jiný je vnitřním bodem 90 úseček. Kolik modrých bodů bylo na přímce?
+(A) 20
+
+(B) 22
+
+(C) 80
+
+(D) 90
+
+45
+
+(E) nelze určit
+
+Správná řešení soutěžních úloh
+
+JUNIOR 2015
+
+Úlohy za 3 body
+1 E, 2 E, 3 A, 4 A, 5 E, 6 C, 7 D, 8 C
+Úlohy za 4 body
+9 E, 10 D, 11 C, 12 A, 13 B, 14 A, 15 D, 16 B
+Úlohy za 5 bodů
+17 A, 18 C, 19 D, 20 C, 21 B, 22 D, 23 B, 24 B
+
+46
+
+Výsledky soutěže
+
+JUNIOR 2015
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+5
+X
+X
+0
+0
+2
+6
+0
+1
+1
+1
+2
+2
+1
+0
+1
+3
+3
+2
+2
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+3
+5
+7
+10
+7
+9
+5
+12
+9
+11
+13
+13
+17
+16
+15
+21
+16
+30
+23
+33
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+34
+37
+31
+44
+42
+55
+53
+84
+77
+76
+79
+82
+115
+113
+135
+131
+150
+149
+154
+181
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+189
+198
+229
+219
+231
+259
+282
+249
+332
+340
+343
+353
+366
+362
+417
+375
+397
+443
+452
+425
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+celkový počet řešitelů: 15 559
+
+průměrný bodový zisk: 43,8
+
+47
+
+436
+441
+428
+433
+426
+412
+380
+354
+354
+310
+313
+292
+288
+271
+253
+225
+210
+161
+142
+134
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+119
+100
+87
+74
+51
+56
+44
+36
+32
+16
+26
+11
+13
+9
+9
+6
+6
+5
+2
+2
+2
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Junior z tabulky „Výsledky soutěže“
+
+30
+
+Junior 2015
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+JUNIOR 2015
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Filip Bialas
+Aleš Krč
+Jan Petr
+Pavel Turek
+Martin Vláčil
+
+6.E
+2.A
+sexta
+VI.A8
+4.K
+
+Gymnázium Opatov, Konstantinova 1500, 149 00 Praha 4
+Gymnázium, Komenského 147, 396 01 Humpolec
+Gymnázium Jana Kleplera, Parléřova 2, 169 00 Praha 6
+Gymnázium Hejčín, Tomkova 45, 779 00 Olomouc
+Arcibiskupské gymnázium, Pilařova 3, 767 01 Kroměříž
+
+49
+
+Matematický KLOKAN 2015
+www.matematickyklokan.net
+
+kategorie Student
+
+Úlohy za 3 body
+1. Co získáme úpravou výrazu (a − b)5 + (b − a)5 pro libovolná reálná čísla a, b?
+(B) 2(a − b)5
+(C) 2a5 − 2b5
+(E) 2a5 + 10a4 b + 20a3 b2 + 20a2 b3 + 10ab4 + 2b5
+
+(A) 0
+(D) 2a5 + 2b5
+
+2. Kolik řešení v oboru reálných čísel má rovnice 22x = 4x+1 ?
+(A) 0
+(D) 3
+
+(B) 1
+(E) nekonečně mnoho
+
+(C) 2
+
+3. Dana zaznamenala do sloupcového grafu (vpravo) počty čtyř
+druhů stromů nalezených při biologické vycházce. Jarda si
+myslí, že koláčový graf lépe znázorní četnost jejich výskytu.
+Který z grafů má Jarda nakreslit?
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+4. Sečteme všechna přirozená čísla od 2001 do 2031 a výsledek vydělíme 31. Které
+číslo dostaneme?
+(A) 2012
+
+(B) 2013
+
+(C) 2015
+
+(D) 2016
+
+5. Čtvercový list papíru na obrázku složíme nějakým způsobem po vyznačených čarách. Z výsledného čtverečku odstřihneme právě jeden vrchol a list opět rozložíme. Kolik
+děr bude uvnitř papíru?
+(A) 0
+
+(B) 1
+
+(C) 2
+
+(D) 4
+
+(E) 2496
+
+⇒
+
+(E) 9
+
+6. V osudí je 2015 míčků očíslovaných čísly 1, 2, . . . , 2015. Míčky, na kterých jsou čísla
+se stejným součtem číslic, mají stejnou barvu. Pokud jsou součty číslic na dvou
+míčcích různé, mají tyto míčky různé barvy. Kolika různými barvami jsou míčky
+v osudí označeny?
+(A) 10
+
+(B) 27
+
+(C) 28
+
+(D) 29
+
+50
+
+(E) 2015
+
+7. Na obrázku jsou nad stranami pravoúhlého trojúhelníku
+sestrojeny tři polokruhy s obsahy X cm2 , Y cm2 a Z cm2 . Který
+z následujících výroků je vždy pravdivý?
+√
+√
+√
+(A) X + Y < Z
+(B) X + Y = Z (C) X 2 + Y 2 = Z2
+(D) X 2 + Y 2 = Z
+(E) X + Y = Z
+
+Z
+Y
+b
+
+X
+
+8. Vyberte odpověď, která udává všechny možné počty ostrých vnitřních úhlů
+v konvexním čtyřúhelníku.
+(A) 0, 1, 2
+
+(B) 0, 1, 2, 3
+
+(C) 0, 1, 2, 3, 4
+
+(D) 0, 1, 3
+
+(E) 1, 2, 3
+
+Úlohy za 4 body
+q
+9. Určete hodnotu (2015 + 2015) + (2015 − 2015) + (2015 · 2015) + (2015 : 2015).
+√
+(B) 2015
+(C) 2016
+(D) 2017
+(E) 4030
+(A) 2015
+10. Na kolik částí rozdělí rovinu osa x spolu s grafy funkcí f (x) = 2 − x2 a g(x) = x2 − 1
+v kartézské soustavě souřadnic?
+(A) 7
+
+(B) 8
+
+(C) 9
+
+(D) 10
+
+(E) 11
+
+11. Geometrický průměr n kladných reálných čísel deﬁnujeme jako n-tou odmocninu
+jejich součinu. Na tabuli je napsáno 6 kladných reálných čísel. Geometrický průměr
+prvních tří je 3, geometrický průměr posledních tří je 12. Kolik je geometrický
+průměr všech čísel na tabuli?
+(A) 4
+
+(B) 6
+
+(C) 15
+2
+
+(D) 15
+6
+
+(E) 36
+
+12. Na obrázku mají všechny tři vyznačené části mezi soustřednými kružnicemi a jejich kolmými průměry stejný obsah.
+Poloměr nejmenší kružnice je přitom 1. Určete součin poloměrů všech tří kružnic na obrázku.
+√
+√
+√
+(A) 6
+(B) 3
+(C) 3 2 3
+(D) 2 2
+(E) 6
+
+13. Autosalon koupil dvě auta. První poté prodal se ziskem 40 % a druhé se ziskem
+60 %. Jeho celkový zisk z prodeje těchto dvou aut byl 54 %. Určete poměr mezi
+nákupními cenami obou vozů.
+(A) 10:13
+
+(B) 20:27
+
+(C) 7:12
+
+51
+
+(D) 2:3
+
+(E) 3:7
+
+14. Standardní kostka má na každé dvojici protějších
+stěn celkem 7 bodů. Na obrázku jsou dvě shodné
+standardní kostky. Kolik bodů je na (skryté) boční
+stěně označené otazníkem?
+(A) právě 5
+(D) buď 1, 2, 3, nebo 5
+
+(B) právě 2
+(E) buď 2, 3, nebo 5
+
+(C) buď 2, nebo 5
+
+15. Najděte první výrok zleva, který je pravdivý.
+(A) „(C) platí“
+
+(B) „(A) platí“
+
+(C) „(E) neplatí“ (D) „(B) neplatí“ (E) „1 + 1 = 2“
+
+16. Na obrázku vidíme tabulku násobení čísel od 1 do
+10. Určete součet všech sta součinů v této tabulce.
+(A) 1000 (B) 2025 (C) 2500 (D) 3025 (E) 5500
+
+×
+1
+2
+..
+.
+
+1
+1
+2
+..
+.
+
+2
+2
+4
+..
+.
+
+3
+3
+6
+..
+.
+
+10
+
+10 20 30 · · · 100
+
+···
+···
+···
+..
+.
+
+10
+10
+20
+..
+.
+
+Úlohy za 5 bodů
+
+17. Kolik existuje pravoúhlých trojúhelníků ABC s pravým úhlem při vrcholu B
+takových, že |AB| = 20 a délky zbývajících stran jsou vyjádřeny přirozenými čísly.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 6
+
+18. Kolik trojmístných čísel můžeme vyjádřit jako součet právě devíti různých
+nezáporných celých mocnin čísla 2.
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5
+M1
+
+D
+19. Uvažujme pravoúhelník ABCD. Označme M1 střed
+úsečky DC, M2 střed úsečky AM1 , M3 střed úsečky
+BM2 a M4 střed úsečky CM3 . Určete poměr obsahů
+čtyřúhelníků M1 M2 M3 M4 a ABCD.
+(A) 3:16
+
+(B) 7:16
+
+(C) 7:32
+
+A
+(D) 9:32
+
+M2
+
+C
+M4
+
+M3
+
+B
+
+(E) 1:5
+
+20. Na tabuli jsou nakresleny červené a modré pravoúhelníky. Právě 7 z nich jsou
+čtverce. Na tabuli je o 3 více červených pravoúhelníků než modrých čtverců. Také
+je tam o 2 více červených čtverců než modrých pravoúhelníků. Kolik modrých
+pravoúhelníků je na tabuli.
+(A) 1
+
+(B) 3
+
+(C) 5
+
+(D) 6
+
+52
+
+(E) 10
+
+21. Kolik typů pravidelných mnohoúhelníků má velikosti vnitřních úhlů ve stupních
+vyjádřeny přirozenými čísly?
+(A) 17
+
+(B) 18
+
+(C) 22
+
+(D) 25
+
+(E) 60
+
+22. Na obrázku je v kartézské soustavě souřadnic množina
+všech bodů (x, y) vyhovujících rovnici
+
+c
+
+(x2 + y2 − 2x)2 = 2(x2 + y2 ).
+
+b
+
+Která z přímek a, b, c, d znázorňuje osu y?
+
+a
+
+(A) a
+(D) d
+
+(B) b
+(E) žádná z nich
+
+d
+
+(C) c
+
+23. 96 členů počtářského klubu vytvořilo velkou kružnici. Jedním směrem se začnou
+odpočítávat 1, 2, 3 atd. Každý člen, který řekne sudé číslo, z kružnice odstoupí.
+Tímto způsobem pokračují dále začínajíce druhé kolo od 97 a skončí, až v kružnici
+zůstane poslední člen. Které číslo řekl tento člen v 1. kole?
+(A) 1
+
+(B) 17
+
+(C) 33
+
+(D) 65
+
+(E) 95
+
+24. Bob a Bobek nahradili ve slově KANGAROO písmena číslicemi tak, že výsledné
+číslo je dělitelné 11. Různá písmena nahradili různými číslicemi, stejná písmena
+nahradili stejnými číslicemi (K 6= 0). Bob takto získal největší možné číslo a Bobek
+nejmenší možné číslo. Přitom oba jedno písmeno nahradili stejnou číslicí. Kterou?
+(A) 0
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+53
+
+(E) 6
+
+Správná řešení soutěžních úloh
+
+STUDENT 2015
+
+Úlohy za 3 body
+1 A, 2 A, 3 E, 4 D, 5 B, 6 C, 7 E, 8 B
+Úlohy za 4 body
+9 C, 10 D, 11 B, 12 A, 13 E, 14 A, 15 D, 16 D
+Úlohy za 5 bodů
+17 D, 18 E, 19 C, 20 B, 21 C, 22 A, 23 D, 24 D
+
+54
+
+Výsledky soutěže
+
+STUDENT 2015
+Tabulka uvádí počty soutěžících, kteří získali příslušný počet bodů.
+
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+
+2
+X
+X
+1
+1
+0
+2
+0
+0
+0
+1
+1
+1
+0
+1
+2
+3
+7
+5
+2
+
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+
+3
+3
+6
+2
+5
+3
+5
+5
+5
+7
+7
+15
+12
+11
+10
+13
+7
+16
+6
+13
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+
+21
+11
+12
+26
+20
+28
+26
+31
+26
+26
+35
+37
+34
+39
+55
+55
+73
+58
+64
+64
+
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+
+92
+92
+77
+100
+111
+109
+106
+110
+117
+134
+138
+151
+181
+179
+173
+181
+170
+198
+220
+204
+
+celkový počet řešitelů: 7 894
+
+průměrný bodový zisk: 41,6
+
+55
+
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+
+222
+218
+223
+255
+213
+213
+245
+201
+154
+204
+196
+188
+180
+162
+131
+134
+143
+123
+115
+83
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+80
+72
+76
+44
+36
+34
+45
+21
+17
+21
+14
+15
+14
+7
+4
+7
+9
+2
+2
+1
+3
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+Graf znázorňuje výsledky v kategorii Student z tabulky „Výsledky soutěže“
+
+30
+
+Student 2015
+
+90
+
+93
+
+96
+
+99 102 105 108 111 114 117 120
+
+Nejlepší řešitelé
+
+STUDENT 2015
+Za chybějící či nesprávně uvedená jména a údaje nezodpovídáme, vycházeli jsme z podkladů
+získaných z jednotlivých škol a v některých případech nebyly dodány kompletní údaje.
+1. místo: 120 b
+Vojtěch Dvořák
+
+G8.A
+
+Gymnázium Jiřího Gutha-Jarkovského, Truhlářská 22,
+110 00 Praha1
+
+Stanislav Kruml
+
+oktáva
+
+Gymnázium, Jiráskova 637, 583 01 Chotěboř
+
+57
+
+58
+
+Garanti kategorií
+Znění úloh podle evropské verze v jednotlivých kategoriích upravili:
+Cvrček
+
+Mgr. Eva Nováková, Ph.D.
+Katedra matematiky Pedagogické fakulty MU
+Poříčí 7, 603 00 BRNO
+e-mail: novakova@ped.muni.cz
+tel.: 549 49 6933
+
+Klokánek
+
+Mgr. Eva Nováková, Ph.D.
+Katedra matematiky Pedagogické fakulty MU
+Poříčí 7, 603 00 BRNO
+e-mail: novakova@ped.muni.cz
+tel.: 549 49 6933
+
+Benjamín
+
+RNDr. Martina Uhlířová, Ph.D.
+Katedra matematiky PdF UP v Olomouci
+Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: martina.uhlirova@upol.cz
+tel.: 585 63 5712
+
+Kadet
+
+Mgr. Jitka Hodaňová, Ph.D.
+Katedra matematiky PdF UP v Olomouci
+Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: jitka.hodanova@upol.cz
+tel.: 585 63 5706
+
+Junior
+
+Mgr. Vladimír Vaněk, Ph.D.
+Katedra algebry a geometrie PřF UP v Olomouci
+17. listopadu 12, 771 46 OLOMOUC
+e-mail: vladimir.vanek@upol.cz
+tel.: 585 63 4645
+
+Student
+
+RNDr. Pavel Calábek, Ph.D.
+Katedra algebry a geometrie PřF UP v Olomouci
+17. listopadu 12, 771 46 OLOMOUC
+e-mail: pavel.calabek@upol.cz
+tel.: 585 63 4642
+
+59
+
+Kontaktní adresa:
+Silvie Zatloukalová
+Katedra algebry a geometrie PřF UP v Olomouci, 17. listopadu 12, 771 46 OLOMOUC
+e-mail: silvie.zatloukalova@upol.cz
+tel.: 58 563 4651
+prof. RNDr. Josef Molnár, CSc.
+Katedra algebry a geometrie PřF UP v Olomouci, 17. listopadu 12, 771 46 OLOMOUC
+e-mail: josef.molnar@upol.cz
+tel.: 58 563 4641
+doc. PhDr. Bohumil Novák, CSc.
+Katedra matematiky PdF UP v Olomouci, Žižkovo nám. 5, 771 40 OLOMOUC
+e-mail: bohumil.novak@upol.cz
+tel.: 58 563 5713
+
+http://matematickyklokan.net
+e-mailová adresa pro korespondenci: soutez@matematickyklokan.net
+
+60
+
+Matematický klokan 2015
+Výkonný redaktor: prof. RNDr. Zdeněk Dvořák, DrSc.
+Odpovědná redaktorka: Mgr. Jana Kreiselová
+Editor: Mgr. Jiří Hátle, Ph.D.
+Vydala a vytiskla Univerzita Palackého v Olomouci
+Křížkovského 8, 771 47 Olomouc
+Olomouc 2015
+1. vydání
+ISBN 978-80-244-4870-1
+Neprodejná publikace
+
+
